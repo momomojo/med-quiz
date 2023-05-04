@@ -1,0 +1,214 @@
+1) Which of the following best describes the difference between an opioid and an opiate?
+A) Opioids are synthetic, while opiates are naturally derived.
+B) Opioids are derived from opium, while opiates activate opioid receptors.
+C) Opioids activate opioid receptors, while opiates are derived from opium.
+D) There is no difference between opioids and opiates.
+
+2) What are the natural peptide activators of opioid receptors?
+A) Opiates
+B) Enkephalins
+C) Dysnorphins
+D) Endorphins
+
+3) Which of the following receptors are associated with analgesia, miosis, respiratory depression, euphoria, and dependence?
+A) Mu receptors
+B) Delta receptors
+C) Kappa receptors
+D) Sigma receptors
+
+4) Which opioid receptor is associated with convulsions?
+A) Mu receptors
+B) Delta receptors
+C) Kappa receptors
+D) Sigma receptors
+
+5) What is the primary effect of opioid receptor activation on the nervous system?
+A) Increases neurotransmitter release
+Bases neurotransmitter release
+C) Increases neuronal excitability
+D) Decreases neuronal excitability
+
+6) Which of the following is NOT a central nervous system (CNS) effect of opioids?
+A) Analgesia
+B) Euphoria
+C) Miosis
+D) Constipation
+
+7) Which opioid effect does not develop tolerance over time?
+A) Analgesia
+B) Euphoria
+C) Miosis
+D) Respiratory depression
+
+8) What is the treatment for acute opioid intoxication?
+A) Methadone
+B) Naloxone
+C) Buprenorphine
+D) Naltrexone
+
+9) Which medication is used for maintenance therapy in opioid withdrawal treatment?
+A) Methadone
+B) Naloxone
+C) Buprenorphine
+D) Naltrexone
+
+10) Which of the following opioids has anticholinergic effects?
+A) Morphine
+B) Fentanyl
+C) Meperidine
+D) Tramadol
+
+11) What is the active metabolite of meperidine that can cause convulsions in overdose?
+A) M-6-glucuronide
+B) Normeperidine
+C) 6-monoacetyl morphine
+D) Hydromorphone
+
+12) Which of the following opioids is NOT mediated by opioid receptors?
+A) Morphine
+B) Fentanyl
+C) Meperidine
+D) Dextromethorphan
+
+13) Loperamide and Diphenoxylate are insoluble meperidine derivatives commonly used to treat which condition?
+A) Cough
+B) Diarrhea
+C) Acute pulmonary edema
+D) Shivering
+
+14) Which of the following opioids is associated with QT prolongation at high doses?
+A) Morphine
+B) Fentanyl
+C) Meperidine
+D) Methadone
+Here are 16 additional questions to bring the total to 30 multiple-choice questions, ensuring that all the material from the .txt file is covered at least once:
+
+15) Which of the following is a primary effect of opioid receptor activation on the presynaptic nerve?
+A) Opens Ca2+ channels
+B) Closes Ca2+ channels
+C) Opens K+ channels
+D) Closes K+ channels
+
+16) Which opioid is most commonly associated with the risk of bacteremia, Hepatitis B/C, and HIV due to dirty needle use?
+A) Morphine
+B) Fentanyl
+C) Heroin
+D) Codeine
+
+17) Which of the following opioids is 100-1000 times more potent than morphine?
+A) Fentanyl
+B) Meperidine
+C) Tramadol
+D) Methadone
+
+18) Which of the following medications is used in the treatment of opioid withdrawal and is combined with naloxone to prevent abuse?
+A) Methadone
+B) Naltrexone
+C) Buprenorphine
+D) Naloxone
+
+19) Which opioid is commonly used to treat cough suppression?
+A) Morphine
+B) Codeine
+C) Fentanyl
+D) Meperidine
+
+20) What is the clinical use of loperamide?
+A) Pain control
+B) Cough suppression
+C) Treatment of diarrhea
+D) Treatment of shivering
+
+21) Which of the following opioids has poor oral bioavailability and is typically given intramuscularly?
+A) Morphine
+B) Fentanyl
+C) Meperidine
+D) Methadone
+
+22) Which of the following opioids is also used for restless leg syndrome, fibromyalgia, acid reflux, and premature ejaculation?
+A) Morphine
+B) Fentanyl
+C) Meperidine
+D) Tramadol
+
+23) Which of the following is an active metabolite of heroin?
+A) M-6-glucuronide
+B) Normeperidine
+C) 6-monoacetyl morphine
+D) Hydromorphone
+
+24) Which opioid is commonly used to treat acute pulmonary edema?
+A) Morphine
+B) Codeine
+C) Fentanyl
+D) Meperidine
+
+25) What is the primary effect of opioid receptor activation on the postsynaptic nerve?
+A) Opens Ca2+ channels
+B) Closes Ca2+ channels
+C) Opens K+ channels
+D) Closes K+ channels
+
+26) Which of the following medications is a long-acting opioid antagonist used to prevent relapse and also used in alcohol abuse treatment?
+A) Methadone
+B) Naltrexone
+C) Buprenorphine
+D) Naloxone
+
+27) Which opioid is used for the treatment of shivering?
+A) Morphine
+B) Codeine
+C) Fentanyl
+D) Meperidine
+
+28) Which of the following is an active metabolite of oxycodone?
+A) M-6-glucuronide
+B) Normeperidine
+C) 6-monoacetyl morphine
+D) Oxymorphone
+
+29) Which of the following opioids has a mixed agonist-antagonist mechanism of action?
+A) Morphine
+B) Buprenorphine
+C) Fentanyl
+D) Tramadol
+
+30) Which of the following is an active metabolite of hydrocodone?
+A) M-6-glucuronide
+B) Normeperidine
+C) 6-monoacetyl morphine
+D) Hydromorphone
+
+Answer Key:
+
+
+1) C
+2) D
+3) A
+4) B
+5) B
+6) D
+7) C
+8) B
+9) A
+10) C
+11) B
+12) D
+13) B
+14) D
+15) B
+16) C
+17) A
+18) C
+19) B
+20) C
+21) A
+22) D
+23) C
+24) A
+25) C
+26) B
+27) D
+28) D
+29) B
+30) D

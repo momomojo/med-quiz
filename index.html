@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz</title>
+  <style>
+    .correct {
+      background-color: green;
+    }
+    
+    .incorrect {
+      background-color: red;
+    }
+  </style>
+</head>
+<body>
+  <p id="question"></p>
+  <div class="choice-container">
+    <button class="choice-text" data-number="1"></button>
+    <button class="choice-text" data-number="2"></button>
+    <button class="choice-text" data-number="3"></button>
+    <button class="choice-text" data-number="4"></button>
+  </div>
+  <p id="progress-text"></p>
+  <div id="progress-bar-full"></div>
+  <p id="score-screen"></p>
+  <button id="start-button" style="display:none;">Start another quiz</button>
+  <button id="quiz1-button">Take Quiz 1</button>
+  <button id="quiz2-button">Take Quiz 2</button>
+  <!-- Add more buttons for additional quizzes -->
+  <script src="quiz.js"></script>
+</body>
+</html>
