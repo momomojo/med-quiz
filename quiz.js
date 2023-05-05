@@ -19,16 +19,21 @@ document.addEventListener('DOMContentLoaded', async () => {
     function showQuestion() {
       const questionData = quizData[currentQuestion];
       questionElement.textContent = questionData.question;
-
+    
       choicesContainer.innerHTML = '';
-
+    
       questionData.choices.forEach((choice, index) => {
         const button = document.createElement('button');
         button.textContent = choice;
         button.onclick = () => handleAnswerClick(index);
+            
+        // Add a class to each choice button
+        button.classList.add('quiz-button');
+            
         choicesContainer.appendChild(button);
       });
-    }
+    }    
+    
 
     function handleAnswerClick(selectedIndex) {
       answeredQuestions.push({
@@ -51,17 +56,19 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
     
     function showResults() {
-      console.log('Showing results');
-      console.log('Answered questions:', answeredQuestions);
-    
       questionElement.style.display = 'none';
       choicesContainer.style.display = 'none';
-      resultsContainer.innerHTML = `You scored ${correctAnswers} out of ${quizData.length} (${Math.round((correctAnswers / quizData.length) * 100)}%)<br><br>`;
+    
+      resultsContainer.innerHTML = `
+        <h2>You scored:</h2>
+        <h1>${correctAnswers} out of ${quizData.length}</h1>
+        <h3>(${Math.round((correctAnswers / quizData.length) * 100)}%)</h3><br>
+      `;
+    
       resultsContainer.style.display = 'block';
       restartButton.style.display = 'block';
     
       const wrongAnswers = answeredQuestions.filter(answer => answer.userAnswer !== answer.correctAnswer);
-      console.log('Wrong answers:', wrongAnswers);
       const wrongResultsContainer = document.createElement('div');
       wrongResultsContainer.innerHTML = `<strong>You got ${wrongAnswers.length} questions wrong:</strong><br><br>`;
       resultsContainer.appendChild(wrongResultsContainer);
