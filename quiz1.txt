@@ -24,7 +24,7 @@ D) Sigma receptors
 
 5) What is the primary effect of opioid receptor activation on the nervous system?
 A) Increases neurotransmitter release
-Bases neurotransmitter release
+B) Bases neurotransmitter release
 C) Increases neuronal excitability
 D) Decreases neuronal excitability
 
@@ -81,7 +81,6 @@ A) Morphine
 B) Fentanyl
 C) Meperidine
 D) Methadone
-Here are 16 additional questions to bring the total to 30 multiple-choice questions, ensuring that all the material from the .txt file is covered at least once:
 
 15) Which of the following is a primary effect of opioid receptor activation on the presynaptic nerve?
 A) Opens Ca2+ channels
@@ -178,37 +177,3 @@ A) M-6-glucuronide
 B) Normeperidine
 C) 6-monoacetyl morphine
 D) Hydromorphone
-
-Answer Key:
-
-
-1) C
-2) D
-3) A
-4) B
-5) B
-6) D
-7) C
-8) B
-9) A
-10) C
-11) B
-12) D
-13) B
-14) D
-15) B
-16) C
-17) A
-18) C
-19) B
-20) C
-21) A
-22) D
-23) C
-24) A
-25) C
-26) B
-27) D
-28) D
-29) B
-30) D
