@@ -1,134 +1,79 @@
-const questionEl = document.getElementById("question");
-const choicesEl = Array.from(document.getElementsByClassName("choice-text"));
-const progressTextEl = document.getElementById("progress-text");
-const progressBarFullEl = document.getElementById("progress-bar-full");
+document.addEventListener('DOMContentLoaded', async () => {
+  const txtFileURL = 'quiz1.txt'; // Replace with your .txt file URL
+  const quizData = await parseTxtFile(txtFileURL);
 
-let currentQuestion = {};
-let acceptingAnswers = true;
-let questionCounter = 0;
-let score = 0;
+  const container = document.getElementById('quiz-container');
+  const questionElement = document.getElementById('question');
+  const choicesContainer = document.getElementById('choices');
+  const resultsContainer = document.getElementById('results');
+  const restartButton = document.getElementById('restart');
 
-function textToCSV(text) {
-  const lines = text.split('\n');
-  const csvLines = [];
+  let currentQuestion = 0;
+  let correctAnswers = 0;
 
-  for (let i = 0; i < lines.length; i += 8) {
-    const question = lines[i].slice(3).trim();
-    const choices = [
-      lines[i + 1].slice(2).trim(),
-      lines[i + 2].slice(2).trim(),
-      lines[i + 3].slice(2).trim(),
-      lines[i + 4].slice(2).trim(),
-    ];
-    const correctAnswer = lines[lines.length - Math.ceil((lines.length - i) / 8)].charCodeAt(0) - 65;
-    csvLines.push(`"${question}","${choices.join('","')}",${correctAnswer}`);
-  }
+  function showQuestion() {
+    const questionData = quizData[currentQuestion];
+    questionElement.textContent = questionData.question;
 
-  return csvLines.join('\n');
-}
+    choicesContainer.innerHTML = '';
 
-function parseCSV(csv) {
-  const lines = csv.trim().split('\n');
-  const questions = lines.map((line) => {
-    const values = line.split('","');
-    return {
-      question: values[0].slice(1),
-      choices: [
-        values[1],
-        values[2],
-        values[3],
-        values[4].slice(0, -1),
-      ],
-      correctAnswer: parseInt(values[5], 10),
-    };
-  });
-  return questions;
-}
-
-let questions = [];
-fetch('URL_TO_YOUR_TEXT_FILE')
-  .then((response) => response.text())
-  .then((text) => {
-    const csv = textToCSV(text);
-    questions = parseCSV(csv);
-    displayQuestion();
-  });
-
-// Add a function to reset the choice colors
-function resetChoiceColors() {
-  choicesEl.forEach((choice) => {
-    choice.classList.remove("correct");
-    choice.classList.remove("incorrect");
-  });
-}
-
-function displayQuestion() {
-  if (questionCounter >= questions.length) {
-    // Display the end of quiz screen
-    showScoreScreen();
-    return;
-  }
-
-  resetChoiceColors();
-  // ... (existing code)
-}
-
-// Add logic for scoring and visual feedback
-choicesEl.forEach((choice) => {
-  choice.addEventListener("click", (e) => {
-    if (!acceptingAnswers) return;
-
-    acceptingAnswers = false;
-    const selectedChoice = e.target;
-    const selectedAnswer = parseInt(selectedChoice.dataset["number"]) - 1;
-
-    const isCorrect = selectedAnswer === currentQuestion.correctAnswer;
-    if (isCorrect) {
-      score++;
-    }
-    selectedChoice.classList.add(isCorrect ? "correct" : "incorrect");
-
-    setTimeout(() => {
-      displayQuestion();
-    }, 1000);
-  });
-});
-
-// Add the logic for the end of the quiz
-function showScoreScreen() {
-  const scorePercentage = (score / questions.length) * 100;
-  const scoreText = `You scored ${score} out of ${questions.length} (${scorePercentage.toFixed(2)}%)`;
-
-  // Display the score screen and the start button
-  document.getElementById("score-screen").innerText = scoreText;
-  document.getElementById("start-button").style.display = "block";
-}
-
-// Add a function to start a quiz with the specified URL
-function startQuiz(url) {
-  questionCounter = 0;
-  score = 0;
-  fetch(url)
-    .then((response) => response.text())
-    .then((text) => {
-      const csv = textToCSV(text);
-      questions = parseCSV(csv);
-      displayQuestion();
+    questionData.choices.forEach((choice, index) => {
+      const button = document.createElement('button');
+      button.textContent = choice;
+      button.onclick = () => handleAnswerClick(index);
+      choicesContainer.appendChild(button);
     });
+  }
 
-  // Hide the score screen and the start button
-  document.getElementById("score-screen").innerText = "";
-  document.getElementById("start-button").style.display = "none";
-}
+  function handleAnswerClick(selectedIndex) {
+    if (selectedIndex === quizData[currentQuestion].correctAnswer) {
+      correctAnswers++;
+    }
 
-// Add event listeners for the quiz selection buttons
-document.getElementById("quiz1-button").addEventListener("click", () => {
-  startQuiz("URL_TO_YOUR_CSV_FILE_1");
+    currentQuestion++;
+
+    if (currentQuestion < quizData.length) {
+      showQuestion();
+    } else {
+      showResults();
+    }
+  }
+
+  function showResults() {
+    questionElement.style.display = 'none';
+    choicesContainer.style.display = 'none';
+    resultsContainer.textContent = `You scored ${correctAnswers} out of ${quizData.length} (${Math.round((correctAnswers / quizData.length) * 100)}%)`;
+    resultsContainer.style.display = 'block';
+    restartButton.style.display = 'block';
+
+    restartButton.onclick = () => {
+      currentQuestion = 0;
+      correctAnswers = 0;
+      questionElement.style.display = 'block';
+      choicesContainer.style.display = 'block';
+      resultsContainer.style.display = 'none';
+      restartButton.style.display = 'none';
+      showQuestion();
+    };
+  }
+
+  async function parseTxtFile(url) {
+    const response = await fetch(url);
+    const txtData = await response.text();
+
+    const lines = txtData.trim().split('\n');
+    const quizData = [];
+
+    for (let i = 0; i < lines.length; i += 6) {
+      const question = lines[i].slice(3).trim();
+      const choices = lines.slice(i + 1, i + 5).map(line => line.slice(2).trim());
+      const correctAnswer = lines[i + 5].trim().charCodeAt(0) - 65;
+
+      quizData.push({ question, choices, correctAnswer });
+    }
+
+    return quizData;
+  }
+
+  showQuestion();
 });
-
-document.getElementById("quiz2-button").addEventListener("click", () => {
-  startQuiz("URL_TO_YOUR_CSV_FILE_2");
-});
-
-// ... Add more event listeners for additional quiz buttons
-
