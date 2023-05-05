@@ -1,0 +1,180 @@
+
+1) How many kilocalories per gram does alcohol yield when metabolized?
+A) 4 kcal/g
+B) 7 kcal/g
+C) 9 kcal/g
+D) 12 kcal/g
+
+2) Which organ is primarily responsible for alcohol absorption?
+A) Stomach
+B) Small intestine
+C) Large intestine
+D) Liver
+
+3) How is blood alcohol concentration (BAC) typically measured?
+A) mg%
+B) g/dl
+C) g%
+D) µg/ml
+
+4) At which BAC level would you expect to see slurred speech and uncoordinated movement?
+A) 0.05
+B) 0.10
+C) 0.20
+D) 0.25
+
+5) Which enzyme plays a major role in ethanol metabolism?
+A) Alcohol dehydrogenase
+B) CYP450 2E1
+C) Monoamine oxidase
+D) Glutamate dehydrogenase
+
+6) What is the primary metabolic byproduct of alcohol dehydrogenase metabolizing ethanol?
+A) Methanol
+B) Acetate
+C) Acetaldehyde
+D) Formaldehyde
+
+7) What percentage of ethanol is eliminated by the lungs, urine, and sweat?
+A) 1%
+B) 5%
+C) 10%
+D) 20%
+
+8) What effect does ethanol have on GABA receptors?
+A) Increases activity
+B) Decreases activity
+C) No effect
+D) Variable effect depending on dose
+
+9) Which type of tolerance is characterized by a decreased effect of ethanol at the same plasma concentration?
+A) Pharmacokinetic
+B) Pharmacodynamic
+C) Behavioral
+D) Cross
+
+10) What is the main cardiovascular effect of alcohol consumption?
+A) Vasoconstriction
+B) Vasodilation
+C) Increased heart rate
+D) Decreased heart rate
+
+11) What liver condition can result from chronic alcohol use?
+A) Fatty degeneration
+B) Hepatitis
+C) Cholestasis
+D) Hepatocellular carcinoma
+
+12) How does chronic alcohol use affect the endocrine system in males?
+A) Gynecomastia and testicular atrophy
+B) Increased testosterone production
+C) Increased sperm count
+D) Decreased estrogen levels
+
+13) What is the immediate cause of death in ethanol or methanol intoxication?
+A) Liver failure
+B) Kidney failure
+C) Cardiac arrest
+D) Respiratory arrest
+
+14) What is the primary toxic metabolite produced during methanol metabolism?
+A) Formaldehyde
+B) Acetaldehyde
+C) Formic acid
+D) Methanol itself
+
+15) What is the initial treatment for methanol poisoning?
+A) Sodium bicarbonate infusion
+B) Hemodialysis
+C) Inducing emesis
+D) Ethanol administration
+
+16) Which drug is the first-line treatment for methanol or ethylene glycol poisoning?
+A) Ethanol
+B) Fomepizole
+C) Naloxone
+D) Acetylcysteine
+
+17) How does the presence of food in the stomach affect peak ethanol plasma levels?
+A) Increases peak levels
+B) Decreases peak levels
+C) Delays peak levels
+D) Has no effect on peak levels
+
+18) Which of the following effects does ethanol have on glutamate receptors?
+A) Increases activity
+B) Decreases activity
+C) No effect
+D) Variable effect depending on dose
+
+19) What is the main cause of increased urine production in alcohol consumption?
+A) Increased fluid intake
+B) Decreased ADH release
+C) Increased ADH release
+D) Both A and B
+
+20) Which enzyme system does alcohol induce in the liver?
+A) Alcohol dehydrogenase
+B) CYP450 2E1
+C) CYP450 3A4
+D) Glutathione S-transferase
+
+21) What is the primary effect of alcohol on proteins?
+A) Denatures proteins
+B) Replaces water in protein cavity
+C) Increases protein synthesis
+D) Decreases protein synthesis
+
+22) Which of the following is a sign of acute ethanol intoxication?
+A) Hypoglycemia
+B) Hyperthermia
+C) Hypothermia
+D) Hypertension
+
+23) What is the onset time for symptoms of methanol poisoning?
+A) 1-2 hours
+B) 3-36 hours
+C) 48-72 hours
+D) 4-7 days
+
+24) Which of the following effects does ethanol have on nicotinic receptors?
+A) Increases activity
+B) Decreases activity
+C) No effect
+D) Variable effect depending on receptor subtype and dose
+
+25) What gastrointestinal issue can be caused by alcohol consumption in individuals with peptic ulcers?
+A) Erosive gastritis
+B) Decreased stomach acid production
+C) Increased pepsin levels
+D) Reduced gastric motility
+
+26) What does the Mellanby effect state about alcohol consumption?
+A) The BAC to get drunk is the same when sobering up
+B) The BAC to get drunk is lower when sobering up
+C) The BAC to get drunk is higher when sobering up
+D) The BAC to get drunk is unrelated to the sobering process
+
+27) In which organ is 99% of ethanol metabolized and enters the citric acid cycle?
+A) Stomach
+B) Small intestine
+C) Liver
+D) Kidney
+
+28) How does alcohol affect the release of prolactin, growth hormone (GH), and antidiuretic hormone (ADH)?
+A) Increases release
+B) Decreases release
+C) No effect
+D) Variable effect depending on dose
+
+29) Which of the following symptoms is commonly seen in methanol poisoning?
+A) Tremors
+B) Visual disturbances
+C) Hyperthermia
+D) Hypoglycemia
+
+30) What is the rate-limiting step in ethanol metabolism?
+A) Ethanol to acetaldehyde by alcohol dehydrogenase
+B) Acetaldehyde to acetate by aldehyde dehydrogenase
+C) Ethanol to formaldehyde by alcohol dehydrogenase
+D) Formaldehyde to formic acid by formaldehyde dehydrogenase

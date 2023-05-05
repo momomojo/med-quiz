@@ -1,0 +1,334 @@
+1) What is the heritability of alcohol abuse?
+A) Low
+B) Moderate
+C) High
+D) Unknown
+
+2) What is the definition of binge drinking for women?
+A) 4 or more drinks in one occasion
+B) 5 or more drinks in one occasion
+C) 6 or more drinks in one occasion
+D) 7 or more drinks in one occasion
+
+3) What is the definition of heavy drinking for men?
+A) 10 or more drinks per week
+B) 12 or more drinks per week
+C) 15 or more drinks per week
+D) 18 or more drinks per week
+
+4) Which of the following medications is used for alcohol cessation by inhibiting aldehyde dehydrogenase?
+A) Disulfiram
+B) Acamprosate
+C) Naltrexone
+D) Methylnaltrexone
+
+5) Which medication used for alcohol cessation has a MOA that modulates the activity of glutamate at NMDA receptors and is eliminated unchanged via urine?
+A) Disulfiram
+B) Acamprosate
+C) Naltrexone
+D) Methylnaltrexone
+
+6) What is the MOA of naltrexone in alcohol and opioid cessation?
+A) Mu receptor agonist
+B) Mu receptor antagonist
+C) Kappa receptor agonist
+D) Kappa receptor antagonist
+
+7) Which of the following is a symptom of Wernicke's encephalopathy?
+A) Confusion
+B) Hypertension
+C) Bradycardia
+D) Weight gain
+
+8) Korsakoff psychosis is a continuation of which condition?
+A) Delirium tremens
+B) Wernicke's encephalopathy
+C) Alcohol withdrawal
+D) Fetal alcohol syndrome
+
+9) What is the primary cause of delirium tremens?
+A) Alcohol intoxication
+B) Alcohol withdrawal
+C) Opioid intoxication
+D) Opioid withdrawal
+
+10) Which of the following is a lab test that reveals heavy drinking?
+A) CDT
+B) ALT
+C) AST
+D) GGT
+
+11) What is the treatment for alcohol withdrawal?
+A) Benzodiazepines
+B) Opioids
+C) Antipsychotics
+D) Antidepressants
+
+12) Which of the following is NOT a symptom of opioid overdose?
+A) Miotic pupils
+B) Abnormal mental status
+C) Respiratory depression
+D) Mydriasis
+
+13) Which opioid antagonist does not cross the blood-brain barrier?
+A) Naloxone
+B) Naltrexone
+C) Methylnaltrexone
+D) Buprenorphine
+
+14) Meperidine is an opioid that does not cause which side effect?
+A) Sedation
+B) Miosis
+C) Respiratory depression
+D) Nausea
+
+15) Cannabis acts on which receptors?
+A) CB1 and CB2
+B) Mu and Kappa
+C) GABA
+D) NMDA
+
+16) Which of the following is a symptom of cannabis withdrawal?
+A) Euphoria
+B) Irritability
+C) Increased appetite
+D) Hypotension
+
+17) What is the characteristic behavior of patients with cannabis hyperemesis syndrome?
+A) Increased water intake
+B) Repetitive hot water bathing
+C) Compulsive exercise
+D) Excessive sleep
+
+18) Which medication is a competitive antagonist for the benzodiazepine binding site?
+A) Diazepam
+B) Lorazepam
+C) Flumazenil
+
+19) Barbiturates have which suffix?
+A) -olam
+B) -epam
+C) -arbital
+D) -azepine
+
+20) What is the MOA of benzodiazepines?
+A) Increase frequency of Cl- channel opening at GABAa receptor
+B) Increase duration of Cl- channel opening at GABAa receptor
+C) Block serotonin reuptake
+D) Block norepinephrine reuptake
+
+21) Which of the following benzodiazepines is safe in liver disease?
+A) Diazepam
+B) Chlordiazepoxide
+C) Lorazepam
+D) Alprazolam
+
+22) What is the MOA of Z-drugs?
+A) Bind to BZ-1 (omega-1) receptors
+B) Bind to BZ-2 (omega-2) receptors
+C) Increase frequency of Cl- channel opening at GABAa receptor
+D) Increase duration of Cl- channel opening at GABAa receptor
+
+23) What is the main reason to avoid giving flumazenil to a patient dependent on benzodiazepines?
+A) It may cause respiratory depression
+B) It may worsen withdrawal symptoms and cause seizures
+C) It may cause an allergic reaction
+D) It may cause addiction
+
+24) In porphyria diseases, why should barbiturates not be given?
+A) They enhance porphyrin synthesis
+B) They cause seizures
+C) They worsen liver function
+D) They cause respiratory depression
+
+25) What is the MOA of PCP?
+A) Glutamate NMDA antagonist
+B) Glutamate NMDA agonist
+C) GABAa receptor agonist
+D) GABAa receptor antagonist
+
+26) Which of the following is NOT a symptom of PCP intoxication?
+A) Hypertension
+B) Nystagmus
+C) Analgesia
+D) Mydriasis
+
+27) What is the MOA of hallucinogens like LSD and psilocybin?
+A) 5HT1a agonist
+B) 5HT2a agonist
+C) 5HT1a antagonist
+D) 5HT2a antagonist
+
+28) What is the MOA of MDMA?
+A) Increase serotonin release and block reuptake
+B) Increase dopamine release and block reuptake
+C) Increase norepinephrine release and block reuptake
+D) Increase GABA release and block reuptake
+
+29) Which of the following is NOT a symptom of MDMA intoxication?
+A) Euphoria
+B) Increased empathy
+C) Bruxism
+D) Miosis
+
+30) What is the primary diagnostic criterion for opioid withdrawal?
+A) Presence of 1 or more symptoms
+B) Presence of 3 or more symptoms
+C) Presence of 5 or more symptoms
+D) Presence of 7 or more symptoms
+
+31) What is the treatment for opioid withdrawal?
+A) Benzodiazepines
+B) Buprenorphine and methadone
+C) Antipsychotics
+D) Antidepressants
+
+32) Which medication is used to block locus coeruleus activity and decrease anxiety during opioid withdrawal?
+A) Clonidine
+B) Promethazine
+C) Ondansetron
+D) Loperamide
+
+33) Which medication is used to prevent nausea during opioid withdrawal?
+A) Clonidine
+B) Promethazine
+C) Ondansetron
+D) Loperamide
+
+34) Which medication is used to prevent diarrhea during opioid withdrawal?
+A) Clonidine
+B) Promethazine
+C) Ondansetron
+D) Loperamide
+
+35) What is the primary cause of hallucinogen persisting perception disorder?
+A) Chronic use of hallucinogens
+B) Acute intoxication with hallucinogens
+C) Re-experiencing perceptual symptoms experienced while intoxicated
+D) Withdrawal from hallucinogens
+
+36) What is the primary symptom of fetal alcohol syndrome?
+A) Intellectual disability
+B) Hypertension
+C) Bradycardia
+D) Weight gain
+
+37) Which of the following is NOT a feature of fetal alcohol syndrome?
+A) Microcephaly
+B) Low nasal bridge
+C) Wide-set eyes
+D) Miotic pupils
+
+38) Which of the following is NOT a symptom of cannabis withdrawal?
+A) Irritability
+B) Anxiety
+C) Depressed mood
+D) Increased appetite
+
+39) Which of the following is a symptom of delirium tremens?
+A) Hypotension
+B) Bradycardia
+C) Autonomic arousal
+D) Weight gain
+
+40) What is the primary cause of Korsakoff psychosis?
+A) Acute thiamine deficiency
+B) Chronic thiamine deficiency
+C) Alcohol intoxication
+D) Alcohol withdrawal
+
+41) Which of the following medications is used for alcohol cessation by acting as a mu receptor antagonist?
+A) Disulfiram
+B) Acamprosate
+C) Naltrexone
+D) Methylnaltrexone
+
+42) Which of the following is NOT a symptom of Wernicke's encephalopathy?
+A) Confusion
+B) Ataxia
+C) Hypertension
+D) Ophthalmoplegia
+
+43) What is the MOA of meperidine?
+A) Mu receptor agonist
+B) Mu receptor antagonist
+C) Kappa receptor agonist
+D) Kappa receptor antagonist
+
+44) Which of the following is NOT a symptom of opioid abuse?
+A) Sedation
+B) Respiratory depression
+C) Euphoria
+D) Mydriasis
+
+45) What is the primary reason routine opioid screening does not test for synthetic opioids?
+A) They are less harmful than natural opioids
+B) They are less addictive than natural opioids
+C) The tests cannot differentiate between natural and synthetic opioids
+D) The tests are not sensitive enough to detect synthetic opioids
+
+46) What is the primary treatment for opioid overdose?
+A) Airway support
+B) Benzodiazepines
+C) Naloxone
+D) Circulation support
+
+47) Which of the following is NOT a symptom of cannabis hyperemesis syndrome?
+A) Repeated severe vomiting
+B) Cessation of cannabis use
+C) Repetitive hot water bathing behavior
+D) Irritability
+
+48) What is the MOA of barbiturates?
+A) Increase frequency of Cl- channel opening at GABAa receptor
+B) Increase duration of Cl- channel opening at GABAa receptor
+C) Block serotonin reuptake
+D) Block norepinephrine reuptake
+
+49) Which of the following is a common side effect of MDMA intoxication?
+A) Bruxism
+B) Miosis
+C) Hypotension
+D) Bradycardia
+
+50) What is the primary symptom of hallucinogen persisting perception disorder?
+A) Geometric hallucinations
+B) False perception of movement in peripheral vision
+C) Flashes of color
+D) Trails of images
+
+51) Which medication is a competitive antagonist for the benzodiazepine binding site?
+A) Flumazenil
+B) Diazepam
+C) Lorazepam
+D) Chlordiazepoxide
+
+52) Which of the following substances acts on CB1 and CB2 receptors?
+A) Alcohol
+B) Opioids
+C) Cannabis
+D) Benzodiazepines
+
+53) What is the MOA of PCP?
+A) Glutamate NMDA antagonist
+B) GABAa agonist
+C) 5HT2a agonist
+D) Mu opioid agonist
+
+54) Which of the following medications is an opioid antagonist that does not cross the blood-brain barrier?
+A) Methylnaltrexone
+B) Naltrexone
+C) Methadone
+D) Buprenorphine
+
+55) What is the MOA of Z-drugs?
+A) Bind to benzodiazepine BZ-1 (omega1) receptor
+B) Block serotonin reuptake
+C) Block norepinephrine reuptake
+D) Increase frequency of Cl- channel opening at GABAa receptor
+
+56) What are the three primary symptoms of opioid overdose?
+A) Miotic pupils, abnormal mental status, respiratory depression
+B) Mydriasis, agitation, tachycardia
+C) Hypertension, hyperthermia, hallucinations
+D) Nystagmus, seizures

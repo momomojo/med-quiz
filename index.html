@@ -3,16 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quiz</title>
+  <title>Quiz App</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div id="quiz-container">
-    <h1 id="question"></h1>
+    <h1 id="question" class="quiz-question"></h1>
+    <div id="quiz-select-container"></div>
     <div id="choices-container"></div>
+    <div id="results" style="display: none;"></div>
+    <button id="restart" style="display: none;">Restart Quiz</button>
   </div>
-  <div id="results" style="display: none;"></div>
-  <button id="restart" style="display: none;">Restart</button>
   <script src="quiz.js"></script>
 </body>
 </html>
