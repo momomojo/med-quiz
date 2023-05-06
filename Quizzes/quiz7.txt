@@ -1,0 +1,179 @@
+1) Which type of seizure affects only one part of the brain?
+A) Partial/Focal seizure
+B) Generalized seizure
+C) Absence seizure
+D) Tonic-clonic seizure
+
+2) A simple partial seizure with visual symptoms likely originates in which part of the brain?
+A) Frontal lobe
+B) Parietal lobe
+C) Occipital lobe
+D) Temporal lobe
+
+3) What is the primary characteristic of a complex partial seizure?
+A) Consciousness is intact
+B) Involves loss of consciousness
+C) Quick, repetitive jerks
+D) Alternating stiffness and movement
+
+4) Which type of seizure affects the entire brain?
+A) Partial/Focal seizure
+B) Generalized seizure
+C) Absence seizure
+D) Tonic-clonic seizure
+
+5) What is the typical EEG finding in absence seizures?
+A) 1-2 Hz slow spike and wave
+B) 3 Hz spike
+C) Generalized polyspike and wave
+D) Hypsarrhythmia pattern
+
+6) Which type of seizure is characterized by quick, repetitive jerks?
+A) Simple partial seizure
+B) Complex partial seizure
+C) Myoclonic seizure
+D) Tonic-clonic seizure
+
+7) Which medication is commonly used to acutely break a seizure?
+A) Benzo
+B) Phenytoin
+C) Ethosuximide
+D) Valproic Acid
+
+8) What is the primary etiology of seizures in adults?
+A) Infection
+B) Trauma
+C) Tumor
+D) Stroke
+
+9) Which of the following is NOT a common cause of provoked seizures?
+A) Hypo-hyper-natremia
+B) Hypoglycemia
+C) Alcohol withdrawal
+D) Hypertension
+
+10) What is the typical age of onset for Lennox-Gastaut syndrome?
+A) 0-2 years old
+B) 1-7 years old
+C) 8-12 years old
+D) 13-17 years old
+
+11) Infantile spasms are also known as:
+A) West syndrome
+B) Lennox-Gastaut syndrome
+C) Juvenile myoclonic epilepsy
+D) Benign childhood epilepsy with centrotemporal spikes
+
+12) Which of the following is a characteristic of Juvenile Myoclonic Epilepsy (JME)?
+A) Sudden jerks lasting less than 1 second
+B) Flexion or extension spasms
+C) Drooling, dysarthria, and speech arrest
+D) Hypertension in pregnant women
+
+13) Benign Childhood Epilepsy with Centrotemporal Spikes is also known as:
+A) Benign Rolandic Epilepsy
+B) West Syndrome
+C) Lennox-Gastaut Syndrome
+D) Juvenile Myoclonic Epilepsy
+
+14) What treatment is commonly used for pre-eclampsia?
+A) MgSO4
+B) Benzo
+C) Phenytoin
+D) Ethosuximide
+
+15) Which of the following is NOT a treatment option for epilepsy?
+A) Anti-seizure medications
+B) Surgery
+C) Antibiotics
+D) Neuromodulation
+
+16) In which type of seizure does a patient experience alternating stiffness and movement?
+A) Simple partial seizure
+B) Complex partial seizure
+C) Myoclonic seizure
+D) Tonic-clonic seizure
+
+17) Which type of seizure is characterized by stiffening?
+A) Simple partial seizure
+B) Tonic seizure
+C) Myoclonic seizure
+D) Atonic seizure
+
+18) Which type of seizure is also known as a "drop" seizure and can be mistaken for fainting or vagal syncope?
+A) Simple partial seizure
+B) Complex partial seizure
+C) Myoclonic seizure
+D) Atonic seizure
+
+19) What is the primary mechanism of seizure excitation?
+A) Na+/Ca2+ inward and Glutamate depolarization
+B) Cl- in / K+ out and GABA hyperpolarization
+C) Na+/Ca2+ outward and Glutamate hyperpolarization
+D) Cl- out / K+ in and GABA depolarization
+
+20) Which type of seizure is characterized by looking off into space for a couple of seconds and can be provoked by hyperventilation?
+A) Partial/Focal seizure
+B) Generalized seizure
+C) Absence seizure
+D) Tonic-clonic seizure
+
+21) What is the primary cause of seizures in the elderly population?
+A) Infection
+B) Trauma
+C) Tumor
+D) Stroke
+
+22) Which syndrome is characterized by 1-2 Hz slow spike and wave on EEG and is preceded by infantile spasms?
+A) Lennox-Gastaut syndrome
+B) West syndrome
+C) Juvenile myoclonic epilepsy
+D) Benign childhood epilepsy with centrotemporal spikes
+
+23) What is the primary characteristic of infantile spasms?
+A) Flexion or extension spasms
+B) Sudden jerks lasting less than 1 second
+C) Drooling, dysarthria, and speech arrest
+D) Hypertension in pregnant women
+
+24) In which type of epilepsy are sudden jerks more common right after waking up in the morning?
+A) Infantile spasms
+B) Lennox-Gastaut syndrome
+C) Juvenile myoclonic epilepsy
+D) Benign childhood epilepsy with centrotemporal spikes
+
+25) What is the primary symptom of Benign Childhood Epilepsy with Centrotemporal Spikes?
+A) Drooling, dysarthria, and speech arrest
+B) Sudden jerks lasting less than 1 second
+C) Flexion or extension spasms
+D) Hypertension in pregnant women
+
+26) Which medication is commonly used for the acute treatment of status epilepticus?
+A) Benzo
+B) Phenytoin
+C) Ethosuximide
+D) Valproic Acid
+
+27) What is the primary cause of seizures in pediatric patients?
+A) Infection
+B) Trauma
+C) Genetics
+D) Metabolism
+
+28) Which type of seizure is characterized by eyelid fluttering or myoclonia?
+A) Partial/Focal seizure
+B) Generalized seizure
+C) Absence seizure
+D) Tonic-clonic seizure
+
+29) What is the primary treatment for absence seizures?
+A) Ethosuximide
+B) Valproic Acid
+C) Lamotrigine
+D) Phenytoin
+
+30) Which of the following is NOT a common cause of seizures in adults?
+A) Tumor
+B) Trauma
+C) Stroke
+D) Infection

@@ -1,0 +1,148 @@
+1) Which medication is used to treat status epilepticus and focal or generalized seizures?
+A) Phenobarbital
+B) Benoz
+C) Carbamazepine
+D) Levetiracetam
+
+2) Which of the following medications is the first-line anti-seizure treatment for neonates?
+A) Phenytoin
+B) Ethosuximide
+C) Phenobarbital
+D) Carbamazepine
+
+3) What is the primary mechanism of action of Phenytoin?
+A) Blocking Na channels
+B) Increasing GABA
+C) Blocking Ca2+ channels
+D) Blocking synaptic vesicle protein 2A
+
+4) Which medication is commonly used to treat focal seizures and trigeminal neuralgia?
+A) Lamotrigine
+B) Carbamazepine
+C) Valproic Acid
+D) Levetiracetam
+
+5) Ethosuximide is primarily used to treat which type of seizures?
+A) Focal
+B) Generalized
+C) Absence
+D) Myoclonic
+
+6) Which of the following medications is associated with side effects such as sedation, fatigue, psychosis, and mood swings?
+A) Valproic Acid
+B) Phenytoin
+C) Levetiracetam
+D) Lamotrigine
+
+7) Which medication increases GABA levels and blocks Na channels, making it suitable for treating focal, generalized, and absence seizures?
+A) Valproic Acid
+B) Carbamazepine
+C) Lamotrigine
+D) Ethosuximide
+
+8) Lamotrigine is contraindicated in patients with a history of which condition?
+A) Severe drug hypersensitivity
+B) Liver failure
+C) Kidney stones
+D) Aplastic anemia
+
+9) Which medication is used to treat focal and generalized seizures and is also a GABA analog?
+A) Gabapentin
+B) Valproic Acid
+C) Topiramate
+D) Lamotrigine
+
+10) Vigabatrin is primarily used to treat which type of seizures?
+A) Focal
+B) Generalized
+C) Absence
+D) Infantile spasms
+
+11) Which of the following drugs is a known P450 inducer?
+A) Carbamazepine
+B) Valproic Acid
+C) Ethosuximide
+D) Topiramate
+
+12) Which medication is most teratogenic?
+A) Valproate
+B) Carbamazepine
+C) Phenytoin
+D) Phenobarbital
+
+13) Which medication is associated with causing Stevens-Johnson Syndrome (SJS)?
+A) Lamotrigine
+B) Carbamazepine
+C) Phenytoin
+D) Ethosuximide
+
+14) Which anti-seizure medication is also used to treat bipolar disorder?
+A) Carbamazepine
+B) Valproic Acid
+C) Lamotrigine
+D) Topiramate
+
+15) Which medication is commonly used to treat migraine headaches as a prophylactic measure?
+A) Valproic Acid
+B) Topiramate
+C) Carbamazepine
+D) Gabapentin
+
+16) Which medication is commonly used to treat glossopharyngeal neuralgia?
+A) Carbamazepine
+B) Valproic Acid
+C) Lamotrigine
+D) Gabapentin
+
+17) Which medication is commonly used to treat diabetic peripheral neuropathy?
+A) Pregabalin
+B) Gabapentin
+C) CarbamazepineD) Valproic Acid
+
+18) Which medication is commonly used to treat fibromyalgia?
+A) Pregabalin
+B) Gabapentin
+C) Carbamazepine
+D) Valproic Acid
+
+19) Which medication is known to decrease the efficacy of oral contraceptive pills?
+A) Topiramate
+B) Oxcarbazepine
+C) Phenytoin
+D) Ethosuximide
+
+20) Which medication is associated with causing cleft lip or palate?
+A) Lamotrigine
+B) Carbamazepine
+C) Phenytoin
+D) Valproate
+
+21) Which of the following medications can cause weight gain as a side effect?
+A) Valproic Acid
+B) Levetiracetam
+C) Topiramate
+D) Gabapentin
+
+22) Which medication is associated with a risk of acute closed-angle glaucoma?
+A) Topiramate
+B) Valproic Acid
+C) Lamotrigine
+D) Carbamazepine
+
+23) Which medication irreversibly inhibits GABA transaminase?
+A) Vigabatrin
+B) Valproic Acid
+C) Gabapentin
+D) Levetiracetam
+
+24) Which medication is associated with a risk of peripheral vision loss?
+A) Vigabatrin
+B) Valproic Acid
+C) Gabapentin
+D) Levetiracetam
+
+25) Which of the following medications is known to cause agranulocytosis and aplastic anemia?
+A) Carbamazepine
+B) Valproic Acid
+C) Phenytoin
+D) Ethosuximide

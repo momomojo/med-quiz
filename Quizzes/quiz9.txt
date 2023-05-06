@@ -1,0 +1,299 @@
+1) What type of cells in the cortex send axons to structures outside the cortex?
+A) Granule cells
+B) Stellate cells
+C) Pyramidal cells
+D) Horizontal cells
+
+2) What type of cells in the cortex send axons to structures within the cortex?
+A) Granule cells
+B) Stellate cells
+C) Pyramidal cells
+D) Horizontal cells
+
+3) In which cortical layer are horizontal cells primarily found?
+A) Molecular layer
+B) External granular layer
+C) External pyramidal layer
+D) Internal granular layer
+
+4) Which type of cortex is referred to as granular due to its high density of granule cells?
+A) Sensory cortex
+B) Motor cortex
+C) Association cortex
+D) Primary cortex
+
+5) Which type of cortex is referred to as agranular due to its high density of pyramidal cells?
+A) Sensory cortex
+B) Motor cortex
+C) Association cortex
+D) Primary cortex
+
+6) What is the primary function of commissural pathways?
+A) Connect different regions within a hemisphere
+B) Connect the two cerebral hemispheres
+C) Connect the cortex to subcortical structures
+D) Connect primary and association cortices
+
+7) Which structure connects the middle and inferior temporal gyri of the two cerebral hemispheres?
+A) Anterior commissure
+B) Corpus callosum
+C) Arcuate fasciculus
+D) Inferior longitudinal fasciculus
+
+8) Which association pathway connects the temporal lobe to the frontal lobe?
+A) Uncinate fasciculus
+B) Arcuate fasciculus
+C) Superior longitudinal fasciculus
+D) Inferior longitudinal fasciculus
+
+9) In which hemisphere of the brain are language functions primarily localized?
+A) Left hemisphere
+B) Right hemisphere
+C) Both hemispheres
+D) None of the above
+
+10) Which area of the brain is responsible for spatial processing?
+A) Left hemisphere
+B) Right hemisphere
+C) Both hemispheres
+D) None of the above
+
+11) Which area of the brain is responsible for the comprehension of language?
+A) Broca's area
+B) Wernicke's area
+C) Primary auditory area
+D) Primary motor area
+
+12) Which area of the brain is responsible for the production of word fluency?
+A) Broca's area
+B) Wernicke's area
+C) Primary auditory area
+D) Primary motor area
+
+13) A lesion in the primary somatosensory cortex (BA 1/2/3) would most likely result in:
+A) Contralateral hypesthesia
+B) Apraxia
+C) Partial deafness
+D) Hemiparesis
+
+14) A lesion in the right inferior parietal lobule could result in:
+A) Left spatial neglect
+B) Apraxia
+C) Wernicke's aphasia
+D) Gerstmann's syndrome
+
+15) A lesion in the left inferior parietal lobule could result in:
+A) Left spatial neglect
+B) Apraxia
+C) Wernicke's aphasia
+D) Gerstmann's syndrome
+
+16) A lesion in the primary auditory area (BA 41/42) would most likely result in:
+A) Contralateral hypesthesia
+B) Apraxia
+C) Partial deafness
+D) Hemiparesis
+
+17) A lesion in the lateral temporal gyrus (BA 22) on the left side could result in:
+A) Wernicke's aphasia
+B) Aprosodia
+C) Agnosia
+D) Gerstmann's syndrome
+
+18) A lesion in the lateral temporal gyrus (BA 22) on the right side could result in:
+A) Wernicke's aphasia
+B) Aprosodia
+C) Agnosia
+D) Gerstmann's syndrome
+
+19) A lesion in the medial temporal lobe could result in:
+A) Amnesia
+B) Hemiparesis
+C) Apraxia
+D) Spatial neglect
+
+20) A lesion in the inferior temporal lobe could result in:
+A) Agnosia
+B) Prosopagnosia
+C) Wernicke's aphasia
+D) A and B
+
+21) A lesion in the primary visual area (BA 17) could result in:
+A) Hemianopia
+B) Quadrantanopia
+C) Both A and B
+D) None of the above
+
+22) A lesion in the BA 18/19 could result in:
+A) Hallucinations
+B) Alexia
+C) Agnosia
+D) All of the above
+
+23) The dorsal pathway is also known as:
+A) The where pathway
+B) The what pathway
+C) The how pathway
+D) The when pathway
+
+24) The ventral pathway is also known as:
+A) The where pathway
+B) The what pathway
+C) The how pathway
+D) The when pathway
+
+25) A lesion in the primary motor area (BA 4) could result in:
+A) Initial paralysis
+B) Hemiparesis
+C) Both A and B
+D) None of the above
+
+26) A lesion in the premotor cortex (BA 6) could result in:
+A) Apraxia
+B) Hemiparesis
+C) Both A and B
+D) None of the above
+
+27) A lesion in the supplementary motor cortex (BA 6) could result in:
+A) Apraxia
+B) Deficits in learning skilled movements
+C) Both A and B
+D) None of the above
+
+28) A lesion in the frontal eye field (BA 8) could result in:
+A) Ipsilateral gaze deficit
+B) Contralateral gaze deficit
+C) Both A and B
+D) None of the above
+
+29) A lesion in Broca's area (BA 44/45) could result in:
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Global aphasia
+D) Anomic aphasia
+
+30) The limbic region of the frontal lobe is involved in:
+A) Social interactions
+B) Emotion regulation
+C) Both A and B
+D) None of the above
+
+31) The prefrontal cortex is responsible for:
+A) Cognitive control and planning
+B) Cognitive flexibility
+C) Learning rules
+D) All of the above
+
+32) Which of the following is not a function of the left hemisphere?
+A) Language comprehension
+B) Praxic function
+C) Spatial processing
+D) Verbal memory
+
+33) Which of the following is not a function of the right hemisphere?
+A) Sensory and motor function for the left side
+B) Rhythm and tone in speech
+C) Spatial processing
+D) Semantic reasoning
+
+34) The primary sensory areas are responsible for:
+A) Receiving input from thalamic sensory relay nuclei
+B) Mapping sensory information from the periphery onto the cortex
+C) Both A and B
+D) None of the above
+
+35) The primary motor areas are responsible for:
+A) Giving rise to the corticospinal tract
+B) Mediating movement of the body related to reaching and grasping
+C) Both A and B
+D) None of the above
+
+36) What is somatotopy?
+A) The mapping of the body onto the brain
+B) The mapping of the brain onto the body
+C) The organization of neurons according to their function
+D) The organization of neurons according to their connections
+
+37) Unimodal association cortex is responsible for:
+A) Enhancing information received from a single primary sensory area
+B) Enhancing information received from multiple sensory modalities
+C) Processing information from the thalamus
+D) None of the above
+
+38) Heteromodal association cortex is responsible for:
+A) Enhancing information received from a single primary sensory area
+B) Enhancing information received from multiple sensory modalities
+C) Processing information from the thalamus
+D) None of the above
+
+39) Lesions in the superior parietal lobule (BA 5 and 7) could result in:
+A) Astereognosis
+B) Difficulty in locating body parts in space
+C) Both A and B
+D) None of the above
+
+40) Lesions in the right inferior parietal lobule could result in:
+A) Left spatial neglect
+B) Anosognosia for hemiplegia
+C) Both A and B
+D) None of the above
+
+41) Lesions in the left inferior parietal lobule could result in:
+A) Apraxia
+B) Gerstmann's syndrome
+C) Both A and B
+D) None of the above
+
+42) Lesions in the primary auditory area (BA 41/42) could result in:
+A) Partial deafness
+B) Wernicke's aphasia
+C) Aprosodia
+D) None of the above
+
+43) Lesions in the medial temporal lobe could result in:
+A) Amnesia
+B) Prosopagnosia
+C) Agnosia
+D) None of the above
+
+44) Lesions in the inferior temporal lobe could result in:
+A) Agnosia
+B) Prosopagnosia
+C) Both A and B
+D) None of the above
+
+45) Lesions in the primary visual area (BA 17) could result in:
+A) Hemianopia
+B) Quadrantanopia
+C) Both A and B
+D) None of the above
+
+46) Lesions in BA 18/19 could result in:
+A) Hallucinations
+B) Alexia
+C) Agnosia
+D) All of the above
+
+47) Lesions in the primary motor area (BA 4) could result in:
+A) Initial paralysis
+B) Hemiparesis
+C) Both A and B
+D) None of the above
+
+48) Lesions in the premotor cortex (BA 6) could result in:
+A) Apraxia
+B) Hemiparesis
+C) Both A and B
+D) None of the above
+
+49) Lesions in the supplementary motor cortex (BA 6) could result in:
+A) Apraxia
+B) Deficits in learning skilled movements
+C) Both A and B
+D) None of the above
+
+50) Lesions in the frontal eye field (BA 8) could result in:
+A) Ipsilateral gaze deficit
+B) Contralateral gaze deficit
+C) Both A and B
+D) None of the above
