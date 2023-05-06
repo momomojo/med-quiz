@@ -49,12 +49,23 @@ document.addEventListener('DOMContentLoaded', async () => {
     
         const txtFileURL = `./Quizzes/${quizName}.txt`;
         const answerKeyURL = `./Quizzes/${quizName}_answer_key.txt`;
-        const quizData = await parseTxtFile(txtFileURL, answerKeyURL);
-
+        let quizData = await parseTxtFile(txtFileURL, answerKeyURL);
+        
+        // Add a shuffle function to shuffle an array
+        function shuffle(array) {
+          for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+          }
+        }
+        
+        // Shuffle the quizData array
+        shuffle(quizData);
+    
         let currentQuestion = 0;
         let correctAnswers = 0;
         let answeredQuestions = [];
-
+    
         showQuestion();
 
         function showQuestion() {

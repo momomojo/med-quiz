@@ -1,0 +1,209 @@
+1) How many kilocalories per gram does alcohol yield when metabolized?
+A) 4 kcal/g
+B) 7 kcal/g
+C) 9 kcal/g
+D) 12 kcal/g
+Question Rationale: The correct answer is B) 7 kcal/g. Alcohol yields 7 kilocalories per gram when metabolized. The other options are incorrect: A) 4 kcal/g is the energy yield for carbohydrates and proteins, C) 9 kcal/g is for fats, and D) 12 kcal/g is not an energy yield value for any macronutrient.
+
+2) Which organ is primarily responsible for alcohol absorption?
+A) Stomach
+B) Small intestine
+C) Large intestine
+D) Liver
+Question Rationale: The correct answer is B) Small intestine. Alcohol is primarily absorbed through the small intestine. The stomach (A) does absorb some alcohol, but not as much as the small intestine. The large intestine (C) and liver (D) play roles in alcohol metabolism, but not in absorption.
+
+3) How is blood alcohol concentration (BAC) typically measured?
+A) mg%
+B) g/dl
+C) g%
+D) µg/ml
+Question Rationale: The correct answer is B) g/dl. Blood alcohol concentration is typically measured in grams per deciliter (g/dl). The other options, A) mg%, C) g%, and D) µg/ml, are not the standard units for measuring BAC.
+
+4) At which BAC level would you expect to see slurred speech and uncoordinated movement?
+A) 0.05
+B) 0.10
+C) 0.20
+D) 0.25
+Question Rationale: The correct answer is B) 0.10. Slurred speech and uncoordinated movement typically occur at a BAC level of 0.10. The other options, A) 0.05, C) 0.20, and D) 0.25, are incorrect as they represent different levels of intoxication with varying degrees of impairment.
+
+5) Which enzyme plays a major role in ethanol metabolism?
+A) Alcohol dehydrogenase
+B) CYP450 2E1
+C) Monoamine oxidase
+D) Glutamate dehydrogenase
+Question Rationale: The correct answer is A) Alcohol dehydrogenase. This enzyme plays a major role in ethanol metabolism by converting ethanol to acetaldehyde. The other enzymes, B) CYP450 2E1, C) Monoamine oxidase, and D) Glutamate dehydrogenase, are involved in different metabolic processes and do not play a major role in ethanol metabolism.
+
+6) What is the primary metabolic byproduct of alcohol dehydrogenase metabolizing ethanol?
+A) Methanol
+B) Acetate
+C) Acetaldehyde
+D) Formaldehyde
+Question Rationale: The correct answer is C) Acetaldehyde. Alcohol dehydrogenase metabolizes ethanol into acetaldehyde, which is then further metabolized into acetate. The other options, A) Methanol, B) Acetate, and D) Formaldehyde, are not the primary metabolic byproducts of this process.
+
+7) What percentage of ethanol is eliminated by the lungs, urine, and sweat?
+A) 1%
+B) 5%
+C) 10%
+D) 20%
+Question Rationale: The correct answer is B) 5%. Approximately 5% of ethanol is eliminated through the lungs, urine, and sweat. The other options, A) 1%, C) 10%, and D) 20%, are incorrect as
+
+8) What effect does ethanol have on GABA receptors?
+A) Increases activity
+B) Decreases activity
+C) No effect
+D) Variable effect depending on dose
+Question Rationale: The correct answer is A) Increases activity. Ethanol increases the activity of GABA receptors, which leads to inhibitory effects on the central nervous system. The other options, B) Decreases activity, C) No effect, and D) Variable effect depending on dose, are incorrect as they do not accurately describe ethanol's effect on GABA receptors.
+
+9) Which type of tolerance is characterized by a decreased effect of ethanol at the same plasma concentration?
+A) Pharmacokinetic
+B) Pharmacodynamic
+C) Behavioral
+D) Cross
+Question Rationale: The correct answer is B) Pharmacodynamic. Pharmacodynamic tolerance is characterized by a decreased effect of ethanol at the same plasma concentration. The other types of tolerance, A) Pharmacokinetic, C) Behavioral, and D) Cross, are not defined by this characteristic.
+
+10) What is the main cardiovascular effect of alcohol consumption?
+A) Vasoconstriction
+B) Vasodilation
+C) Increased heart rate
+D) Decreased heart rate
+Question Rationale: The correct answer is B) Vasodilation. The main cardiovascular effect of alcohol consumption is vasodilation, which can lead to a feeling of warmth and facial flushing. The other options, A) Vasoconstriction, C) Increased heart rate, and D) Decreased heart rate, are not the main cardiovascular effects of alcohol consumption.
+
+11) What liver condition can result from chronic alcohol use?
+A) Fatty degeneration
+B) Hepatitis
+C) Cholestasis
+D) Hepatocellular carcinoma
+Question Rationale: The correct answer is A) Fatty degeneration. Chronic alcohol use can result in fatty degeneration (steatosis) of the liver. The other options, B) Hepatitis, C) Cholestasis, and D) Hepatocellular carcinoma, can also be associated with alcohol use, but fatty degeneration is the most common liver condition caused by chronic alcohol consumption.
+
+12) How does chronic alcohol use affect the endocrine system in males?
+A) Gynecomastia and testicular atrophy
+B) Increased testosterone production
+C) Increased sperm count
+D) Decreased estrogen levels
+Question Rationale: The correct answer is A) Gynecomastia and testicular atrophy. Chronic alcohol use can lead to gynecomastia (breast enlargement) and testicular atrophy (shrinkage) in males. The other options, B) Increased testosterone production, C) Increased sperm count, and D) Decreased estrogen levels, are not associated with chronic alcohol use in males.
+
+13) What is the immediate cause of death in ethanol or methanol intoxication?
+A) Liver failure
+B) Kidney failure
+C) Cardiac arrest
+D) Respiratory arrest
+Question Rationale: The correct answer is D) Respiratory arrest. The immediate cause of death in ethanol or methanol intoxication is respiratory arrest due to the depressant effects of these substances on the central nervous system. The other options, A) Liver failure, B) Kidney failure, and C) Cardiac arrest, are not the immediate causes of death in these cases.
+
+14) What is the primary toxic metabolite produced during methanol metabolism?
+A) Formaldehyde
+B) Acetaldehyde
+C) Formic acid
+D) Methanol itself
+Question Rationale: The correct answer is C) Formic acid. The primary toxic metabolite produced during methanol metabolism is formic acid,which can cause severe metabolic acidosis and damage to the optic nerve. The other options, A) Formaldehyde, B) Acetaldehyde, and D) Methanol itself, are not the primary toxic metabolites in methanol metabolism.
+
+15) What is the initial treatment for methanol poisoning?
+A) Sodium bicarbonate infusion
+B) Hemodialysis
+C) Inducing emesis
+D) Ethanol administration
+Question Rationale: The correct answer is D) Ethanol administration. The initial treatment for methanol poisoning is ethanol administration, which competes with methanol for the same enzyme, alcohol dehydrogenase, slowing down the formation of toxic metabolites. The other options, A) Sodium bicarbonate infusion, B) Hemodialysis, and C) Inducing emesis, may be used in the management of methanol poisoning but are not the initial treatment.
+
+16) Which drug is the first-line treatment for methanol or ethylene glycol poisoning?
+A) Ethanol
+B) Fomepizole
+C) Naloxone
+D) Acetylcysteine
+Question Rationale: The correct answer is B) Fomepizole. Fomepizole is the first-line treatment for methanol or ethylene glycol poisoning, as it inhibits alcohol dehydrogenase and prevents the formation of toxic metabolites. The other options, A) Ethanol, C) Naloxone, and D) Acetylcysteine, are not the first-line treatments for these poisonings.
+
+17) How does the presence of food in the stomach affect peak ethanol plasma levels?
+A) Increases peak levels
+B) Decreases peak levels
+C) Delays peak levels
+D) Has no effect on peak levels
+Question Rationale: The correct answer is C) Delays peak levels. The presence of food in the stomach delays the absorption of ethanol and, consequently, delays the time it takes to reach peak plasma levels. The other options, A) Increases peak levels, B) Decreases peak levels, and D) Has no effect on peak levels, are not accurate descriptions of the effect of food on ethanol absorption.
+
+18) Which of the following effects does ethanol have on glutamate receptors?
+A) Increases activity
+B) Decreases activity
+C) No effect
+D) Variable effect depending on dose
+Question Rationale: The correct answer is B) Decreases activity. Ethanol decreases the activity of glutamate receptors, which contributes to the inhibitory effects of ethanol on the central nervous system. The other options, A) Increases activity, C) No effect, and D) Variable effect depending on dose, do not accurately describe ethanol's effect on glutamate receptors.
+
+19) What is the main cause of increased urine production in alcohol consumption?
+A) Increased fluid intake
+B) Decreased ADH release
+C) Increased ADH release
+D) Both A and B
+Question Rationale: The correct answer is D) Both A and B. The main cause of increased urine production in alcohol consumption is a combination of increased fluid intake and decreased antidiuretic hormone (ADH) release. Decreased ADH release leads to reduced water reabsorption by the kidneys, resulting in increased urine production. Option C) Increased ADH release is incorrect, as alcohol consumption actually decreases ADH release.
+
+20) Which enzyme system does alcohol induce in the liver?
+A) Alcohol dehydrogenase
+B) CYP450 2E1
+C) CYP450 3A4
+D) Glutathione S-transferase
+Question Rationale: The correct answer is B) CYP450 2E1. Alcohol induces the CYP450 2E1 enzymesystem in the liver, which is involved in the metabolism of various substances, including alcohol. The other options, A) Alcohol dehydrogenase, C) CYP450 3A4, and D) Glutathione S-transferase, are not the primary enzyme systems induced by alcohol in the liver.
+
+21) What is the primary effect of alcohol on proteins?
+A) Denatures proteins
+B) Replaces water in protein cavity
+C) Increases protein synthesis
+D) Decreases protein synthesis
+Question Rationale: The correct answer is B) Replaces water in protein cavity. The primary effect of alcohol on proteins is that it replaces water molecules in the protein cavity, which can lead to changes in protein structure and function. The other options, A) Denatures proteins, C) Increases protein synthesis, and D) Decreases protein synthesis, are not the primary effects of alcohol on proteins.
+
+22) Which of the following is a sign of acute ethanol intoxication?
+A) Hypoglycemia
+B) Hyperthermia
+C) Hypothermia
+D) Hypertension
+Question Rationale: The correct answer is C) Hypothermia. Hypothermia is a sign of acute ethanol intoxication due to the vasodilatory effects of alcohol, which can lead to heat loss from the body. The other options, A) Hypoglycemia, B) Hyperthermia, and D) Hypertension, are not typical signs of acute ethanol intoxication.
+
+23) What is the onset time for symptoms of methanol poisoning?
+A) 1-2 hours
+B) 3-36 hours
+C) 48-72 hours
+D) 4-7 days
+Question Rationale: The correct answer is B) 3-36 hours. The onset time for symptoms of methanol poisoning typically ranges from 3 to 36 hours after ingestion, as the toxic metabolites accumulate in the body. The other options, A) 1-2 hours, C) 48-72 hours, and D) 4-7 days, do not accurately represent the onset time for symptoms of methanol poisoning.
+
+24) Which of the following effects does ethanol have on nicotinic receptors?
+A) Increases activity
+B) Decreases activity
+C) No effect
+D) Variable effect depending on receptor subtype and dose
+Question Rationale: The correct answer is D) Variable effect depending on receptor subtype and dose. Ethanol has variable effects on nicotinic receptors, depending on the receptor subtype and the dose of ethanol. The other options, A) Increases activity, B) Decreases activity, and C) No effect, do not accurately describe ethanol's effect on nicotinic receptors.
+
+25) What gastrointestinal issue can be caused by alcohol consumption in individuals with peptic ulcers?
+A) Erosive gastritis
+B) Decreased stomach acid production
+C) Increased pepsin levels
+D) Reduced gastric motility
+Question Rationale: The correct answer is A) Erosive gastritis. Alcohol consumption in individuals with peptic ulcers can cause erosive gastritis, which involves the inflammation and erosion of the stomach lining. The other options, B) Decreased stomach acid production, C) Increased pepsin levels, and D) Reduced gastric motility, are not the primary gastrointestinal issues caused by alcohol consumption in individuals with peptic ulcers.
+
+26) What does the Mellanby effect state about alcohol consumption?
+A) The BAC to get drunk is the same when sobering up
+B) The BAC to get drunk is lower when sobering up
+C) The BAC to get drunk is higher when sobering up
+D) The BAC to get drunkis unrelated to the sobering process
+Question Rationale: The correct answer is B) The BAC to get drunk is lower when sobering up. The Mellanby effect states that the blood alcohol concentration (BAC) required to feel the effects of alcohol is lower when an individual is sobering up compared to when they are becoming intoxicated. The other options, A) The BAC to get drunk is the same when sobering up, C) The BAC to get drunk is higher when sobering up, and D) The BAC to get drunk is unrelated to the sobering process, do not accurately describe the Mellanby effect.
+
+27) In which organ is 99% of ethanol metabolized and enters the citric acid cycle?
+A) Stomach
+B) Small intestine
+C) Liver
+D) Kidney
+Question Rationale: The correct answer is C) Liver. The liver is responsible for metabolizing approximately 99% of ethanol, which then enters the citric acid cycle. The other options, A) Stomach, B) Small intestine, and D) Kidney, are not the primary organs involved in ethanol metabolism.
+
+28) How does alcohol affect the release of prolactin, growth hormone (GH), and antidiuretic hormone (ADH)?
+A) Increases release
+B) Decreases release
+C) No effect
+D) Variable effect depending on dose
+Question Rationale: The correct answer is B) Decreases release. Alcohol consumption decreases the release of prolactin, growth hormone, and antidiuretic hormone, which can have various physiological effects. The other options, A) Increases release, C) No effect, and D) Variable effect depending on dose, do not accurately describe alcohol's effect on these hormones.
+
+29) Which of the following symptoms is commonly seen in methanol poisoning?
+A) Tremors
+B) Visual disturbances
+C) Hyperthermia
+D) Hypoglycemia
+Question Rationale: The correct answer is B) Visual disturbances. Visual disturbances, such as blurred vision, photophobia, and even complete vision loss, are common symptoms of methanol poisoning due to the toxic effects of methanol metabolites on the optic nerve. The other options, A) Tremors, C) Hyperthermia, and D) Hypoglycemia, are not typically associated with methanol poisoning.
+
+30) What is the rate-limiting step in ethanol metabolism?
+A) Ethanol to acetaldehyde by alcohol dehydrogenase
+B) Acetaldehyde to acetate by aldehyde dehydrogenase
+C) Ethanol to formaldehyde by alcohol dehydrogenase
+D) Formaldehyde to formic acid by formaldehyde dehydrogenase
+Question Rationale: The correct answer is A) Ethanol to acetaldehyde by alcohol dehydrogenase. The rate-limiting step in ethanol metabolism is the conversion of ethanol to acetaldehyde by the enzyme alcohol dehydrogenase. The other options, B) Acetaldehyde to acetate by aldehyde dehydrogenase, C) Ethanol to formaldehyde by alcohol dehydrogenase, and D) Formaldehyde to formic acid by formaldehyde dehydrogenase, are not the rate-limiting steps in ethanol metabolism.
