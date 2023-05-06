@@ -78,13 +78,22 @@ document.addEventListener('DOMContentLoaded', async () => {
             const button = document.createElement('button');
             button.textContent = choice;
             button.onclick = () => handleAnswerClick(index);
-                
+        
             // Add a class to each choice button
             button.classList.add('quiz-button');
-                
+        
             choicesContainer.appendChild(button);
           });
-        }    
+        
+          updateProgressBar();
+        }
+        
+        function updateProgressBar() {
+          const progressBar = document.getElementById('progress-bar');
+          const progress = (currentQuestion / quizData.length) * 100;
+          progressBar.style.width = progress + '%';
+        }
+        
         
 
         function handleAnswerClick(selectedIndex) {
@@ -104,8 +113,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         
           for (let i = 0; i < buttons.length; i++) {
             if (i === correctAnswer) {
+              buttons[i].innerHTML = isCorrect ? '<i class="fas fa-check"></i> ' + buttons[i].textContent : '<i class="fas fa-times"></i> ' + buttons[i].textContent;
               buttons[i].classList.add(isCorrect ? 'correct' : 'correct-after-wrong');
             } else if (i === selectedIndex && !isCorrect) {
+              buttons[i].innerHTML = '<i class="fas fa-times"></i> ' + buttons[i].textContent;
               buttons[i].classList.add('wrong');
             }
           }
