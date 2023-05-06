@@ -1,0 +1,208 @@
+1) What structures are included in the diencephalon?
+a) Thalamus, hypothalamus, epithalamus, subthalamus
+b) Cerebellum, pons, medulla
+c) Thalamus, midbrain, pons
+d) Hypothalamus, midbrain, cerebellum
+
+2) What is the primary function of the thalamus?
+a) Relay motor information
+b) Control hunger and satiety
+c) Regulate body temperature
+d) Relay sensory information to the cortex
+
+3) Which thalamic nucleus is responsible for sensory information related to the face and taste?
+a) VPL
+b) VPM
+c) LGN
+d) MGN
+
+4) Which thalamic nucleus is responsible for vision?
+a) VPL
+b) VPM
+c) LGN
+d) MGN
+
+5) Which thalamic nucleus is responsible for hearing?
+a) VPL
+b) VPM
+c) LGN
+d) MGN
+
+6) Which thalamic nuclei are involved in motor function?
+a) VPL, VPM, LGN
+b) VL, CM, VA
+c) MGN, LGN, VPM
+d) DorsoMedial nucleus, Anterior nucleus
+
+7) What is the primary function of the hypothalamus?
+a) Relay sensory information
+b) Control motor function
+c) Regulate autonomic, endocrine, and homeostatic functions
+d) Regulate sleep and alertness
+
+8) Which area of the hypothalamus is responsible for hunger?
+a) Lateral
+b) Ventromedial
+c) Anterior
+d) Posterior
+
+9) Which area of the hypothalamus is responsible for satiety?
+a) Lateral
+b) Ventromedial
+c) Anterior
+d) Posterior
+
+10) What is the primary function of the epithalamus?
+a) Regulate hunger and satiety
+b) Relay sensory information to the cortex
+c) Control motor function
+d) Consist of the habenula and the epiphysis
+
+11) Which hormone is primarily secreted by the pineal gland?
+a) Melatonin
+b) Leptin
+c) Cortisol
+d) Adrenaline
+
+12) A lesion in which area of the hypothalamus leads to anorexia and failure to thrive in infants?
+a) Lateral
+b) Ventromedial
+c) Anterior
+d) Posterior
+
+13) In fever, which substance is responsible for increasing the anterior hypothalamus temperature set point?
+a) Melatonin
+b) Prostaglandin E2
+c) Leptin
+d) Cortisol
+
+14) Which two hormones are produced by the supraoptic and paraventricular nuclei of the hypothalamus and stored in the posterior pituitary gland?
+a) ADH and oxytocin
+b) TRH and CRH
+c) GHRH and GnRH
+d) Dopamine and somatostatin
+
+15) Which hormone secreted by adipocytes after food intake regulates homeostasis?
+a) Melatonin
+b) Leptin
+c) Cortisol
+d) Adrenaline
+
+16) Which type of tumor is associated with bitemporal hemianopia and hypothalamic syndrome?
+a) Craniopharyngioma
+b) Glioblastoma
+c) Meningioma
+d) Schwannoma
+
+17) Which condition results from the loss of ADH due to hypothalamic dysfunction?
+a) Diabetes mellitus
+b) Diabetes insipidusc) Hypothyroidism
+d) Cushing's syndrome
+
+18) Which hypothalamic hormone stimulates the release of TSH?
+a) TRH
+b) CRH
+c) GHRH
+d) GnRH
+
+19) Which hypothalamic hormone stimulates the release of ACTH?
+a) TRH
+b) CRH
+c) GHRH
+d) GnRH
+
+20) What is the primary function of the habenular nuclei?
+a) Regulate hunger and satiety
+b) Relay sensory information to the cortex
+c) Receive afferent fibers from septal and preoptic areas
+d) Control motor function
+
+21) What is the primary function of the pineal gland?
+a) Relay sensory information to the cortex
+b) Control motor function
+c) Regulate autonomic, endocrine, and homeostatic functions
+d) Secrete melatonin into the bloodstream
+
+22) A pinealocyte tumor primarily affects which hormone, leading to hypogonadism?
+a) Melatonin
+b) Leptin
+c) Cortisol
+d) Adrenaline
+
+23) A non-pinealocyte tumor primarily affects which hormone, leading to early puberty?
+a) Melatonin
+b) Leptin
+c) Cortisol
+d) Adrenaline
+
+24) What is the primary function of the lateral hypothalamic area?
+a) Regulate hunger
+b) Regulate satiety
+c) Regulate body temperature
+d) Regulate circadian rhythm
+
+25) What is the primary function of the ventromedial hypothalamic area?
+a) Regulate hunger
+b) Regulate satiety
+c) Regulate body temperature
+d) Regulate circadian rhythm
+
+26) What is the primary function of the anterior hypothalamic area?
+a) Regulate hunger
+b) Regulate satiety
+c) Cooling
+d) Heating
+
+27) What is the primary function of the posterior hypothalamic area?
+a) Regulate hunger
+b) Regulate satiety
+c) Cooling
+d) Heating
+
+28) Which hormone decreases prolactin secretion?
+a) TRH
+b) CRH
+c) GHRH
+d) Dopamine
+
+29) Which hormone decreases growth hormone secretion?
+a) TRH
+b) CRH
+c) GHRH
+d) Somatostatin
+
+30) Which hormone stimulates FSH and LH release?
+a) TRH
+b) CRH
+c) GHRH
+d) GnRH
+
+31) Which syndrome is characterized by diabetes insipidus, fatigue, obesity, and loss of temperature regulation?
+a) Hypothalamic syndrome
+b) Thalamic syndrome
+c) Pineal gland syndrome
+d) Epithalamic syndrome
+
+32) What is the primary function of the supraoptic nucleus of the hypothalamus?
+a) Produce ADH
+b) Produce oxytocin
+c) Regulate hunger
+d) Regulate satiety
+
+33) What is the primary function of the paraventricular nucleus of the hypothalamus?
+a) Produce ADH
+b) Produce oxytocin
+c) Regulate hunger
+d) Regulate satiety
+
+34) Which structure is involved in the regulation of the circadian rhythm?
+a) Suprachiasmatic nucleus
+b) Lateral hypothalamic area
+c) Ventromedial hypothalamic area
+d) Anterior hypothalamic area
+
+35) Which hormone increases after daylight stimulates the retina, traveling through the pretectum and suprachiasmatic nucleus?
+a) Melatonin
+b) Leptin
+c) Cortisol
+d) Adrenaline
