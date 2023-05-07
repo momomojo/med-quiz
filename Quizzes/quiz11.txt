@@ -1,0 +1,252 @@
+1) What does the abbreviation "AED" stand for?
+A) Antiepileptic device
+B) Antiepileptic drug
+C) Antidepressant drug
+D) Automatic external defibrillator
+
+2) What is the Glasgow Coma Scale (GCS)?
+A) A scale to measure the severity of seizures
+B) A scale to measure the severity of traumatic brain injuries
+C) A scale to measure the level of consciousness in comatose patients
+D) A scale to measure the impact of neurodegenerative diseases
+
+3) What does "SAH" stand for in the context of neurosurgery?
+A) Subarachnoid atrophy
+B) Subarachnoid hemorrhage
+C) Subdural atrophy
+D) Subdural hemorrhage
+
+4) Which type of traumatic brain injury (TBI) has no scalp injury or skull fracture?
+A) Closed TBI
+B) Open TBI
+C) Penetrating TBI
+D) Diffuse TBI
+
+5) Which type of TBI involves dura matter injury?
+A) Closed TBI
+B) Open TBI
+C) Penetrating TBI
+D) Diffuse TBI
+
+6) What is the primary cause of traumatic brain injuries (TBI)?
+A) Motor vehicle accidents
+B) Falls
+C) Sports injuries
+D) Assaults
+
+7) Which of the following is NOT a type of skull fracture?
+A) Linear
+B) Depressed
+C) Comminuted
+D) Oblique
+
+8) Which statement about brain cells is correct?
+A) Brain cells regenerate quickly
+B) Brain cells do not regenerate
+C) Brain cells can be replaced by stem cells
+D) Brain cells have unlimited regenerative capacity
+
+9) What is the "Golden Hour" in the context of TBI management?
+A) The first hour after a TBI, which is crucial for treatment and management
+B) The time frame during which a patient's condition is most likely to improve
+C) The period when a patient is unconscious following a TBI
+D) The window of time for optimal brain cell regeneration
+
+10) When is endotracheal intubation indicated in TBI management?
+A) In mild TBI cases
+B) In cases with a GCS score below 8
+C) In cases with extensive facial injuries
+D) Both B and C
+
+11) Which of the following is NOT a factor in evaluating TBI severity?
+A) Glasgow Coma Scale (GCS) score
+B) Pupil size and reactivity
+C) Time since injury
+D) Level of consciousness
+
+12) What is the target cerebral perfusion pressure (CPP) in TBI management?
+A) 30-40 mmHg
+B) 40-50 mmHg
+C) 50-60 mmHg
+D) 60-70 mmHg
+
+13) Which of the following is NOT a treatment option for intracranial hypertension?
+A) Decreasing intracranial blood volume
+B) Shrinking the brain via dehydration
+C) Mechanical increase of cranial volume
+D) Increasing blood pressure
+
+14) Which of the following medications is harmful in TBI management?
+A) Steroids
+B) Acetaminophen
+C) Fentanyl
+D) Levetiracetam
+
+15) What is a concussion?
+A) A mild TBI with an alteration of consciousness lasting less than 6 hours
+B) A severe TBI with a loss of consciousness lasting more than 6 hours
+C) A focal brain injury with bleeding in the brain cortex
+D) A diffuse brain injury with immediate loss of consciousness
+Correct answer) A) A mild TBI with an alteration of consciousness lasting less than 6 hours
+
+16) What is the main characteristic of diffuse axonal injury (DAI)?
+A) Immediate loss of consciousness lasting 6+ hours
+B) Hemorrhage in the brain cortex
+C) Blood clot inside the brain
+D) Blood between the brain and the skull
+
+17) Which grade of DAI involves subcortical white matter, corpus callosum, and brainstem?
+A) Grade 1
+B) Grade 2
+C) Grade 3
+D) Grade 4
+
+18) What is a contusion or laceration in the context of TBI?
+A) Hemorrhage in the brain cortex
+B) Diffuse axonal injury
+C) Blood clot inside the brain
+D) Blood between the brain and the skull
+
+19) Which type of hematoma is most commonly associated with a skull fracture crossing a vascular groove?
+A) Epidural hematoma
+B) Subdural hematoma
+C) Intracerebral hematoma
+D) Subarachnoid hematoma
+
+20) In which type of hematoma is it more common for older people to accommodate the hematoma better?
+A) Epidural hematoma
+B) Subdural hematoma
+C) Intracerebral hematoma
+D) Subarachnoid hematoma
+
+21) What is the management approach for an intracerebral hematoma?
+A) Do not remove the blood clot
+B) Remove the blood clot immediately
+C) Treat with anticoagulants
+D) Provide osmotic agents
+
+22) In the context of trauma neurosurgery, why should bullets not be removed from the brain?
+A) It can cause more harm than good
+B) The bullet can be absorbed by the brain tissue
+C) The bullet prevents further damage to the brain
+D) It increases the risk of infection
+
+23) Which of the following is a symptom of a skull base fracture?
+A) Racoon eyes
+B) Seizures
+C) Loss of consciousness
+D) High ICP
+
+24) What is sutural diastasis?
+A) Fracture of a suture line
+B) Inflammation of a suture line
+C) Infection of a suture line
+D) Calcification of a suture line
+
+25) What is pneumocephalus?
+A) Extradural air bubbles along the skull bone
+B) Inflammation of the brain tissue
+C) Fluid buildup in the brain
+D) Blood clot in the brain
+
+26) Which of the following symptoms is associated with a carotid-cavernous fistula?
+A) Headache
+B) Loss of consciousness
+C) Seizures
+D) Memory impairment
+
+27) What does the term "anisocoria" refer to?
+A) Unequal pupil size
+B) Dilated pupils
+C) Constricted pupils
+D) Nonreactive pupils
+
+28) In TBI evaluation, which test is considered the standard for initial evaluation?
+A) MRI
+B) Non-contrast head CT
+C) Angiography
+D) Lumbar puncture
+
+29) What is the target cerebral perfusion pressure (CPP) in TBI management?
+A) 30-40 mmHg
+B) 45-55 mmHg
+C) 60-70 mmHg
+D) 75-85 mmHg
+
+30) In the context of intracranial hypertension, what is the Monro-Kellie doctrine?
+A) The relationship between intracranial pressure and cerebral blood flow
+B) The relationship between intracranial pressure and cerebral perfusion pressure
+C) The pressure/volume relationship between different parts of the brain
+D) The relationship between intracranial pressure and brain oxygenation
+
+31) Which of the following is NOT a treatment option for intracranial hypertension?
+A) Administering osmotic agents
+B) Draining cerebrospinal fluid (CSF)
+C) Increasing intracranial blood volume
+D) Removing a mass
+
+32) What is the main purpose of administering an antiepileptic medication like levetiracetam to a severe TBI patient?
+A) To prevent seizures within the first 7 days
+B) To prevent epilepsy after 7 days
+C) To promote brain healing
+D) To reduce intracranial pressure
+
+33) Which of the following medications is harmful in TBI management?
+A) Steroids
+B) Osmotic agents
+C) Sedatives
+D) Pain relievers
+
+34) Which of the following best describes a concussion?
+A) A type of diffuse axonal injury resulting in immediate loss of consciousness
+B) A brief, biomechanically induced alteration of consciousness lasting less than 6 hours
+C) A focal injury with hemorrhage in the brain cortex
+D) An extra-axial hematoma between the brain and the skull
+
+35) Which grade of diffuse axonal injury (DAI) involves damage to the subcortical white matter, corpus callosum, and brainstem?
+A) Grade 1
+B) Grade 2
+C) Grade 3
+D) Grade 4
+
+36) What is the most common type of extra-axial hematoma?
+A) Epidural hematoma
+B) Subdural hematoma
+C) Intracerebral hematoma
+D) Intraventricular hematoma
+
+37) What is the management approach for small hematomas in the brain?
+A) Surgery
+B) Observation
+C) Medication
+D) Radiation therapy
+
+38) What is the significance of the Monro-Kellie doctrine in the context of intracranial hypertension?
+A) It describes the pressure-volume relationship in the brain
+B) It describes the relationship between blood pressure and brain perfusion
+C) It describes the relationship between glucose metabolism and intracranial pressure
+D) It describes the relationship between sodium levels and cerebral perfusion pressure
+
+39) What is the goal cerebral perfusion pressure (CPP) for a patient with traumatic brain injury?
+A) 40-50 mmHg
+B) 50-60 mmHg
+C) 60-70 mmHg
+D) 70-80 mmHg
+
+40) What is the target hemoglobin level for a patient with traumatic brain injury?
+A) Above 5.0 g/dL
+B) Above 6.0 g/dL
+C) Above 7.0 g/dL
+D) Above 8.0 g/dL
+
+41) Which type of skull fracture is characterized by blood in the tympanic membrane?
+A) Sutural diastasis
+B) Pneumocephalus
+C) Carotid-cavernous fistula
+D) Hemotympanum
+
+42) What is the main symptom of a carotid-cavernous fistula?
+A) Headache
+B) Tinnitus
+C) Epistaxis
+D) Visual impairment

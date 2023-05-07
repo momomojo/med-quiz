@@ -10,7 +10,8 @@ B) Enkephalins
 C) Dysnorphins
 D) Endorphins
 
-3) Which of the following receptors are associated with analgesia, miosis, respiratory depression, euphoria, and dependence?
+3) Which of the following receptors are associated with analgesia, miosis, respiratory depression,
+euphoria, and dependence?
 A) Mu receptors
 B) Delta receptors
 C) Kappa receptors
@@ -27,6 +28,8 @@ A) Increases neurotransmitter release
 B) Bases neurotransmitter release
 C) Increases neuronal excitability
 D) Decreases neuronal excitability
+E) B and D
+F) A and C
 
 6) Which of the following is NOT a central nervous system (CNS) effect of opioids?
 A) Analgesia
@@ -40,13 +43,13 @@ B) Euphoria
 C) Miosis
 D) Respiratory depression
 
-8) What is the treatment for acute opioid intoxication?
+8) What is an example of a pure opioid antagonist used for treatment for acute opioid intoxication?
 A) Methadone
 B) Naloxone
 C) Buprenorphine
 D) Naltrexone
 
-9) Which medication is used for maintenance therapy in opioid withdrawal treatment?
+9) Which full agonist medication is used for maintenance therapy in opioid withdrawal treatment?
 A) Methadone
 B) Naloxone
 C) Buprenorphine
@@ -64,13 +67,14 @@ B) Normeperidine
 C) 6-monoacetyl morphine
 D) Hydromorphone
 
-12) Which of the following opioids is NOT mediated by opioid receptors?
+12) Which of the following opioids is NOT mediated by opioid receptors and acts as an anti-tussive?
 A) Morphine
 B) Fentanyl
 C) Meperidine
 D) Dextromethorphan
 
-13) Loperamide and Diphenoxylate are insoluble meperidine derivatives commonly used to treat which condition?
+13) Loperamide and Diphenoxylate are insoluble meperidine derivatives commonly used to treat which
+condition?
 A) Cough
 B) Diarrhea
 C) Acute pulmonary edema
@@ -88,19 +92,22 @@ B) Closes Ca2+ channels
 C) Opens K+ channels
 D) Closes K+ channels
 
-16) Which opioid is most commonly associated with the risk of bacteremia, Hepatitis B/C, and HIV due to dirty needle use?
+16) Which opioid is most commonly associated with the risk of bacteremia, Hepatitis B/C, and HIV due
+to dirty needle? This opioid also has increased lipid solubility which may contribute to its popularity.
 A) Morphine
 B) Fentanyl
 C) Heroin
 D) Codeine
 
-17) Which of the following opioids is 100-1000 times more potent than morphine?
+17) Which of the following opioids is 100-1000 times more potent than morphine and is used for it’s
+rapid onset and short duration properties?
 A) Fentanyl
 B) Meperidine
 C) Tramadol
 D) Methadone
 
-18) Which of the following medications is used in the treatment of opioid withdrawal and is combined with naloxone to prevent abuse?
+18) Which of the following medications is used in the treatment of opioid withdrawal and is combined
+with naloxone to prevent abuse?
 A) Methadone
 B) Naltrexone
 C) Buprenorphine
@@ -124,7 +131,8 @@ B) Fentanyl
 C) Meperidine
 D) Methadone
 
-22) Which of the following opioids is also used for restless leg syndrome, fibromyalgia, acid reflux, and premature ejaculation?
+22) Which of the following opioids is also used for restless leg syndrome, fibromyalgia, acid reflux, and
+premature ejaculation?
 A) Morphine
 B) Fentanyl
 C) Meperidine
@@ -148,7 +156,8 @@ B) Closes Ca2+ channels
 C) Opens K+ channels
 D) Closes K+ channels
 
-26) Which of the following medications is a long-acting opioid antagonist used to prevent relapse and also used in alcohol abuse treatment?
+26) Which of the following medications is a long-acting opioid antagonist used to prevent relapse and
+also used in alcohol abuse treatment?
 A) Methadone
 B) Naltrexone
 C) Buprenorphine
@@ -177,3 +186,42 @@ A) M-6-glucuronide
 B) Normeperidine
 C) 6-monoacetyl morphine
 D) Hydromorphone
+
+31. Which of the following opiod receptors is responsible for weak miosis, weak respiratory depression,
+and dysphoria?
+A) Mu
+B) Delta
+C) Kappa
+D) Lamda
+
+32. What endogenous opioid has the highest affinity for Delta Receptors?
+A) Endorphins
+B) Enkephalins
+C) Dynorphins
+D) Cephalosporins
+
+33. What endogenous opioid has the highest affinity for Kappa Receptors?
+A) Endorphins
+B) Enkephalins
+C) Dynorphins
+D) Cephalosporins
+
+34. Which of the following opioids was once popular in the U.S. for mild to moderate pain relief but was
+banned due to cardiovascular side effects?
+A) Morphine
+B) Methadone
+C) Propoxyphene
+D) Pentazocine
+
+35. Which of the following opioids acts as a partial agonist-antagonist and has a distinct withdrawal
+syndrome relative to other mu-agonists?
+A) Pentazocine
+B) Morphine
+C) Fentanyl
+D) Meperidine
+
+36. Which of the following opioids is a G-Protein Biased agonist?
+A) Methadone
+B) Propoxyphene
+C) Pentazocine
+D) Oliceridine
