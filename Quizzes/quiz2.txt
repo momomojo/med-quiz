@@ -1,21 +1,15 @@
-
 1) How many kilocalories per gram does alcohol yield when metabolized?
 A) 4 kcal/g
-B) 7 kcal/g
+B) 7 kcal/g 
 C) 9 kcal/g
 D) 12 kcal/g
-
-2) Which organ is primarily responsible for alcohol absorption?
-A) Stomach
-B) Small intestine
-C) Large intestine
-D) Liver
 
 3) How is blood alcohol concentration (BAC) typically measured?
 A) mg%
 B) g/dl
 C) g%
 D) µg/ml
+E) A and B
 
 4) At which BAC level would you expect to see slurred speech and uncoordinated movement?
 A) 0.05
@@ -24,7 +18,7 @@ C) 0.20
 D) 0.25
 
 5) Which enzyme plays a major role in ethanol metabolism?
-A) Alcohol dehydrogenase
+A) Alcohol dehydrogenase/Aldehyde Dehyrdogenase 
 B) CYP450 2E1
 C) Monoamine oxidase
 D) Glutamate dehydrogenase
@@ -34,12 +28,6 @@ A) Methanol
 B) Acetate
 C) Acetaldehyde
 D) Formaldehyde
-
-7) What percentage of ethanol is eliminated by the lungs, urine, and sweat?
-A) 1%
-B) 5%
-C) 10%
-D) 20%
 
 8) What effect does ethanol have on GABA receptors?
 A) Increases activity
@@ -53,7 +41,7 @@ B) Pharmacodynamic
 C) Behavioral
 D) Cross
 
-10) What is the main cardiovascular effect of alcohol consumption?
+10) What is the main cardiovascular effect that leads to hypothermia of alcohol consumption?
 A) Vasoconstriction
 B) Vasodilation
 C) Increased heart rate
@@ -61,9 +49,9 @@ D) Decreased heart rate
 
 11) What liver condition can result from chronic alcohol use?
 A) Fatty degeneration
-B) Hepatitis
-C) Cholestasis
-D) Hepatocellular carcinoma
+B) Cirrhosis
+C) Portal Hypertension
+D) All of the above
 
 12) How does chronic alcohol use affect the endocrine system in males?
 A) Gynecomastia and testicular atrophy
@@ -75,7 +63,7 @@ D) Decreased estrogen levels
 A) Liver failure
 B) Kidney failure
 C) Cardiac arrest
-D) Respiratory arrest
+D) Respiratory Depression
 
 14) What is the primary toxic metabolite produced during methanol metabolism?
 A) Formaldehyde
@@ -83,14 +71,15 @@ B) Acetaldehyde
 C) Formic acid
 D) Methanol itself
 
-15) What is the initial treatment for methanol poisoning?
+15) What is an initial treatment for methanol poisoning?
 A) Sodium bicarbonate infusion
 B) Hemodialysis
 C) Inducing emesis
 D) Ethanol administration
+E) All of the Above
 
 16) Which drug is the first-line treatment for methanol or ethylene glycol poisoning?
-A) Ethanol
+A) Morphine
 B) Fomepizole
 C) Naloxone
 D) Acetylcysteine
@@ -114,7 +103,7 @@ C) Increased ADH release
 D) Both A and B
 
 20) Which enzyme system does alcohol induce in the liver?
-A) Alcohol dehydrogenase
+A) Carbonic Anhydrase
 B) CYP450 2E1
 C) CYP450 3A4
 D) Glutathione S-transferase
@@ -125,17 +114,11 @@ B) Replaces water in protein cavity
 C) Increases protein synthesis
 D) Decreases protein synthesis
 
-22) Which of the following is a sign of acute ethanol intoxication?
+22) Which of the following is a sign of peripheral ethanol effects?
 A) Hypoglycemia
 B) Hyperthermia
 C) Hypothermia
 D) Hypertension
-
-23) What is the onset time for symptoms of methanol poisoning?
-A) 1-2 hours
-B) 3-36 hours
-C) 48-72 hours
-D) 4-7 days
 
 24) Which of the following effects does ethanol have on nicotinic receptors?
 A) Increases activity
@@ -161,7 +144,7 @@ B) Small intestine
 C) Liver
 D) Kidney
 
-28) How does alcohol affect the release of prolactin, growth hormone (GH), and antidiuretic hormone (ADH)?
+28) How does alcohol affect the release of prolactin, growth hormone (GH), and antidiuretic hormone(ADH)?
 A) Increases release
 B) Decreases release
 C) No effect
@@ -178,3 +161,9 @@ A) Ethanol to acetaldehyde by alcohol dehydrogenase
 B) Acetaldehyde to acetate by aldehyde dehydrogenase
 C) Ethanol to formaldehyde by alcohol dehydrogenase
 D) Formaldehyde to formic acid by formaldehyde dehydrogenase
+
+31) What ethanol tolerance type is associated with reduced effect and reduced concentration in plasma?
+A) Pharmacokinetic
+B) Pharmacodynamic
+C) Behavioral 
+D) Deez Nuts
