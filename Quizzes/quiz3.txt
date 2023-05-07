@@ -41,11 +41,11 @@ D) None of the above
 Correct answer: A) Increased sensitivity of medullary respiratory centers to CO2
 
 7) What is the primary cardiovascular effect of Methylxanthines?
-A) Increases heart rate
+A) Slight decrease in heart rate
 B) Dilates peripheral vasculature
 C) Constricts cerebral vasculature
 D) All of the above
-Correct answer: B) Dilates peripheral vasculature
+Correct answer: D) All of the above
 
 8) What is the primary mechanism of action of Methylxanthines?
 A) Mobilizes intracellular Ca2+
@@ -72,10 +72,10 @@ Correct answer: C) Both A and B
 A) Cocaine
 B) Methamphetamine
 C) Amphetamine
-D) Methylphenidate
+D) Caffeine
 Correct answer: C) Amphetamine
 
-12) What is the mechanism of action of psychomotor stimulants such as Amphetamine, Cocaine, Methamphetamine, and Methylphenidate?
+12) What is the mechanism of action of bigger psychomotor stimulants such as Cocaine and Methylphenidate?
 A) Release catecholamines and 5-HT
 B) Inhibit reuptake of monoamines (5-HT, NE, DA) via blockade of transporters
 C) Non-competitive glutamate NMDA receptor antagonist (channel blocker)
@@ -107,7 +107,7 @@ Correct answer: A) Reduced DAT binding (common feature of addictive behaviors)
 A) Release catecholamines and 5-HT
 B) Inhibit reuptake of monoamines (5-HT, NE, DA) via blockade of transporters
 C) Non-competitive glutamate NMDA receptor antagonist (channel blocker)
-D) None of the above
+D) None of the above, the MOA is not entirely clear
 Correct answer: D) None of the above. Modafinil is a non-amphetamine stimulant with a low abuse potential used for narcolepsy, with a mechanism of action that is not entirely clear.
 
 17) What is the primary neurotransmitter that MDMA (Ecstasy) increases the release of?
@@ -132,13 +132,6 @@ D) None of the above
 Correct answer: B) Analogues of cathinone
 
 20) What is the mechanism of action of Arylclohexylamines such as PCP?
-A) Release catecholamines and 5-HT
-B) Inhibit reuptake of monoamines (5-HT, NE, DA) via blockade of transporters
-C) Non-competitive glutamate NMDA receptor antagonist (channel blocker)
-D) None of the above
-Correct answer: C) Non-competitive glutamate NMDA receptor antagonist (channel blocker)
-
-21) What is the mechanism of action of Arylclohexylamines such as PCP?
 A) Release catecholamines and 5-HT
 B) Inhibit reuptake of monoamines (5-HT, NE, DA) via blockade of transporters
 C) Non-competitive glutamate NMDA receptor antagonist (channel blocker)
@@ -173,3 +166,9 @@ C) Rimonabant
 D) None of the above
 Correct answer: B) Varenicline
 
+26) What is the mechanism of action of smaller psychomotor stimulants such as Amphetamines?
+A) Release catecholamines and 5-HT and inhibits reuptake
+B) Inhibit reuptake of monoamines (5-HT, NE, DA) via blockade of transporters
+C) Non-competitive glutamate NMDA receptor antagonist (channel blocker)
+D) None of the above
+Correct answer: A) Release catecholamines and 5-HT
