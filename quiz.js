@@ -199,13 +199,13 @@ document.addEventListener('DOMContentLoaded', async () => {
         
           let i = 0;
           while (i < lines.length) {
-            if (/^\d+\)/.test(lines[i])) { // Check if the line starts with a number followed by a closing parenthesis
+            if (/^\d+[\.\)]/.test(lines[i])) { // Check if the line starts with a number followed by a dot or closing parenthesis
               const question = lines[i].slice(3).trim();
               i++;
         
               const choices = [];
-              while (i < lines.length && !/^\d+\)/.test(lines[i])) { // Check if the line starts with a number followed by a closing parenthesis
-                if (/^[A-D]\)/.test(lines[i])) { // Check if the line starts with a capital letter (A-D) followed by a closing parenthesis
+              while (i < lines.length && !/^\d+[\.\)]/.test(lines[i])) { // Check if the line starts with a number followed by a dot or closing parenthesis
+                if (/^[A-D][\.\)]/.test(lines[i])) { // Check if the line starts with a capital letter (A-D) followed by a dot or closing parenthesis
                   choices.push(lines[i].slice(2).trim());
                 }
                 i++;
@@ -226,6 +226,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         
           return quizData;
         }
+        
       } catch (error) {
         console.error('Error:', error);
       }
