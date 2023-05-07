@@ -40,12 +40,6 @@ B) Phenytoin
 C) Ethosuximide
 D) Valproic Acid
 
-8) What is the primary etiology of seizures in adults?
-A) Infection
-B) Trauma
-C) Tumor
-D) Stroke
-
 9) Which of the following is NOT a common cause of provoked seizures?
 A) Hypo-hyper-natremia
 B) Hypoglycemia
@@ -118,12 +112,6 @@ B) Generalized seizure
 C) Absence seizure
 D) Tonic-clonic seizure
 
-21) What is the primary cause of seizures in the elderly population?
-A) Infection
-B) Trauma
-C) Tumor
-D) Stroke
-
 22) Which syndrome is characterized by 1-2 Hz slow spike and wave on EEG and is preceded by infantile spasms?
 A) Lennox-Gastaut syndrome
 B) West syndrome
@@ -154,12 +142,6 @@ B) Phenytoin
 C) Ethosuximide
 D) Valproic Acid
 
-27) What is the primary cause of seizures in pediatric patients?
-A) Infection
-B) Trauma
-C) Genetics
-D) Metabolism
-
 28) Which type of seizure is characterized by eyelid fluttering or myoclonia?
 A) Partial/Focal seizure
 B) Generalized seizure
@@ -172,8 +154,3 @@ B) Valproic Acid
 C) Lamotrigine
 D) Phenytoin
 
-30) Which of the following is NOT a common cause of seizures in adults?
-A) Tumor
-B) Trauma
-C) Stroke
-D) Infection

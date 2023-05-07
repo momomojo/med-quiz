@@ -64,12 +64,6 @@ B) Valproic Acid
 C) Ethosuximide
 D) Topiramate
 
-12) Which medication is most teratogenic?
-A) Valproate
-B) Carbamazepine
-C) Phenytoin
-D) Phenobarbital
-
 13) Which medication is associated with causing Stevens-Johnson Syndrome (SJS)?
 A) Lamotrigine
 B) Carbamazepine
@@ -99,12 +93,6 @@ B) Gabapentin
 C) Carbamazepine
 D) Valproic Acid
 
-19) Which medication is known to decrease the efficacy of oral contraceptive pills?
-A) Topiramate
-B) Oxcarbazepine
-C) Phenytoin
-D) Ethosuximide
-
 20) Which medication is associated with causing cleft lip or palate?
 A) Lamotrigine
 B) Carbamazepine
@@ -116,12 +104,6 @@ A) Valproic Acid
 B) Levetiracetam
 C) Topiramate
 D) Gabapentin
-
-22) Which medication is associated with a risk of acute closed-angle glaucoma?
-A) Topiramate
-B) Valproic Acid
-C) Lamotrigine
-D) Carbamazepine
 
 23) Which medication irreversibly inhibits GABA transaminase?
 A) Vigabatrin
