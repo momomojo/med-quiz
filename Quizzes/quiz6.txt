@@ -1,328 +1,328 @@
-1. What does hypoxia refer to?
+1) What does hypoxia refer to?
 A) Lack of blood circulation
 B) Lack of oxygen
 C) Death of tissue
 D) Excessive blood flow
 
-2. Which of these is a consequence of ischemia?
+2) Which of these is a consequence of ischemia?
 A) Hyperoxygenation
 B) Excessive blood flow
 C) Hypoxia
 D) Vasodilation
 
-3. What is an infarction?
+3) What is an infarction?
 A) Excessive blood flow
 B) Tissue death due to hypoxia
 C) Tissue death due to hyperoxygenation
 D) Lack of blood circulation
 
-4. Which term describes the effects on the entire brain?
+4) Which term describes the effects on the entire brain?
 A) Focal hypoxia
 B) Global hypoxia
 C) Localized ischemia
 D) Generalized ischemia
 
-5. What are red neurons?
+5) What are red neurons?
 A) Neurons that are resistant to ischemia
 B) Neurons that have been oxygenated
 C) Ischemic neurons
 D) Neurons that are resistant to hypoxia
 
-6. Which part of the brain is most sensitive to ischemia?
+6) Which part of the brain is most sensitive to ischemia?
 A) Basal ganglia
 B) Purkinje cells
 C) Sommer's sector of the hippocampus
 D) Thalamus
 
-7. What does laminar necrosis initially affect?
+7) What does laminar necrosis initially affect?
 A) Entire thickness of the cortex
 B) Watershed areas
 C) Cortex layers
 D) Basal ganglia
 
-8. Which of these is a sign of brain death?
+8) Which of these is a sign of brain death?
 A) Isoelectric (flat) EEG
 B) Hypersensitivity to stimuli
 C) Intact brain reflexes
 D) Normal respiration
 
-9. Focal hypoxia or ischemia is typically caused by:
+9) Focal hypoxia or ischemia is typically caused by:
 A) A widespread decrease in blood circulation
 B) An occluded blood vessel
 C) General anesthesia
 D) Hyperventilation
 
-10. Where do most emboli in the brain travel through?
+10) Where do most emboli in the brain travel through?
 A) Anterior cerebral artery
 B) Middle cerebral artery
 C) Posterior cerebral artery
 D) Internal carotid artery
 
-11. Which of the following differentiates a thrombus from an embolus?
+11) Which of the following differentiates a thrombus from an embolus?
 A) A thrombus is local and remains in place, while an embolus migrates to a vessel
 B) A thrombus is a clot that travels, while an embolus remains in place
 C) A thrombus is formed by atherosclerosis, while an embolus is formed by hypertension
 D) A thrombus is formed by an infection, while an embolus is formed by atherosclerosis
 
-12. Hemorrhagic infarcts are primarily caused by:
+12) Hemorrhagic infarcts are primarily caused by:
 A) Embolism
 B) Atherosclerosis
 C) Vasospasm
 D) All of the above
 
-13. What causes ischemic infarctions?
+13) What causes ischemic infarctions?
 A) Atherosclerosis
 B) Thrombosis
 C) Embolism
 D) All of the above
 
-14. Red neurons typically appear after:
+14) Red neurons typically appear after:
 A) 12-24 hours
 B) 2-7 days
 C) 2-3 weeks
 D) 6-8+ weeks
 
-15. Which type of hemorrhage is usually caused by hypertension?
+15) Which type of hemorrhage is usually caused by hypertension?
 A) Subarachnoid hemorrhage
 B) Intracerebral hemorrhage
 C) Epidural hematoma
 D) Subdural hematoma
 
-16. What are the common locations for hypertension-induced intracerebral hemorrhages?
+16) What are the common locations for hypertension-induced intracerebral hemorrhages?
 A) Basal ganglia and thalamus
 B) Cortex and hippocampus
 C) Pons and medulla
 D) Cerebellum and brainstem
 
-17. Which type of aneurysm is commonly found in the subarachnoid space?
+17) Which type of aneurysm is commonly found in the subarachnoid space?
 A) Saccular
 B) Atherosclerotic (fusiform)
 C) Mycotic
 D) Dissecting
 
-18. Mycotic aneurysms are caused by:
+18) Mycotic aneurysms are caused by:
 A) Infection or septic emboli
 B) Atherosclerosis
 C) Hypertension
 D) Vascular malformations
 
-19. Which vascular malformation is typically found in the white matter and is associated with caput medusa?
+19) Which vascular malformation is typically found in the white matter and is associated with caput medusa?
 A) Arteriovenous malformation (AVM)
 B) Cavernous hemangioma
 C) Venous malformation
 D) Capillary telangiectasia
 
-20. Vasogenic edema is caused by:
+20) Vasogenic edema is caused by:
 A) Fluid in the intracellular compartment due to cellular membrane injury
 B) Fluid in the extracellular space due to blood-brain barrier problems
 C) Excessive blood flow
 D) None of the above
 
-21. What is the main cause of stroke?
+21) What is the main cause of stroke?
 A) Arterial issues
 B) Blood hypercoagulability
 C) Cardiac issues
 D) All of the above
 
-22. Atherosclerosis typically involves:
+22) Atherosclerosis typically involves:
 A) Small arteries
 B) Large arteries
 C) Veins
 D) Capillaries
 
-23. What is the primary cause of cardiac strokes?
+23) What is the primary cause of cardiac strokes?
 A) Atrial fibrillation
 B) Myocardial infarction
 C) Cardiomyopathy
 D) Valvular heart disease
 
-24. Which medication is a vitamin K antagonist used for thromboembolism prevention?
+24) Which medication is a vitamin K antagonist used for thromboembolism prevention?
 A) Warfarin
 B) Dabigatran
 C) Rivaroxaban
 D) Apixaban
 
-25. Thrombi formed in the left atrium due to atrial fibrillation can lead to:
+25) Thrombi formed in the left atrium due to atrial fibrillation can lead to:
 A) Myocardial infarction
 B) Venous thrombosis
 C) Stroke
 D) Pulmonary embolism
 
-26. The appearance of acute neuronal injury includes:
+26) The appearance of acute neuronal injury includes:
 A) Eosinophilic neuronal necrosis (red neurons)
 B) Dark, smudgy chromatin
 C) Eosinophilic shrunken cytoplasm
 D) All of the above
 
-27. What is the area of potentially salvageable brain tissue around an infarcted area called?
+27) What is the area of potentially salvageable brain tissue around an infarcted area called?
 A) Penumbra
 B) Ischemic core
 C) Cerebral vasculature
 D) Infarct zone
 
-28. Intracerebral hemorrhage can be induced by:
+28) Intracerebral hemorrhage can be induced by:
 A) Hypertension
 B) Cerebral amyloid angiopathy
 C) Vascular malformations
 D) All of the above
 
-29. Which type of brain herniation can compress the third cranial nerve and the posterior cerebral artery?
+29) Which type of brain herniation can compress the third cranial nerve and the posterior cerebral artery?
 A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
 
-30. Kernohan's notch is associated with:
+30) Kernohan's notch is associated with:
 A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
 
-31. What is the main consideration for a coagulation disorder in a stroke patient?
+31) What is the main consideration for a coagulation disorder in a stroke patient?
 A) Age over 70
 B) Multiple unexplained strokes
 C) Patient has a history of diabetes
 D) Patient has a history of hypertension
 
-32. Which type of edema is caused by fluid in the intracellular compartment due to cellular membrane injury?
+32) Which type of edema is caused by fluid in the intracellular compartment due to cellular membrane injury?
 A) Vasogenic edema
 B) Cytotoxic edema
 C) Hydrostatic edema
 D) Osmotic edema
 
-33. In a patient with intracranial hemorrhage, which symptom is a non-neurological cue?
+33) In a patient with intracranial hemorrhage, which symptom is a non-neurological cue?
 A) Severe headache
 B) High blood pressure
 C) Meningismus
 D) Seizures
 
-34. Which type of infarction can result from occlusion of a blood vessel followed by a buildup of pressure in the vessel, leading to bleeding?
+34) Which type of infarction can result from occlusion of a blood vessel followed by a buildup of pressure in the vessel, leading to bleeding?
 A) Ischemic infarction
 B) Hemorrhagic infarction
 C) Cerebral infarction
 D) Myocardial infarction
 
-35. What is the treatment for symptomatic carotid stenosis?
+35) What is the treatment for symptomatic carotid stenosis?
 A) Carotid endarterectomy
 B) Angioplasty and stenting
 C) Anticoagulant therapy
 D) Antiplatelet therapy
 
-36. Which type of aneurysm is often caused by atherosclerosis?
+36) Which type of aneurysm is often caused by atherosclerosis?
 A) Saccular aneurysm
 B) Fusiform aneurysm
 C) Mycotic aneurysm
 D) Dissecting aneurysm
 
-37. Which type of intracranial hemorrhage is typically found where the internal carotid artery enters the cranium?
+37) Which type of intracranial hemorrhage is typically found where the internal carotid artery enters the cranium?
 A) Hypertension-induced
 B) Cerebral amyloid angiopathy-induced
 C) Subarachnoid hemorrhage
 D) Epidural hematoma
 
-38. What is the main cause of arterial strokes?
+38) What is the main cause of arterial strokes?
 A) Hypoperfusion
 B) Thrombosis
 C) Embolisms
 D) All of the above
 
-39. Which type of stroke is most commonly associated with a coagulation disorder?
+39) Which type of stroke is most commonly associated with a coagulation disorder?
 A) Ischemic stroke
 B) Hemorrhagic stroke
 C) Lacunar stroke
 D) Embolic stroke
 
-40. Which of the following is a thrombin inhibitor used for thromboembolism prevention?
+40) Which of the following is a thrombin inhibitor used for thromboembolism prevention?
 A) Warfarin
 B) Dabigatran
 C) Rivaroxaban
 D) Apixaban
 
-41. What is the most common presentation in patients with stroke and coagulation disorders?
+41) What is the most common presentation in patients with stroke and coagulation disorders?
 A) Ischemic stroke
 B) Hemorrhagic stroke
 C) Venous thrombosis
 D) Arterial thrombosis
 
-42. Cholesterol crystal clefts are highly suggestive of:
+42) Cholesterol crystal clefts are highly suggestive of:
 A) Thromboembolism
 B) Atheroembolus
 C) Venous thrombosis
 D) Arterial thrombosis
 
-43. Which type of brain herniation can lead to compression of the opposite side of the brainstem against the tentorium?
+43) Which type of brain herniation can lead to compression of the opposite side of the brainstem against the tentorium?
 A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
 
-44. In which type of edema is fluid found in the extracellular space due to a problem with the blood-brain barrier?
+44) In which type of edema is fluid found in the extracellular space due to a problem with the blood-brain barrier?
 A) Vasogenic edema
 B) Cytotoxic edema
 C) Hydrostatic edema
 D) Osmotic edema
 
-45. Which type of intracranial hemorrhage is typically caused by vascular malformations?
+45) Which type of intracranial hemorrhage is typically caused by vascular malformations?
 A) Subarachnoid hemorrhage
 B) Intracerebral hemorrhage
 C) Epidural hematoma
 D) Subdural hematoma
 
-46. Which of the following is a vitamin K antagonist used for thromboembolism prevention?
+46) Which of the following is a vitamin K antagonist used for thromboembolism prevention?
 A) Warfarin
 B) Dabigatran
 C) Rivaroxaban
 D) Apixaban
 
-47. What is the term for an area of potentially salvageable brain tissue around an infarcted area?
+47) What is the term for an area of potentially salvageable brain tissue around an infarcted area?
 A) Ischemic core
 B) Penumbra
 C) Hypoperfusion zone
 D) Peri-infarct zone
 
-48. Kernohan's notch is associated with which type of brain herniation?
+48) Kernohan's notch is associated with which type of brain herniation?
 A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
 
-49. Which type of aneurysm is caused by infection or septic emboli?
+49) Which type of aneurysm is caused by infection or septic emboli?
 A) Saccular aneurysm
 B) Fusiform aneurysm
 C) Mycotic aneurysm
 D) Dissecting aneurysm
 
-50. Which type of vascular malformation causes hemorrhages and is found in the white matter?
+50) Which type of vascular malformation causes hemorrhages and is found in the white matter?
 A) Arteriovenous malformation
 B) Cavernous hemangioma
 C) Venous malformation
 D) Capillary telangiectasia
 
-51. Which of the following is a cause of intracerebral hemorrhage?
+51) Which of the following is a cause of intracerebral hemorrhage?
 A) Hypertension
 B) Cerebral amyloid angiopathy
 C) Vascular malformations
 D) All of the above
 
-52. Which type of brain herniation can compress the third cranial nerve and the posterior cerebral artery?
+52) Which type of brain herniation can compress the third cranial nerve and the posterior cerebral artery?
 A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
 
-53. What is the primary cause of cardiac strokes?
+53) What is the primary cause of cardiac strokes?
 A) Atrial fibrillation
 B) Myocardial infarction
 C) Cardiac tamponade
 D) Congestive heart failure
 
-54. What is the term for the appearance of acute neuronal injury due to ischemia?
+54) What is the term for the appearance of acute neuronal injury due to ischemia?
 A) Eosinophilic neuronal necrosis
 B) Red neurons
 C) Laminar necrosis
 D) Spheroids
 
-55. Which of the following is a cause of focal hypoxia/ischemia?
+55) Which of the following is a cause of focal hypoxia/ischemia?
 A) Occluded blood vessel
 B) Hypoxia due to respiratory failure
 C) Hypoxia due to anemia
