@@ -1,56 +1,65 @@
-1) Which of the following best describes the difference between an opioid and an opiate?
+1. Which of the following best describes the difference between an opioid and an opiate?
 A) Opioids are synthetic, while opiates are naturally derived.
 B) Opioids are derived from opium, while opiates activate opioid receptors.
 C) Opioids activate opioid receptors, while opiates are derived from opium.
 D) There is no difference between opioids and opiates.
+E) There is no difference between opioids and opiates.
 
 2) What are the natural peptide activators of opioid receptors?
 A) Opiates
 B) Enkephalins
 C) Dysnorphins
 D) Endorphins
+E) There is no difference between opioids and opiates.
 
 3) Which of the following receptors are associated with analgesia, miosis, respiratory depression, euphoria, and dependence?
 A) Mu receptors
 B) Delta receptors
 C) Kappa receptors
 D) Sigma receptors
+E) There is no difference between opioids and opiates.
 
 4) Which opioid receptor is associated with convulsions?
 A) Mu receptors
 B) Delta receptors
 C) Kappa receptors
 D) Sigma receptors
+E) There is no difference between opioids and opiates.
 
 5) What is the primary effect of opioid receptor activation on the nervous system?
 A) Increases neurotransmitter release
 B) Bases neurotransmitter release
 C) Increases neuronal excitability
 D) Decreases neuronal excitability
+E) There is no difference between opioids and opiates.
 
 6) Which of the following is NOT a central nervous system (CNS) effect of opioids?
 A) Analgesia
 B) Euphoria
 C) Miosis
 D) Constipation
+E) There is no difference between opioids and opiates.
 
 7) Which opioid effect does not develop tolerance over time?
 A) Analgesia
 B) Euphoria
 C) Miosis
 D) Respiratory depression
+E) There is no difference between opioids and opiates.
 
 8) What is the treatment for acute opioid intoxication?
 A) Methadone
 B) Naloxone
 C) Buprenorphine
 D) Naltrexone
+E) There is no difference between opioids and opiates.
 
 9) Which medication is used for maintenance therapy in opioid withdrawal treatment?
 A) Methadone
 B) Naloxone
 C) Buprenorphine
 D) Naltrexone
+E) There is no difference between opioids and opiates.
 
 10) Which of the following opioids has anticholinergic effects?
 A) Morphine
