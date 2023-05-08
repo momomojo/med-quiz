@@ -52,11 +52,11 @@ B) Ventromedial
 C) Anterior
 D) Posterior
 
-10) What is the primary function of the epithalamus?
-A) Regulate hunger and satiety
-B) Relay sensory information to the cortex
-C) Control motor function
-D) Consist of the habenula and the epiphysis
+10) The epithalamus...?
+A) Regulates hunger and satiety
+B) Relays sensory information to the cortex
+C) Controls motor function
+D) Consists of the habenula, epiphysis, pineal gland, choroid plexus
 
 11) Which hormone is primarily secreted by the pineal gland?
 A) Melatonin
@@ -96,7 +96,8 @@ D) Schwannoma
 
 17) Which condition results from the loss of ADH due to hypothalamic dysfunction?
 A) Diabetes mellitus
-B) Diabetes insipidusC) Hypothyroidism
+B) Diabetes insipidus
+C) Hypothyroidism
 D) Cushing's syndrome
 
 18) Which hypothalamic hormone stimulates the release of TSH?
@@ -114,7 +115,7 @@ D) GnRH
 20) What is the primary function of the habenular nuclei?
 A) Regulate hunger and satiety
 B) Relay sensory information to the cortex
-C) Receive afferent fibers from septal and preoptic areas
+C) Receive afferent fibers from septal and preoptic areas, and transmits to the interpeduncular Nucleus & Ventral Tegmental Area (decreases reward pathways )
 D) Control motor function
 
 21) What is the primary function of the pineal gland?
@@ -136,10 +137,10 @@ C) Cortisol
 D) Adrenaline
 
 24) What is the primary function of the lateral hypothalamic area?
-A) Regulate hunger
-B) Regulate satiety
-C) Regulate body temperature
-D) Regulate circadian rhythm
+A) Positive Regulation of hunger
+B) Positive Regulation of satiety
+C) Negative Regulation of body temperature
+D) Negative Regulation of the circadian rhythm
 
 25) What is the primary function of the ventromedial hypothalamic area?
 A) Regulate hunger
@@ -177,7 +178,8 @@ B) CRH
 C) GHRH
 D) GnRH
 
-31) Which syndrome is characterized by diabetes insipidus, fatigue, obesity, and loss of temperature regulation?
+31) Which syndrome is characterized by diabetes insipidus, fatigue, obesity, and loss of temperature
+regulation?
 A) Hypothalamic syndrome
 B) Thalamic syndrome
 C) Pineal gland syndrome
@@ -201,7 +203,8 @@ B) Lateral hypothalamic area
 C) Ventromedial hypothalamic area
 D) Anterior hypothalamic area
 
-35) Which hormone increases after daylight stimulates the retina, traveling through the pretectum and suprachiasmatic nucleus?
+35) Which hormone increases after daylight stimulates the retina, traveling through the pretectum and
+suprachiasmatic nucleus?
 A) Melatonin
 B) Leptin
 C) Cortisol
