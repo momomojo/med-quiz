@@ -187,30 +187,30 @@ document.addEventListener('DOMContentLoaded', async () => {
           const txtData = await response.text();
           const responseAnswers = await fetch(answerKeyURL);
           const txtAnswers = await responseAnswers.text();
-        
+          
           const answers = txtAnswers
             .trim()
             .split('\n')
             .filter(line => line.trim()) // Filter out empty lines
             .map(line => line.slice(3).trim().toUpperCase());
-        
+          
           const lines = txtData.trim().split('\n');
           const quizData = [];
-        
+          
           let i = 0;
           while (i < lines.length) {
             if (/^\d+[\.\)]/.test(lines[i])) { // Check if the line starts with a number followed by a dot or closing parenthesis
               const question = lines[i].slice(3).trim();
               i++;
-        
+              
               const choices = [];
               while (i < lines.length && !/^\d+[\.\)]/.test(lines[i])) { // Check if the line starts with a number followed by a dot or closing parenthesis
-                if (/^[A-D][\.\)]/.test(lines[i])) { // Check if the line starts with a capital letter (A-D) followed by a dot or closing parenthesis
+                if (/^[A-Z][\.\)]/.test(lines[i])) { // Check if the line starts with a capital letter (A-Z) followed by a dot or closing parenthesis
                   choices.push(lines[i].slice(2).trim());
                 }
                 i++;
               }
-        
+              
               const answerIndex = quizData.length;
               if (answerIndex < answers.length) {
                 const correctAnswer = answers[answerIndex].charCodeAt(0) - 65;
@@ -223,9 +223,10 @@ document.addEventListener('DOMContentLoaded', async () => {
               i++;
             }
           }
-        
+          
           return quizData;
         }
+        
         
       } catch (error) {
         console.error('Error:', error);
