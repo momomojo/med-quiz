@@ -6,8 +6,8 @@ D) Automatic external defibrillator
 
 2) What is the Glasgow Coma Scale (GCS)?
 A) A scale to measure the severity of seizures
-B) A scale to measure the severity of traumatic brain injuries
-C) A scale to measure the level of consciousness in comatose patients
+B) A scale to measure the severity of pain in TBIs
+C) A scale to measure the level of consciousness in people with brain injury
 D) A scale to measure the impact of neurodegenerative diseases
 
 3) What does "SAH" stand for in the context of neurosurgery?

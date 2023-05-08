@@ -95,10 +95,10 @@ C) Hemorrhage
 D) Meningioma
 
 17) Which of the following conditions is caused by granulation tissue forming around the hematoma of a subdural hemorrhage, leading to a gelatinous mass that becomes vascularized and prone to bleeding?
-a) Epidural hematoma
-b) Subarachnoid hemorrhage
-c) Postraumatic hydrocephalus
-d) Chronic subdural hematoma
+A) Epidural hematoma
+B) Subarachnoid hemorrhage
+C) Postraumatic hydrocephalus
+D) Chronic subdural hematoma
 
 18) What type of injury is characterized by damage to the crest of gyri and may result in vessel injury, tissue damage, and edema?
 A) Contusion
