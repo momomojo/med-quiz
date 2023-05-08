@@ -55,8 +55,8 @@ D) Opioid withdrawal
 10) Which of the following is a lab test that reveals heavy drinking?
 A) CDT
 B) ALT
-C) AST
-D) GGT
+C) GGT
+D) All the above
 
 11) What is the treatment for alcohol withdrawal?
 A) Benzodiazepines
@@ -88,11 +88,11 @@ B) Mu and Kappa
 C) GABA
 D) NMDA
 
-16) Which of the following is a symptom of cannabis withdrawal?
-A) Euphoria
-B) Irritability
-C) Increased appetite
-D) Hypotension
+16) Which of the following is NOT a symptom of cannabis withdrawal?
+A) Anxiety
+B) Irritability and chills 
+C) Depressed mood
+D) Increased apetite
 
 17) What is the characteristic behavior of patients with cannabis hyperemesis syndrome?
 A) Increased water intake
@@ -101,9 +101,10 @@ C) Compulsive exercise
 D) Excessive sleep
 
 18) Which medication is a competitive antagonist for the benzodiazepine binding site?
-A) Diazepam
-B) Lorazepam
+A) Naltroxone
+B) Acamprosate
 C) Flumazenil
+D) Naloxone
 
 19) Barbiturates have which suffix?
 A) -olam
@@ -148,9 +149,9 @@ C) GABAa receptor agonist
 D) GABAa receptor antagonist
 
 26) Which of the following is NOT a symptom of PCP intoxication?
-A) Hypertension
+A) Super strength
 B) Nystagmus
-C) Analgesia
+C) Violence
 D) Mydriasis
 
 27) What is the MOA of hallucinogens like LSD and psilocybin?
@@ -159,7 +160,7 @@ B) 5HT2a agonist
 C) 5HT1a antagonist
 D) 5HT2a antagonist
 
-28) What is the MOA of MDMA?
+28) What is the primary MOA of MDMA?
 A) Increase serotonin release and block reuptake
 B) Increase dopamine release and block reuptake
 C) Increase norepinephrine release and block reuptake
@@ -177,7 +178,7 @@ B) Presence of 3 or more symptoms
 C) Presence of 5 or more symptoms
 D) Presence of 7 or more symptoms
 
-31) What is the treatment for opioid withdrawal?
+31) What is the treatment/ detox for opioid withdrawal?
 A) Benzodiazepines
 B) Buprenorphine and methadone
 C) Antipsychotics
@@ -190,10 +191,10 @@ C) Ondansetron
 D) Loperamide
 
 33) Which medication is used to prevent nausea during opioid withdrawal?
-A) Clonidine
+A) Loperamide
 B) Promethazine
 C) Ondansetron
-D) Loperamide
+D) Both B and C
 
 34) Which medication is used to prevent diarrhea during opioid withdrawal?
 A) Clonidine
@@ -207,11 +208,11 @@ B) Acute intoxication with hallucinogens
 C) Re-experiencing perceptual symptoms experienced while intoxicated
 D) Withdrawal from hallucinogens
 
-36) What is the primary symptom of fetal alcohol syndrome?
-A) Intellectual disability
-B) Hypertension
-C) Bradycardia
-D) Weight gain
+36) What is NOT a symptom or feature of fetal alcohol syndrome?
+A) Intellectual disability and microcephaly
+B) Low nasal bridge with wide set eyes
+C) Hyporeflexic with rough philurum (upper lip)
+D) Epicanthal folds with short palpebral fissure 
 
 37) Which of the following is NOT a feature of fetal alcohol syndrome?
 A) Microcephaly
@@ -219,17 +220,12 @@ B) Low nasal bridge
 C) Wide-set eyes
 D) Miotic pupils
 
-38) Which of the following is NOT a symptom of cannabis withdrawal?
-A) Irritability
-B) Anxiety
-C) Depressed mood
-D) Increased appetite
-
 39) Which of the following is a symptom of delirium tremens?
 A) Hypotension
-B) Bradycardia
+B) Visual and Tactile Hallucinations
 C) Autonomic arousal
-D) Weight gain
+D) Both B and C
+E) Both A and B
 
 40) What is the primary cause of Korsakoff psychosis?
 A) Acute thiamine deficiency
@@ -244,40 +240,22 @@ C) Naltrexone
 D) Methylnaltrexone
 
 42) Which of the following is NOT a symptom of Wernicke's encephalopathy?
-A) Confusion
-B) Ataxia
-C) Hypertension
-D) Ophthalmoplegia
-
-43) What is the MOA of meperidine?
-A) Mu receptor agonist
-B) Mu receptor antagonist
-C) Kappa receptor agonist
-D) Kappa receptor antagonist
+A) Confusion and Ataxia
+B) Symetric hyperintensities in thalmi and mammillary bodies
+C) CN 3 palsey 
+D) Horizantal Nystagmus
 
 44) Which of the following is NOT a symptom of opioid abuse?
-A) Sedation
+A) Constipation
 B) Respiratory depression
 C) Euphoria
 D) Mydriasis
 
-45) What is the primary reason routine opioid screening does not test for synthetic opioids?
-A) They are less harmful than natural opioids
-B) They are less addictive than natural opioids
-C) The tests cannot differentiate between natural and synthetic opioids
-D) The tests are not sensitive enough to detect synthetic opioids
-
 46) What is the primary treatment for opioid overdose?
 A) Airway support
-B) Benzodiazepines
+B) Circulation support
 C) Naloxone
-D) Circulation support
-
-47) Which of the following is NOT a symptom of cannabis hyperemesis syndrome?
-A) Repeated severe vomiting
-B) Cessation of cannabis use
-C) Repetitive hot water bathing behavior
-D) Irritability
+D) All the above
 
 48) What is the MOA of barbiturates?
 A) Increase frequency of Cl- channel opening at GABAa receptor
@@ -285,49 +263,13 @@ B) Increase duration of Cl- channel opening at GABAa receptor
 C) Block serotonin reuptake
 D) Block norepinephrine reuptake
 
-49) Which of the following is a common side effect of MDMA intoxication?
-A) Bruxism
-B) Miosis
-C) Hypotension
-D) Bradycardia
-
-50) What is the primary symptom of hallucinogen persisting perception disorder?
+50) What is NOT a symptom of hallucinogen persisting perception disorder?
 A) Geometric hallucinations
 B) False perception of movement in peripheral vision
-C) Flashes of color
-D) Trails of images
+C) Hearing high frequency pitches 
+D) Trails of images and flashes of colors
 
-51) Which medication is a competitive antagonist for the benzodiazepine binding site?
-A) Flumazenil
-B) Diazepam
-C) Lorazepam
-D) Chlordiazepoxide
-
-52) Which of the following substances acts on CB1 and CB2 receptors?
-A) Alcohol
-B) Opioids
-C) Cannabis
-D) Benzodiazepines
-
-53) What is the MOA of PCP?
-A) Glutamate NMDA antagonist
-B) GABAa agonist
-C) 5HT2a agonist
-D) Mu opioid agonist
-
-54) Which of the following medications is an opioid antagonist that does not cross the blood-brain barrier?
-A) Methylnaltrexone
-B) Naltrexone
-C) Methadone
-D) Buprenorphine
-
-55) What is the MOA of Z-drugs?
-A) Bind to benzodiazepine BZ-1 (omega1) receptor
-B) Block serotonin reuptake
-C) Block norepinephrine reuptake
-D) Increase frequency of Cl- channel opening at GABAa receptor
-
-56) What are the three primary symptoms of opioid overdose?
+51) What are the three primary symptoms of opioid overdose?
 A) Miotic pupils, abnormal mental status, respiratory depression
 B) Mydriasis, agitation, tachycardia
 C) Hypertension, hyperthermia, hallucinations
