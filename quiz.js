@@ -1,3 +1,26 @@
+(async function() {
+  // Your copied firebaseConfig object
+  const firebaseConfig = {
+    apiKey: "AIzaSyCn-dqVI8j6ub5HN5aegixR5zKOgU7JQGU",
+    authDomain: "med-quiz-9b266.firebaseapp.com",
+    databaseURL: "https://med-quiz-9b266-default-rtdb.firebaseio.com",
+    projectId: "med-quiz-9b266",
+    storageBucket: "med-quiz-9b266.appspot.com",
+    messagingSenderId: "2474468159",
+    appId: "1:2474468159:web:d9895ad541c9e6e23ee98a",
+    measurementId: "G-R0Z1JDDHZ0"
+  };
+
+  // If the app has already been initialized, return early
+  if (firebase.apps.length) {
+    return;
+  }
+
+  let app = firebase.initializeApp(firebaseConfig);
+
+  // Add this line to get a reference to the Realtime Database
+  const database = firebase.database();
+
 document.addEventListener('DOMContentLoaded', async () => {
   try {
     const quizSelectContainer = document.getElementById('quiz-select-container');
@@ -6,42 +29,95 @@ document.addEventListener('DOMContentLoaded', async () => {
     const resultsContainer = document.getElementById('results');
     const restartButton = document.getElementById('restart');
 
-    async function checkQuizExists(quizName) {
-      const response = await fetch(`./Quizzes/${quizName}.txt`);
-      return response.ok;
+    async function fileExists(url) {
+      try {
+        const response = await fetch(url, { method: 'HEAD' });
+        return response.status === 200;
+      } catch (error) {
+        console.error('Error checking file existence:', error);
+        return false;
+      }
     }
+    
+    async function checkQuizExists(quizName) {
+      const url = `./Quizzes/${quizName}.txt`;
+      return await fileExists(url);
+    }
+    
+    
+    async function updateQuizName(quizName, newName) {
+      if (!newName || newName.trim() === '') {
+        console.error('New name cannot be empty');
+        return;
+      }
+    
+      const quizNames = await getQuizNames();
+      quizNames[quizName] = newName;
+    
+      const updates = {};
+      updates[`/quizNames/${quizName}`] = newName;
+      return database.ref().update(updates);
+    }
+    
+    async function getQuizNames() {
+      const quizNamesSnapshot = await database.ref('/quizNames').once('value');
+      return quizNamesSnapshot.val() || {};
+    }    
 
     async function populateQuizList() {
       quizSelectContainer.innerHTML = ''; // Clear the container to avoid duplicates
       let quizIndex = 1;
     
+      const quizNames = await getQuizNames();
+    
+      console.log('Populating quiz list...');
+    
       while (true) {
         const quizName = `quiz${quizIndex}`;
-        const exists = await checkQuizExists(quizName);
+        const url = `./Quizzes/${quizName}.txt`;
+        const answerKeyURL = `./Quizzes/${quizName}_answer_key.txt`;
     
-        if (exists) {
+        const questionFileExists = await fileExists(url);
+        const answerKeyFileExists = await fileExists(answerKeyURL);
+    
+        if (questionFileExists && answerKeyFileExists) {
           const quizButton = document.createElement('button');
-          const displayName = quizName.replace(/(\d+)/g, ' $1'); // Add a space before each digit
+          const displayName = quizNames[quizName] || quizName.replace(/(\d+)/g, ' $1'); // Add a space before each digit
           const formattedName = displayName.charAt(0).toUpperCase() + displayName.slice(1); // Capitalize the first letter
           quizButton.textContent = formattedName;
           quizButton.onclick = () => startQuiz(quizName);
           quizButton.classList.add('quiz-button');
           quizSelectContainer.appendChild(quizButton);
+    
+          const renameButton = document.createElement('button');
+          renameButton.innerHTML = '<i class="fas fa-edit"></i>';
+          renameButton.onclick = async () => {
+            const newName = prompt('Enter a new name for the quiz:', formattedName);
+            if (newName && newName !== formattedName) {
+              await updateQuizName(quizName, newName);
+              await populateQuizList();
+            }
+          };
+          renameButton.classList.add('rename-button');
+          quizSelectContainer.appendChild(renameButton);
         }
     
         // Stop checking for quizzes if there is no quiz for the current index
         const nextQuizName = `quiz${quizIndex + 1}`;
-        const nextExists = await checkQuizExists(nextQuizName);
-        if (!exists && !nextExists) {
+        const nextQuestionFileURL = `./Quizzes/${nextQuizName}.txt`;
+        const nextAnswerKeyFileURL = `./Quizzes/${nextQuizName}_answer_key.txt`;
+        const nextQuestionFileExists = await fileExists(nextQuestionFileURL);
+        const nextAnswerKeyFileExists = await fileExists(nextAnswerKeyFileURL);
+    
+        if (!questionFileExists && !nextQuestionFileExists && !answerKeyFileExists && !nextAnswerKeyFileExists) {
           break;
         }
     
         quizIndex++;
       }
     }
-
-    await populateQuizList();
     
+    await populateQuizList();
 
     async function startQuiz(quizName) {
       try {
@@ -183,54 +259,60 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         async function parseTxtFile(url, answerKeyURL) {
-          const response = await fetch(url);
-          const txtData = await response.text();
-          const responseAnswers = await fetch(answerKeyURL);
-          const txtAnswers = await responseAnswers.text();
-        
-          const answers = txtAnswers
-            .trim()
-            .split('\n')
-            .filter(line => line.trim()) // Filter out empty lines
-            .map(line => line.slice(3).trim().toUpperCase());
-        
-          const lines = txtData.trim().split('\n');
-          const quizData = [];
-        
-          let i = 0;
-          while (i < lines.length) {
-            if (/^\d+\)/.test(lines[i])) { // Check if the line starts with a number followed by a closing parenthesis
-              const question = lines[i].slice(3).trim();
-              i++;
-        
-              const choices = [];
-              while (i < lines.length && !/^\d+\)/.test(lines[i])) { // Check if the line starts with a number followed by a closing parenthesis
-                if (/^[A-D]\)/.test(lines[i])) { // Check if the line starts with a capital letter (A-D) followed by a closing parenthesis
-                  choices.push(lines[i].slice(2).trim());
+          try {
+            const response = await fetch(url);
+            const txtData = await response.text();
+            const responseAnswers = await fetch(answerKeyURL);
+            const txtAnswers = await responseAnswers.text();
+          
+            const answers = txtAnswers
+              .trim()
+              .split('\n')
+              .filter(line => line.trim()) // Filter out empty lines
+              .map(line => line.slice(3).trim().toUpperCase());
+          
+            const lines = txtData.trim().split('\n');
+            const quizData = [];
+          
+            let i = 0;
+            while (i < lines.length) {
+              if (/^\d+[\.\)]/.test(lines[i])) { // Check if the line starts with a number followed by a dot or closing parenthesis
+                const question = lines[i].slice(3).trim();
+                i++;
+              
+                const choices = [];
+                while (i < lines.length && !/^\d+[\.\)]/.test(lines[i])) { // Check if the line starts with a number followed by a dot or closing parenthesis
+                  if (/^[A-Z][\.\)]/.test(lines[i])) { // Check if the line starts with a capital letter (A-Z) followed by a dot or closing parenthesis
+                    choices.push(lines[i].slice(2).trim());
+                  }
+                  i++;
                 }
+              
+                const answerIndex = quizData.length;
+                if (answerIndex < answers.length) {
+                  const correctAnswer = answers[answerIndex].charCodeAt(0) - 65;
+                  console.log('Current index:', answerIndex, 'Answer:', answers[answerIndex]);
+                  quizData.push({ question, choices, correctAnswer });
+                } else {
+                  console.warn('No corresponding answer found for question index:', answerIndex);
+                }
+              } else {
                 i++;
               }
-        
-              const answerIndex = quizData.length;
-              if (answerIndex < answers.length) {
-                const correctAnswer = answers[answerIndex].charCodeAt(0) - 65;
-                console.log('Current index:', answerIndex, 'Answer:', answers[answerIndex]);
-                quizData.push({ question, choices, correctAnswer });
-              } else {
-                console.warn('No corresponding answer found for question index:', answerIndex);
-              }
-            } else {
-              i++;
             }
+          
+            return quizData;
+          } catch (error) {
+            console.error('Error:', error);
+            return [];
           }
-        
-          return quizData;
         }
+        
       } catch (error) {
         console.error('Error:', error);
       }
     }
   } catch (error) {
     console.error('Error:', error);
-  }
-});
+  };
+})})();
