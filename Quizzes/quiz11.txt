@@ -47,20 +47,20 @@ C) Brain cells can be replaced by stem cells
 D) Brain cells have unlimited regenerative capacity
 
 9) What is the "Golden Hour" in the context of TBI management?
-A) The first hour after a TBI, which is crucial for treatment and management
+A) The first hour after a TBI, which is crucial for treatment and management of hypoxia and hypotention
 B) The time frame during which a patient's condition is most likely to improve
 C) The period when a patient is unconscious following a TBI
 D) The window of time for optimal brain cell regeneration
 
 10) When is endotracheal intubation indicated in TBI management?
 A) In mild TBI cases
-B) In cases with a GCS score below 8
+B) In cases with a GCS score below 8 and penetrating TBI
 C) In cases with extensive facial injuries
 D) Both B and C
 
 11) Which of the following is NOT a factor in evaluating TBI severity?
 A) Glasgow Coma Scale (GCS) score
-B) Pupil size and reactivity
+B) Pupil size and extremity motor response
 C) Time since injury
 D) Level of consciousness
 
@@ -72,13 +72,14 @@ D) 60-70 mmHg
 
 13) Which of the following is NOT a treatment option for intracranial hypertension?
 A) Decreasing intracranial blood volume
-B) Shrinking the brain via dehydration
+B) Shrinking the brain via dehydration with agents such as mannitol or NaCl
 C) Mechanical increase of cranial volume
 D) Increasing blood pressure
+E) Reduce brain metabolism rate
 
 14) Which of the following medications is harmful in TBI management?
 A) Steroids
-B) Acetaminophen
+B) Amanatadine
 C) Fentanyl
 D) Levetiracetam
 
@@ -87,24 +88,23 @@ A) A mild TBI with an alteration of consciousness lasting less than 6 hours
 B) A severe TBI with a loss of consciousness lasting more than 6 hours
 C) A focal brain injury with bleeding in the brain cortex
 D) A diffuse brain injury with immediate loss of consciousness
-Correct answer) A) A mild TBI with an alteration of consciousness lasting less than 6 hours
 
-16) What is the main characteristic of diffuse axonal injury (DAI)?
+16) What is the main characteristic of diffuse axonal injury (DAI) which leads to stretching force shared on blood vessels and axons?
 A) Immediate loss of consciousness lasting 6+ hours
 B) Hemorrhage in the brain cortex
 C) Blood clot inside the brain
 D) Blood between the brain and the skull
 
-17) Which grade of DAI involves subcortical white matter, corpus callosum, and brainstem?
+17) Which grade of DAI involves subcortical white matter but not the corpus callosum, and brainstem?
 A) Grade 1
 B) Grade 2
 C) Grade 3
 D) Grade 4
 
 18) What is a contusion or laceration in the context of TBI?
-A) Hemorrhage in the brain cortex
-B) Diffuse axonal injury
-C) Blood clot inside the brain
+A) Hemorrhage in the brain cortex with surrounding edema
+B) Diffuse axonal injury with out edema
+C) Blood clot inside the brain 
 D) Blood between the brain and the skull
 
 19) Which type of hematoma is most commonly associated with a skull fracture crossing a vascular groove?
@@ -119,40 +119,34 @@ B) Subdural hematoma
 C) Intracerebral hematoma
 D) Subarachnoid hematoma
 
-21) What is the management approach for an intracerebral hematoma?
-A) Do not remove the blood clot
-B) Remove the blood clot immediately
-C) Treat with anticoagulants
-D) Provide osmotic agents
-
-22) In the context of trauma neurosurgery, why should bullets not be removed from the brain?
-A) It can cause more harm than good
-B) The bullet can be absorbed by the brain tissue
-C) The bullet prevents further damage to the brain
-D) It increases the risk of infection
+22) What should you do to bullets stuck in a brain, given that it wont give you better access to another problem?
+A) Leave it in
+B) Operate immediately regardless 
+C) Wait untill the patient is stabalized to remove it
+D) Use a Magnet 
 
 23) Which of the following is a symptom of a skull base fracture?
 A) Racoon eyes
 B) Seizures
-C) Loss of consciousness
-D) High ICP
+C) Meningioma
+D) Impairement of social fucntion
 
 24) What is sutural diastasis?
-A) Fracture of a suture line
+A) Infection of a suture line
 B) Inflammation of a suture line
-C) Infection of a suture line
+C) Fracture of a suture line
 D) Calcification of a suture line
 
 25) What is pneumocephalus?
-A) Extradural air bubbles along the skull bone
+A) Fluid buildup in the brain
 B) Inflammation of the brain tissue
-C) Fluid buildup in the brain
+C) Extradural air bubbles along the skull bone
 D) Blood clot in the brain
 
 26) Which of the following symptoms is associated with a carotid-cavernous fistula?
-A) Headache
-B) Loss of consciousness
-C) Seizures
+A) Headache, epistaxsis, CN3/4/5/6 palsey, monocular vision loss
+B) Loss of consciousness, CN 9/10/12 palsey, dementia
+C) Seizures leading to epilepsy if left unmonitored in 7 days
 D) Memory impairment
 
 27) What does the term "anisocoria" refer to?
@@ -167,29 +161,24 @@ B) Non-contrast head CT
 C) Angiography
 D) Lumbar puncture
 
-29) What is the target cerebral perfusion pressure (CPP) in TBI management?
-A) 30-40 mmHg
-B) 45-55 mmHg
-C) 60-70 mmHg
-D) 75-85 mmHg
-
-30) In the context of intracranial hypertension, what is the Monro-Kellie doctrine?
+30) In the context of not treating intracranial hypertension if its below 160 mmHG, what is the Monro-Kellie doctrine?
 A) The relationship between intracranial pressure and cerebral blood flow
 B) The relationship between intracranial pressure and cerebral perfusion pressure
-C) The pressure/volume relationship between different parts of the brain
+C) The pressure/volume relationship between different parts of the brain 
 D) The relationship between intracranial pressure and brain oxygenation
 
 31) Which of the following is NOT a treatment option for intracranial hypertension?
 A) Administering osmotic agents
 B) Draining cerebrospinal fluid (CSF)
-C) Increasing intracranial blood volume
+C) Increasing intracranial blood volume leading to a decreased venous outflow 
 D) Removing a mass
 
-32) What is the main purpose of administering an antiepileptic medication like levetiracetam to a severe TBI patient?
+32) What is the main purpose of administering an antiepileptic medication like levetiracetam to a severe TBI patient for the first week?
 A) To prevent seizures within the first 7 days
 B) To prevent epilepsy after 7 days
 C) To promote brain healing
 D) To reduce intracranial pressure
+E) Both A and B
 
 33) Which of the following medications is harmful in TBI management?
 A) Steroids
@@ -221,29 +210,17 @@ B) Observation
 C) Medication
 D) Radiation therapy
 
-38) What is the significance of the Monro-Kellie doctrine in the context of intracranial hypertension?
-A) It describes the pressure-volume relationship in the brain
-B) It describes the relationship between blood pressure and brain perfusion
-C) It describes the relationship between glucose metabolism and intracranial pressure
-D) It describes the relationship between sodium levels and cerebral perfusion pressure
-
-39) What is the goal cerebral perfusion pressure (CPP) for a patient with traumatic brain injury?
-A) 40-50 mmHg
-B) 50-60 mmHg
-C) 60-70 mmHg
-D) 70-80 mmHg
-
 40) What is the target hemoglobin level for a patient with traumatic brain injury?
 A) Above 5.0 g/dL
 B) Above 6.0 g/dL
 C) Above 7.0 g/dL
 D) Above 8.0 g/dL
 
-41) Which type of skull fracture is characterized by blood in the tympanic membrane?
+41) Which type of skull fracture is characterized by blood in the tympanic membrane (Hemotympanum)?
 A) Sutural diastasis
 B) Pneumocephalus
 C) Carotid-cavernous fistula
-D) Hemotympanum
+D) Skull base 
 
 42) What is the main symptom of a carotid-cavernous fistula?
 A) Headache
