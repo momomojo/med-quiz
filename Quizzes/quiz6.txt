@@ -17,7 +17,7 @@ C) Tissue death due to hyperoxygenation
 D) Lack of blood circulation
 
 4) Which term describes the effects on the entire brain?
-A) Focal hypoxia
+A) Both B and D
 B) Global hypoxia
 C) Localized ischemia
 D) Generalized ischemia
@@ -32,7 +32,7 @@ D) Neurons that are resistant to hypoxia
 A) Basal ganglia
 B) Purkinje cells
 C) Sommer's sector of the hippocampus
-D) Thalamus
+D) Both B and C
 
 7) What does laminar necrosis initially affect?
 A) Entire thickness of the cortex
@@ -40,11 +40,11 @@ B) Watershed areas
 C) Cortex layers
 D) Basal ganglia
 
-8) Which of these is a sign of brain death?
+8) Which of these is NOT a sign of brain death?
 A) Isoelectric (flat) EEG
-B) Hypersensitivity to stimuli
-C) Intact brain reflexes
-D) Normal respiration
+B) Abscense of Perfusion and Reflexes
+C) Slow resperations
+D) Respirator Brain
 
 9) Focal hypoxia or ischemia is typically caused by:
 A) A widespread decrease in blood circulation
@@ -64,9 +64,9 @@ B) A thrombus is a clot that travels, while an embolus remains in place
 C) A thrombus is formed by atherosclerosis, while an embolus is formed by hypertension
 D) A thrombus is formed by an infection, while an embolus is formed by atherosclerosis
 
-12) Hemorrhagic infarcts are primarily caused by:
+12) Hemorrhagic infarcts are caused by:
 A) Embolism
-B) Atherosclerosis
+B) Reperfusion
 C) Vasospasm
 D) All of the above
 
@@ -89,7 +89,7 @@ C) Epidural hematoma
 D) Subdural hematoma
 
 16) What are the common locations for hypertension-induced intracerebral hemorrhages?
-A) Basal ganglia and thalamus
+A) Basal ganglia, thalamus, and pons
 B) Cortex and hippocampus
 C) Pons and medulla
 D) Cerebellum and brainstem
@@ -116,12 +116,12 @@ D) Capillary telangiectasia
 A) Fluid in the intracellular compartment due to cellular membrane injury
 B) Fluid in the extracellular space due to blood-brain barrier problems
 C) Excessive blood flow
-D) None of the above
+D) Increase of capillary hydrostatic pressure
 
 21) What is the main cause of stroke?
 A) Arterial issues
 B) Blood hypercoagulability
-C) Cardiac issues
+C) Cardiac issues ( a-fib or clots)
 D) All of the above
 
 22) Atherosclerosis typically involves:
@@ -131,7 +131,7 @@ C) Veins
 D) Capillaries
 
 23) What is the primary cause of cardiac strokes?
-A) Atrial fibrillation
+A) Atrial fibrillation (Irregular heartbeat impacting L atrium)
 B) Myocardial infarction
 C) Cardiomyopathy
 D) Valvular heart disease
@@ -154,29 +154,31 @@ B) Dark, smudgy chromatin
 C) Eosinophilic shrunken cytoplasm
 D) All of the above
 
-27) What is the area of potentially salvageable brain tissue around an infarcted area called?
+27) What is the area of potentially salvageable brain tissue around an infarction called?
 A) Penumbra
 B) Ischemic core
 C) Cerebral vasculature
 D) Infarct zone
 
 28) Intracerebral hemorrhage can be induced by:
-A) Hypertension
-B) Cerebral amyloid angiopathy
+A) Hypertension 
+B) Cerebral amyloid angiopathy 
 C) Vascular malformations
 D) All of the above
 
-29) Which type of brain herniation can compress the third cranial nerve and the posterior cerebral artery?
+29) Which type of brain herniation can compress the third cranial nerve and the PCA?
 A) Cingulate herniation
-B) Transtentorial herniation
+B) Both C and D
 C) Uncal herniation
-D) Tonsillar herniation
+D) Transtentorial herniation
+E) Tonsillar herniation
+F) Both A and E
 
 30) Kernohan's notch is associated with:
-A) Cingulate herniation
-B) Transtentorial herniation
-C) Uncal herniation
-D) Tonsillar herniation
+A) Cingulate herniation (high ICP = cingulate gyrus forced under edge of falx cerebri)
+B) Transtentorial herniation (opposite side of brain stem compressed against tentorium) 
+C) Uncal herniation  (CN3 and PCA compression, pupillary dialation, vision loss) 
+D) Tonsillar herniation 
 
 31) What is the main consideration for a coagulation disorder in a stroke patient?
 A) Age over 70
@@ -194,7 +196,7 @@ D) Osmotic edema
 A) Severe headache
 B) High blood pressure
 C) Meningismus
-D) Seizures
+D) Nasuea
 
 34) Which type of infarction can result from occlusion of a blood vessel followed by a buildup of pressure in the vessel, leading to bleeding?
 A) Ischemic infarction
@@ -225,12 +227,6 @@ A) Hypoperfusion
 B) Thrombosis
 C) Embolisms
 D) All of the above
-
-39) Which type of stroke is most commonly associated with a coagulation disorder?
-A) Ischemic stroke
-B) Hemorrhagic stroke
-C) Lacunar stroke
-D) Embolic stroke
 
 40) Which of the following is a thrombin inhibitor used for thromboembolism prevention?
 A) Warfarin
@@ -268,62 +264,8 @@ B) Intracerebral hemorrhage
 C) Epidural hematoma
 D) Subdural hematoma
 
-46) Which of the following is a vitamin K antagonist used for thromboembolism prevention?
-A) Warfarin
-B) Dabigatran
-C) Rivaroxaban
-D) Apixaban
-
-47) What is the term for an area of potentially salvageable brain tissue around an infarcted area?
-A) Ischemic core
-B) Penumbra
-C) Hypoperfusion zone
-D) Peri-infarct zone
-
-48) Kernohan's notch is associated with which type of brain herniation?
-A) Cingulate herniation
-B) Transtentorial herniation
-C) Uncal herniation
-D) Tonsillar herniation
-
-49) Which type of aneurysm is caused by infection or septic emboli?
-A) Saccular aneurysm
-B) Fusiform aneurysm
-C) Mycotic aneurysm
-D) Dissecting aneurysm
-
-50) Which type of vascular malformation causes hemorrhages and is found in the white matter?
-A) Arteriovenous malformation
-B) Cavernous hemangioma
-C) Venous malformation
-D) Capillary telangiectasia
-
-51) Which of the following is a cause of intracerebral hemorrhage?
-A) Hypertension
-B) Cerebral amyloid angiopathy
-C) Vascular malformations
-D) All of the above
-
-52) Which type of brain herniation can compress the third cranial nerve and the posterior cerebral artery?
-A) Cingulate herniation
-B) Transtentorial herniation
-C) Uncal herniation
-D) Tonsillar herniation
-
-53) What is the primary cause of cardiac strokes?
-A) Atrial fibrillation
-B) Myocardial infarction
-C) Cardiac tamponade
-D) Congestive heart failure
-
-54) What is the term for the appearance of acute neuronal injury due to ischemia?
-A) Eosinophilic neuronal necrosis
-B) Red neurons
-C) Laminar necrosis
-D) Spheroids
-
-55) Which of the following is a cause of focal hypoxia/ischemia?
-A) Occluded blood vessel
+46) Which of the following is a cause of focal hypoxia/ischemia?
+A) Hypoxia due to occluded blood vessel
 B) Hypoxia due to respiratory failure
 C) Hypoxia due to anemia
 D) Hypoxia due to high altitude
