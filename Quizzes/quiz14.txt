@@ -1,0 +1,252 @@
+1) Which type of aphasia is characterized by effortful speech with disordered grammar?
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Conduction aphasia
+D) Transcortical motor aphasia
+
+2) In which brain area is Broca's aphasia localized?
+A) Inferior frontal gyrus (Broca's area)
+B) Posterior superior temporal gyrus (Wernicke's area)
+C) Arcuate fasciculus
+D) Left mesial frontal lobe
+
+3) Which type of aphasia is characterized by fluent speech with empty content and neologism?
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Conduction aphasia
+D) Transcortical motor aphasia
+
+4) In which brain area is Wernicke's aphasia localized?
+A) Inferior frontal gyrus (Broca's area)
+B) Posterior superior temporal gyrus (Wernicke's area)
+C) Arcuate fasciculus
+D) Left mesial frontal lobe
+
+5) Which type of aphasia is characterized by poor repetition and decreased auditory short-term memory?
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Conduction aphasia
+D) Transcortical motor aphasia
+
+6) In which brain structure is Conduction aphasia localized?
+A) Inferior frontal gyrus (Broca's area)
+B) Posterior superior temporal gyrus (Wernicke's area)
+C) Arcuate fasciculus
+D) Left mesial frontal lobe
+
+7) Which type of aphasia is characterized by simplistic output but intact repetition?
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Conduction aphasia
+D) Transcortical motor aphasia
+
+8) In which brain area is Transcortical motor aphasia localized?
+A) Inferior frontal gyrus (Broca's area)
+B) Posterior superior temporal gyrus (Wernicke's area)
+C) Arcuate fasciculus
+D) Left mesial frontal lobe
+
+9) Which type of aphasia is characterized by fluent speech, circumlocutions, poor comprehension, but good repetition?
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Conduction aphasia
+D) Transcortical sensory aphasia
+
+10) In which brain area is Transcortical sensory aphasia localized?
+A) Inferior frontal gyrus (Broca's area)
+B) Posterior superior temporal gyrus (Wernicke's area)
+C) Arcuate fasciculus
+D) Left temporoparietal junction
+
+11) Which type of aphasia is characterized by fluent, circumlocutions, poor comprehension, but good repetition?
+A) Broca's aphasia
+B) Wernicke's aphasia
+C) Conduction aphasia
+D) Transcortical sensory aphasia
+
+12) In which brain area is Alexia without Agraphia localized?
+A) Left PCA region and part of corpus callosum
+B) Left angular gyrus (inferior temporo-parietal junction)
+C) Bilateral parietal lobes
+D) Right inferior parietal lobe
+
+13) Which syndrome includes agraphia, acalculia, finger agnosia, and right/left confusion?
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Attentional neglect
+
+14) In which brain area is Gerstmann Syndrome localized?
+A) Left PCA region and part of corpus callosum
+B) Left angular gyrus (inferior temporo-parietal junction)
+C) Bilateral parietal lobes
+D) Right inferior parietal lobe
+
+15) Which syndrome includes simultagnosia, optic ataxia, and ocular apraxia?
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Attentional neglect
+
+16) In which brain area is Balint's Syndrome localized?
+A) Left PCA region and part of corpus callosum
+B) Left angular gyrus (inferior temporo-parietal junction)
+C) Bilateral parietal lobes
+D) Right inferior parietal lobe
+
+17) Which disorder is characterized by reduced awareness of stimuli contralateral to the lesion and reduced level of arousal?
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Attentional neglect
+
+18) In which brain area is Attentional neglect localized?
+A) Left PCA region and part of corpus callosum
+B) Left angular gyrus (inferior temporo-parietal junction)
+C) Bilateral parietal lobes
+D) Right inferior parietal lobe
+
+19) Which syndrome is characterized by blindness with denial of blindness?
+A) Anton Syndrome
+B) Prosopagnosia
+C) Visual Agnosia
+D) Apraxia of both limbs
+
+20) In which brain area is Anton Syndrome localized?
+A) Bilateral occipital poles
+B) Bilateral (or right) fusiform (inferotemporal) gyrus
+C) Inferior temporal cortex (bilateral or right only)
+D) Left inferior parietal lobule
+
+21) Which disorder is characterized by the inability to identify faces?
+A) Anton Syndrome
+B) Prosopagnosia
+C) Visual Agnosia
+D) Apraxia of both limbs
+
+22) In which brain area is Prosopagnosia localized?
+A) Bilateral occipital poles
+B) Bilateral (or right) fusiform (inferotemporal) gyrus
+C) Inferior temporal cortex (bilateral or right only)
+D) Left inferior parietal lobule
+
+23) Which disorder is characterized by the inability to name objects or show recognition by pointing, while vision and shape recognition are intact?
+A) Anton Syndrome
+B) Prosopagnosia
+C) Visual Agnosia
+D) Apraxia of both limbs
+
+24) In which brain area is Visual Agnosia localized?
+A) Bilateral occipital poles
+B) Bilateral (or right) fusiform (inferotemporal) gyrus
+C) Inferior temporal cortex (bilateral or right only)
+D) Left inferior parietal lobule
+
+25) Which type of apraxia involves both limbs and an inability to discriminate between or identify movements of others?
+A) Apraxia of both limbs
+B) Contralateral Apraxia
+C) Clumsy left hand
+D) Disorganized
+
+26) In which brain area is Apraxia of both limbs localized?
+A) Left inferior parietal lobule
+B) Premotor / supplementary motor area
+C) Corpus Callosum
+D) Dorsolateral frontal lobe
+
+27) Which type of apraxia is characterized by contralateral apraxia but with the ability to discriminate between poorly and well-performed movements?
+A) Apraxia of both limbs
+B) Contralateral Apraxia
+C) Clumsy left hand
+D) Disorganized
+
+28) In which brain area is Contralateral Apraxia localized?
+A) Left inferior parietal lobule
+B) Premotor / supplementary motor area
+C) Corpus Callosum
+D) Dorsolateral frontal lobe
+
+29) Which type of apraxia is characterized by a clumsy left hand caused by disconnection of the right motor area from left-sided praxis input?
+A) Apraxia of both limbs
+B) Contralateral Apraxia
+C) Clumsy left hand
+D) Disorganized
+
+30) In which brain structure is Clumsy left hand localized?
+A) Left inferior parietal lobule
+B) Premotor / supplementary motor area
+C) Corpus Callosum
+D) Dorsolateral frontal lobe
+
+31) Which frontal lobe syndrome is characterized by perseveration, persistent stimulus-bound behavior, depression, and impaired digit span?
+A) Disorganized
+B) Akinetic-mute
+C) Disinhibited
+D) Hippocampal amnesia
+
+32) In which brain area is the Disorganized frontal lobe syndrome localized?
+A) Dorsolateral frontal lobe
+B) Mesial-frontal lobe
+C) Orbito-frontal lobe
+D) Bilateral hippocampal damage
+
+33) Which frontal lobe syndrome is characterized by minimal spontaneous action or speech, abulia, and incontinence?
+A) Disorganized
+B) Akinetic-mute
+C) Disinhibited
+D) Hippocampal amnesia
+
+34) In which brain area is the Akinetic-mute frontal lobe syndrome localized?
+A) Dorsolateral frontal lobe
+B) Mesial-frontal lobe
+C) Orbito-frontal lobe
+D) Bilateral hippocampal damage
+
+35) Which frontal lobe syndrome is characterized by impulsivity, disinhibition, and inappropriate affect?
+A) Disorganized
+B) Akinetic-mute
+C) Disinhibited
+D) Hippocampal amnesia
+
+36) In which brain area is the Disinhibited frontal lobe syndrome localized?
+A) Dorsolateral frontal lobe
+B) Mesial-frontal lobe
+C) Orbito-frontal lobe
+D) Bilateral hippocampal damage
+
+37) In which syndrome is color anomia associated?
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Anton Syndrome
+
+38) Which syndrome is characterized by emotional placidity and hyperorality?
+A) Balint's Syndrome
+B) Kluver-Bucy Syndrome
+C) Anton Syndrome
+D) Gerstmann Syndrome
+
+39) Which syndrome is associated with Alzheimer's disease and sagittal sinus thrombosis?
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Anton Syndrome
+
+40) Which condition is related to the disconnection of the right motor area from left-sided praxis input?
+A) Apraxia of both limbs
+B) Contralateral Apraxia
+C) Clumsy left hand
+D) Akinetic-mute syndrome
+
+41) What type of aphasia is characterized by poor comprehension but good repetition?
+A) Transcortical motor aphasia
+B) Transcortical sensory aphasia
+C) Broca's aphasia
+D) Wernicke's aphasia
+
+42) Which condition is associated with a sudden onset of anterograde amnesia lasting for several hours?
+A) Hippocampal amnesia
+B) Korsakoff's amnesia
+C) Transient global amnesia
+D) Kluver-Bucy Syndrome
+
