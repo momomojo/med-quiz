@@ -179,6 +179,7 @@ A) Cingulate herniation (high ICP = cingulate gyrus forced under edge of falx ce
 B) Transtentorial herniation (opposite side of brain stem compressed against tentorium) 
 C) Uncal herniation  (CN3 and PCA compression, pupillary dialation, vision loss) 
 D) Tonsillar herniation 
+E) Both B and C
 
 31) What is the main consideration for a coagulation disorder in a stroke patient?
 A) Age over 70
@@ -251,6 +252,8 @@ A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
+E) Both B and C
+F) Both A and D
 
 44) In which type of edema is fluid found in the extracellular space due to a problem with the blood-brain barrier?
 A) Vasogenic edema

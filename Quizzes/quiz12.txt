@@ -1,84 +1,137 @@
-1) What are the different types of headaches?
-A) Migraine, tension, cluster, cervicogenic
-B) Migraine, tension, cluster, sinus
-C) Migraine, tension, cluster, occipital
-D) Migraine, tension, cluster, temporal
+1) What type of headache is characterized by episodic, one-sided, throbbing-pulsating pain?
+A) Migraine
+B) Cluster
+C) Tension
+D) Rebound
 
-2) What are the characteristics of a migraine headache?
-A) Unilateral, throbbing-pulsating pain, photo/phonophobia
-B) Bilateral, stabbing pain, photophobia
-C) Unilateral, sharp pain, phonophobia
-D) Bilateral, dull pain, photophobia
+2) Which of the following is NOT a common trigger for headaches?
+A) Diet
+B) Hormones
+C) Exercise
+D) Stress
 
-3) What is an aura in the context of migraines?
-A) An area of tissue death in the brain
-B) A visual, motor, or speech deficit that cues onset of migraine headache
-C) A type of headache that affects both sides of the head
-D) A feeling of numbness or tingling in the limbs
-
-4) What are the triggers for headaches?
-A) Diet, hormones, stress, change in environments or habits
-B) Exercise, dehydration, lack of sleep, overstimulation
-C) Genetics, age, gender, weather changes
-D) Medication, drug use, alcohol consumption, caffeine intake
-
-5) What is the treatment for nausea associated with migraines?
-A) Triptans
-B) Prochlorperazine
+3) Which medication is used to treat nausea in migraine abortive treatment?
+A) Prochlorperazine
+B) Triptans
 C) Acetaminophen
-D) NSAIDs
+D) Calcium channel blockers
 
-6) What is the first-line abortive treatment for migraine pain?
-A) Triptans
-B) Acetaminophen
+4) What is the primary class of medication used for migraine preventative treatment?
+A) NSAIDs
+B) Calcium channel blockers
+C) Triptans
+D) Analgesics
+
+5) Which type of headache is characterized by repetitive, unilateral pain behind the eye, and is more common in males?
+A) Migraine
+B) Cluster
+C) Tension
+D) Rebound
+
+6) What is the recommended abortive treatment for cluster headaches?
+A) Triptan + 100% O2
+B) Calcium channel blockers
 C) NSAIDs
-D) Fioricet
+D) TCA
 
-7) What are the preventative treatments for migraines?
-A) Calcium channel blockers, B-blocker, TCA's, anti-psychotics, Vit-B2
-B) Calcium channel blockers, B-blocker, TCA's, anti-depressants, Vit-C
-C) Beta-agonists, alpha-agonists, GABA agonists, anti-epileptics
-D) ACE inhibitors, ARBs, aldosterone antagonists, vasodilators
+7) What is the most common type of headache?
+A) Migraine
+B) Cluster
+C) Tension
+D) Rebound
 
-8) What are the characteristics of cluster headaches?
-A) Repetitive, unilateral, behind the eye, excruciating pain, lacrimation, red eye, rhinorrhea
-B) Bilateral, throbbing pain, nausea, vomiting
-C) Unilateral, sharp pain, photophobia, phonophobia
-D) Bilateral, dull pain, pressure around head
+8) Which of the following is NOT a characteristic of tension headaches?
+A) Pressure-tight band around the head
+B) Associated with stress
+C) Nausea
+D) No auras
 
-9) What is the first-line abortive treatment for cluster headaches?
+9) What is the primary treatment for tension headaches?
+A) NSAIDs
+B) Calcium channel blockers
+C) Triptans
+D) Prophylactic TCA
+
+10) What type of headache is associated with overuse of NSAIDs, Tylenol, and narcotics?
+A) Migraine
+B) Cluster
+C) Tension
+D) Rebound
+
+11) Which of the following is a life-threatening cause of headaches?
+A) Tumors
+B) Temporal areritis
+C) Subaarachnoid hemorrhages
+D) All the above
+
+12) What symptom is commonly associated with brain tumors?
+A) Nausea and vomiting
+B) Red eye
+C) Photophobia
+D) Rhinorrhea
+
+13) Which headache is characterized by severe, sudden onset, stiff neck, and is often described as the "worst headache of my life"?
+A) Migraine
+B) Cluster
+C) Tension
+D) Subarachnoid hemorrhage
+
+14) Temporal arteritis is associated with an elevated level of which blood markers?
+A) ESR and CRP
+B) WBC and platelets
+C) Hemoglobin and hematocrit
+D) BUN and creatinine
+
+15) Which of the following is a red flag for headaches?
+A) Sudden onset of headache with maximum intensity in seconds
+B) Headache relieved by sleep
+C) Headache occurring only during daytime
+D) Headache accompanied by mild photophobia
+
+16) In which age groups are headache red flags particularly concerning?
+A) Younger than 5 and older than 50
+B) 10-20 years old
+C) 20-40 years old
+D) 30-50 years old
+
+17) Which of the following conditions would warrant a CT scan with and without contrast for a patient presenting with a headache?
+A) Pregnancy, change in mental state
+B) HIV, fever
+C) Cancer, stiff neck
+D) Focal neurological symptoms, polyuria
+
+19) What is a common feature of cervicogenic headaches?
+A) Throbbing-pulsating pain
+B) Pain originating from the neck
+C) Unilateral pain behind the eye
+D) Associated with stress
+
+20) What is the duration of a typical migraine episode?
+A) 1-4 hours
+B) 4-72 hours
+C) 1-2 days
+D) 3-5 days
+
+21) Which of the following medications is commonly used to treat nausea in migraine patients?
 A) Triptans
-B) Acetaminophen
-C) NSAIDs
-D) Oxygen
+B) Promethazine
+C) Verapamil
+D) Indomethacin
 
-10) What is the first-line preventative treatment for cluster headaches?
-A) Calcium channel blocker
+22) Which of the following medications is used as a preventive treatment for migraines and is also an anti-psychotic?
+A) Valproate
 B) Beta-blocker
-C) Indomethacin
-D) Oxygen
+C) Calcium channel blocker
+D) Tricyclic antidepressant
 
-11) What are the characteristics of tension headaches?
-A) Pressure-tight band around head, associated with stress, no nausea, vomiting, photophobia or auras
-B) Unilateral, sharp pain, photophobia, phonophobia
-C) Bilateral, dull pain, pressure around head, nausea, vomiting
-D) Repetitive, unilateral, behind the eye, excruciating pain, lacrimation, red eye, rhinorrhea
+23) What is the primary treatment for tension headaches?
+A) NSAIDs
+B) Triptans
+C) 100% O2
+D) Prophylactic TCA
 
-12) What is the first-line treatment for tension headaches?
-A) Triptans
-B) Acetaminophen
-C) NSAIDs
-D) Antidepressants
-
-13) What is a rebound headache?
-A) A headache that occurs during sleep
-B) A headache that occurs after consuming certain foods or drinks
-C) A headache that occurs after physical exertion
-D) A daily headache in a patient with overuse of NSAIDs, Tylenol, or narcotics to treat headaches
-
-14) What is the treatment for rebound headaches?
-A) Prophylactic TCA and slowly withdraw from offending medication
-B) Oxygen therapy
-C) Acupuncture
-D) Physical therapy
-
+24) In the context of temporal arteritis, what does an elevated ESR and CRP indicate?
+A) Inflammation
+B) Infection
+C) Tumor
+D) Bleeding

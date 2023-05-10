@@ -58,11 +58,11 @@ B) Posterior superior temporal gyrus (Wernicke's area)
 C) Arcuate fasciculus
 D) Left temporoparietal junction
 
-11) Which type of aphasia is characterized by fluent, circumlocutions, poor comprehension, but good repetition?
-A) Broca's aphasia
-B) Wernicke's aphasia
-C) Conduction aphasia
-D) Transcortical sensory aphasia
+11) Which syndrome includes Impaired word reading with intact writing, disconnect b/w right hemisphere visual areas from left hemisphere language areas, and color anomia
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Attentional neglect
 
 12) In which brain area is Alexia without Agraphia localized?
 A) Left PCA region and part of corpus callosum
@@ -142,23 +142,11 @@ B) Bilateral (or right) fusiform (inferotemporal) gyrus
 C) Inferior temporal cortex (bilateral or right only)
 D) Left inferior parietal lobule
 
-25) Which type of apraxia involves both limbs and an inability to discriminate between or identify movements of others?
-A) Apraxia of both limbs
-B) Contralateral Apraxia
-C) Clumsy left hand
-D) Disorganized
-
 26) In which brain area is Apraxia of both limbs localized?
 A) Left inferior parietal lobule
 B) Premotor / supplementary motor area
 C) Corpus Callosum
 D) Dorsolateral frontal lobe
-
-27) Which type of apraxia is characterized by contralateral apraxia but with the ability to discriminate between poorly and well-performed movements?
-A) Apraxia of both limbs
-B) Contralateral Apraxia
-C) Clumsy left hand
-D) Disorganized
 
 28) In which brain area is Contralateral Apraxia localized?
 A) Left inferior parietal lobule
@@ -166,7 +154,7 @@ B) Premotor / supplementary motor area
 C) Corpus Callosum
 D) Dorsolateral frontal lobe
 
-29) Which type of apraxia is characterized by a clumsy left hand caused by disconnection of the right motor area from left-sided praxis input?
+29) Which type of apraxia is characterized by a disconnection of the right motor area from left-sided praxis input?
 A) Apraxia of both limbs
 B) Contralateral Apraxia
 C) Clumsy left hand
@@ -214,39 +202,50 @@ B) Mesial-frontal lobe
 C) Orbito-frontal lobe
 D) Bilateral hippocampal damage
 
-37) In which syndrome is color anomia associated?
-A) Alexia without Agraphia
-B) Gerstmann Syndrome
-C) Balint's Syndrome
-D) Anton Syndrome
+37) In which brain area is the Hippocampal amnesia localized?
+A) Dorsolateral frontal lobe
+B) Mesial-frontal lobe
+C) Orbito-frontal lobe
+D) Bilateral hippocampal damage
 
-38) Which syndrome is characterized by emotional placidity and hyperorality?
-A) Balint's Syndrome
-B) Kluver-Bucy Syndrome
-C) Anton Syndrome
-D) Gerstmann Syndrome
-
-39) Which syndrome is associated with Alzheimer's disease and sagittal sinus thrombosis?
-A) Alexia without Agraphia
-B) Gerstmann Syndrome
-C) Balint's Syndrome
-D) Anton Syndrome
-
-40) Which condition is related to the disconnection of the right motor area from left-sided praxis input?
-A) Apraxia of both limbs
-B) Contralateral Apraxia
-C) Clumsy left hand
-D) Akinetic-mute syndrome
-
-41) What type of aphasia is characterized by poor comprehension but good repetition?
-A) Transcortical motor aphasia
-B) Transcortical sensory aphasia
-C) Broca's aphasia
-D) Wernicke's aphasia
-
-42) Which condition is associated with a sudden onset of anterograde amnesia lasting for several hours?
+38) Which syndrome is characterized by anterograde amnesia with intact working memory and recollection of events 6 months prior to the injury (temporally-graded retrograde amnesia)?
 A) Hippocampal amnesia
 B) Korsakoff's amnesia
 C) Transient global amnesia
 D) Kluver-Bucy Syndrome
 
+39) Which syndrome is characterized by confabulation, anterograde amnesia with intact working memory and recollection of events 6 months prior to the injury (temporally-graded retrograde amnesia)?
+A) Hippocampal amnesia
+B) Korsakoff's amnesia
+C) Transient global amnesia
+D) Kluver-Bucy Syndrome
+
+40) Which syndrome is associated with Alzheimer's disease and sagittal sinus thrombosis?
+A) Alexia without Agraphia
+B) Gerstmann Syndrome
+C) Balint's Syndrome
+D) Anton Syndrome
+
+41) Which condition is characterized by sudden onset anterograde amnesia of several hours duration?
+A) Hippocampal amnesia
+B) Korsakoff's amnesia
+C) Transient global amnesia
+D) Kluver-Bucy Syndrome
+
+42) Which amnesia is thought to be due to spreading cortical depression in mesial-temporal lobes?
+A) Hippocampal amnesia
+B) Korsakoff's amnesia
+C) Transient global amnesia
+D) Kluver-Bucy Syndrome
+
+43) Which condition is associated with hyperorality, visual agnosia, emotional placidity, and hypersexuality?
+A) Hippocampal amnesia
+B) Korsakoff's amnesia
+C) Transient global amnesia
+D) Kluver-Bucy Syndrome
+
+44) In which brain area is Kluver-Bucy Syndrome pathology localized?
+A) Bilateral occipital poles
+B) Bilateral (or right) fusiform (inferotemporal) gyrus
+C) Bilateral amygdala lesions
+D) Bilateral hippocampal damage
