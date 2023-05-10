@@ -1,27 +1,9 @@
+export async function initQuizApp() {
+console.log('Quiz.js loaded');
+
 (async function() {
-  // Your copied firebaseConfig object
-  const firebaseConfig = {
-    apiKey: "AIzaSyCn-dqVI8j6ub5HN5aegixR5zKOgU7JQGU",
-    authDomain: "med-quiz-9b266.firebaseapp.com",
-    databaseURL: "https://med-quiz-9b266-default-rtdb.firebaseio.com",
-    projectId: "med-quiz-9b266",
-    storageBucket: "med-quiz-9b266.appspot.com",
-    messagingSenderId: "2474468159",
-    appId: "1:2474468159:web:d9895ad541c9e6e23ee98a",
-    measurementId: "G-R0Z1JDDHZ0"
-  };
+  
 
-  // If the app has already been initialized, return early
-  if (firebase.apps.length) {
-    return;
-  }
-
-  let app = firebase.initializeApp(firebaseConfig);
-
-  // Add this line to get a reference to the Realtime Database
-  const database = firebase.database();
-
-document.addEventListener('DOMContentLoaded', async () => {
   try {
     const quizSelectContainer = document.getElementById('quiz-select-container');
     const questionElement = document.getElementById('question');
@@ -56,7 +38,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     
       const updates = {};
       updates[`/quizNames/${quizName}`] = newName;
-      return database.ref().update(updates);
+      await database.ref().update(updates);
     }
     
     async function getQuizNames() {
@@ -64,14 +46,24 @@ document.addEventListener('DOMContentLoaded', async () => {
       return quizNamesSnapshot.val() || {};
     }    
 
+    let quizListPopulated = false;
+    let populatingQuizList = false; // Add this flag
+
     async function populateQuizList() {
+      if (quizListPopulated || populatingQuizList) { // Check if the function is already running
+        console.warn('Quiz list has already been populated or is being populated. Skipping...');
+        return;
+      }
+    
+      populatingQuizList = true; // Set the flag to true when the function starts
+
       quizSelectContainer.innerHTML = ''; // Clear the container to avoid duplicates
       let quizIndex = 1;
-    
+
       const quizNames = await getQuizNames();
-    
+
       console.log('Populating quiz list...');
-    
+
       while (true) {
         const quizName = `quiz${quizIndex}`;
         const url = `./Quizzes/${quizName}.txt`;
@@ -113,10 +105,16 @@ document.addEventListener('DOMContentLoaded', async () => {
           break;
         }
     
+        //console.log('Quiz Names:', quizNames);
+        //console.log('Quiz Index:', quizIndex);
+    
         quizIndex++;
       }
-    }
     
+      quizListPopulated = true;
+      populatingQuizList = false; // Set the flag to false when the function finishes
+    }
+
     await populateQuizList();
 
     async function startQuiz(quizName) {
@@ -291,7 +289,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const answerIndex = quizData.length;
                 if (answerIndex < answers.length) {
                   const correctAnswer = answers[answerIndex].charCodeAt(0) - 65;
-                  console.log('Current index:', answerIndex, 'Answer:', answers[answerIndex]);
+                  // console.log('Current index:', answerIndex, 'Answer:', answers[answerIndex]);
                   quizData.push({ question, choices, correctAnswer });
                 } else {
                   console.warn('No corresponding answer found for question index:', answerIndex);
@@ -315,4 +313,4 @@ document.addEventListener('DOMContentLoaded', async () => {
   } catch (error) {
     console.error('Error:', error);
   };
-})})();
+})()};
