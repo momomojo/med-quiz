@@ -10,11 +10,6 @@
 
   <!-- Firebase Realtime Database -->
   <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-database-compat.js"></script>
-
-  <!-- Add your JavaScript file here -->
-
-  <script src="firebase-config.js"></script>
-  <script type="module" src="quiz.js"></script>
   
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,6 +31,13 @@
     <div id="results" style="display: none;"></div>
     <button id="restart" style="display: none;">Restart Quiz</button>
   </div>
+
+  <!-- Move the script tags to the end of the body tag -->
+  <script src="firebase-config.js"></script>
+  <script type="module" src="firebase-handler.js"></script>
+  <script type="module" src="ui-handler.js"></script>
+  <script type="module" src="quiz.js"></script>
+  
   <script type="module">
     import { initQuizApp } from './quiz.js';
   
@@ -45,6 +47,5 @@
       await initQuizApp();
     });
   </script>
-  
 </body>
 </html>
