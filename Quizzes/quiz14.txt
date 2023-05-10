@@ -5,8 +5,8 @@ C) Conduction aphasia
 D) Transcortical motor aphasia
 
 2) In which brain area is Broca's aphasia localized?
-A) Inferior frontal gyrus (Broca's area)
-B) Posterior superior temporal gyrus (Wernicke's area)
+A) Inferior frontal gyrus 
+B) Posterior superior temporal gyrus 
 C) Arcuate fasciculus
 D) Left mesial frontal lobe
 
@@ -17,12 +17,12 @@ C) Conduction aphasia
 D) Transcortical motor aphasia
 
 4) In which brain area is Wernicke's aphasia localized?
-A) Inferior frontal gyrus (Broca's area)
-B) Posterior superior temporal gyrus (Wernicke's area)
+A) Inferior frontal gyrus 
+B) Posterior superior temporal gyrus 
 C) Arcuate fasciculus
 D) Left mesial frontal lobe
 
-5) Which type of aphasia is characterized by poor repetition and decreased auditory short-term memory?
+5) Which type of aphasia is characterized by poor repetition, hesitation, and decreased auditory short-term memory?
 A) Broca's aphasia
 B) Wernicke's aphasia
 C) Conduction aphasia
@@ -32,7 +32,7 @@ D) Transcortical motor aphasia
 A) Inferior frontal gyrus (Broca's area)
 B) Posterior superior temporal gyrus (Wernicke's area)
 C) Arcuate fasciculus
-D) Left mesial frontal lobe
+D) Left mesial frontal lobe (watershed infarcts)
 
 7) Which type of aphasia is characterized by simplistic output but intact repetition?
 A) Broca's aphasia
@@ -44,7 +44,7 @@ D) Transcortical motor aphasia
 A) Inferior frontal gyrus (Broca's area)
 B) Posterior superior temporal gyrus (Wernicke's area)
 C) Arcuate fasciculus
-D) Left mesial frontal lobe
+D) Left mesial frontal lobe (watershed infarcts)
 
 9) Which type of aphasia is characterized by fluent speech, circumlocutions, poor comprehension, but good repetition?
 A) Broca's aphasia
@@ -56,7 +56,7 @@ D) Transcortical sensory aphasia
 A) Inferior frontal gyrus (Broca's area)
 B) Posterior superior temporal gyrus (Wernicke's area)
 C) Arcuate fasciculus
-D) Left temporoparietal junction
+D) Left temporoparietal junction (watershed infarcts)
 
 11) Which syndrome includes Impaired word reading with intact writing, disconnect b/w right hemisphere visual areas from left hemisphere language areas, and color anomia
 A) Alexia without Agraphia
