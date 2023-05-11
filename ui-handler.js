@@ -10,7 +10,7 @@ export async function populateQuizList(
   startQuiz,
   updateQuizName,
   fileExists,
-  quizSelectContainer // Add quizSelectContainer as an argument
+  quizSelectContainer
 ) {
 
   if (quizListPopulated || populatingQuizList) {
@@ -40,7 +40,7 @@ export async function populateQuizList(
             const displayName = quizNames[quizName] || quizName.replace(/(\d+)/g, ' $1'); // Add a space before each digit
             const formattedName = displayName.charAt(0).toUpperCase() + displayName.slice(1); // Capitalize the first letter
             quizButton.textContent = formattedName;
-            quizButton.onclick = () => startQuiz(quizName, questionFileExists && answerKeyFileExists, quizSelectContainer);
+            quizButton.onclick = () => startQuiz(quizName, fileExists, quizSelectContainer);
 
             quizButton.classList.add('quiz-button');
             quizSelectContainer.appendChild(quizButton);
@@ -116,7 +116,18 @@ export async function populateQuizList(
         showQuestion();
 
         function showQuestion() {
+          if (currentQuestion >= quizData.length) {
+            console.error('No more questions to display');
+            return;
+          }
+        
           const questionData = quizData[currentQuestion];
+        
+          if (!questionData) {
+            console.error('Invalid question data');
+            return;
+          }
+        
           questionElement.textContent = questionData.question;
         
           choicesContainer.innerHTML = '';
@@ -134,7 +145,7 @@ export async function populateQuizList(
         
           updateProgressBar();
         }
-        
+      
         function updateProgressBar() {
           const progressBar = document.getElementById('progress-bar');
           const progress = (currentQuestion / quizData.length) * 100;
