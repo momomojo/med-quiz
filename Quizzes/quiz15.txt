@@ -1,0 +1,317 @@
+
+2) Which sensory receptors provide feedback about muscle length and stretch?
+A) Golgi tendon organs
+B) Muscle spindle organs
+C) Nociceptors
+D) Meissner's corpuscles
+Correct answer: B) Muscle spindle organs
+
+3) Golgi tendon organs provide feedback about which aspect of muscle contraction?
+A) Muscle length and stretch
+B) Muscle tension
+C) Muscle fatigue
+D) Muscle force generation
+Correct answer: B) Muscle tension
+
+4) Which motor tract is responsible for moving objects to or from a shelf?
+A) Corticospinal tract
+B) Rubrospinal tract
+C) Corticobulbar tract
+D) Reticulospinal tract
+Correct answer: A) Corticospinal tract
+
+5) Damage to the corticobulbar tract may result in weakness of which muscles?
+A) Tongue and lower face muscles
+B) Upper extremity muscles
+C) Lower extremity muscles
+D) Back muscles
+Correct answer: A) Tongue and lower face muscles
+
+6) Which motor tract is involved in maintaining upright body posture?
+A) Retriculospinal tract
+B) Vestibulospinal tract
+C) Tectospinal tract
+D) Anterior corticospinal tract
+Correct answer: A) Retriculospinal tract
+
+7) Loss of the reticulospinal tract function may lead to difficulty maintaining posture in which state?
+A) Sleep
+B) Wakefulness
+C) REM sleep
+D) NREM sleep
+Correct answer: B) Wakefulness
+
+8) Which structure inhibits the globus pallidus internus/externus and the substantia nigra?
+A) Striatum
+B) Cerebellum
+C) Thalamus
+D) Hypothalamus
+Correct answer: A) Striatum
+
+9) What is the function of the globus pallidus internus?
+A) Stops movement
+B) Favors movements
+C) Initiates movements
+D) Modulates pain perception
+Correct answer: A) Stops movement
+
+10) The rubrospinal tract originates from which nucleus?
+A) Red nucleus
+B) Subthalamic nucleus
+C) Nucleus accumbens
+D) Ventral tegmental area
+Correct answer: A) Red nucleus
+
+11) Lesions above the red nucleus in the rubrospinal tract may result in which type of rigidity?
+A) Decorticate rigidity
+B) Decerebrate rigidity
+C) Spastic rigidity
+D) Flaccid rigidity
+Correct answer: A) Decorticate rigidity
+
+12) Damage to the tectospinal tract may impair which reflexive movement of the head?
+A) Turning the head towards movement
+B) Nodding the head
+C) Tilting the head to the side
+D) Shaking the head
+Correct answer: A) Turning the head towards movement
+
+13) Climbing fibers from the inferior olivary nucleus contribute to which tract?
+A) Olivocerebellar tract
+B) Pontocerebellar tract
+C) Rubrospinal tract
+D) Corticospinal tract
+Correct answer: A) Olivocerebellar tract
+
+14) The pontocerebellar tract originates from which nuclei?
+A) Pontine nuclei
+B) Inferior olive nuclei
+C) Red nucleus
+D) Substantia nigra
+Correct answer: A) Pontine nuclei
+
+15) What is the primary mechanism of action of phenytoin?
+A) Blocks Na  channels
+B) Increases GABA
+C) Blocks Ca2  channels
+D) Blocks synaptic vesicle protein 2A
+Correct answer: A) Blocks Na  channels
+
+16) Which medication is commonly used to treat trigeminal neuralgia?
+A) Lamotrigine
+B) Carbamazepine
+C) Valproic Acid
+D) Levetiracetam
+Correct answer: B) Carbamazepine
+
+17) Which neurotransmitter is primarily involved in muscle contraction?
+A) Acetylcholine
+B) Dopamine
+C) Serotonin
+D) Glutamate
+Correct answer: A) Acetylcholine
+
+18) The reticulospinal tract is involved in the regulation of:
+A) Posture
+B) Fine motor movements
+C) Voluntary movements
+D) Eye movements
+Correct answer: A) Posture
+
+19) Damage to the vestibulospinal tract may result in difficulties in maintaining posture when:
+A) Awake
+B) Asleep
+C) Engaged in physical activity
+D) In a state of rest
+Correct answer: A) Awake
+
+20) Which region of the brain is primarily responsible for initiating smooth and habitual movements?
+A) Basal ganglia
+B) Cerebellum
+C) Thalamus
+D) Hypothalamus
+Correct answer: A) Basal ganglia
+
+21) The function of the substantia nigra is mainly mediated by which receptors?
+A) D1 receptors
+B) D2 receptors
+C) GABA receptors
+D) Dopamine receptors
+Correct answer: D) Dopamine receptors
+
+22) Which motor tract is responsible for distal movement control?
+A) Corticospinal tract
+B) Rubrospinal tract
+C) Reticulospinal tract
+D) Vestibulospinal tract
+Correct answer: A) Corticospinal tract
+
+23) The dorsal spinocerebellar tract is involved in transmitting information related to:
+A) Coordinated and integrated movements
+B) Fine motor control
+C) Pain sensation
+D) Proprioception
+Correct answer: D) Proprioception
+
+24) Lesions in the corticobulbar tract may result in weakness in which muscles?
+A) Face and tongue muscles
+B) Upper extremity muscles
+C) Lower extremity muscles
+D) Abdominal muscles
+Correct answer: A) Face and tongue muscles
+
+25) Damage to the rubrospinal tract below the red nucleus may result in which type of rigidity?
+A) Decorticate rigidity
+B) Decerebrate rigidity
+C) Spastic rigidity
+D) Flaccid rigidity
+Correct answer: B) Decerebrate rigidity
+
+26) The pontine reticulospinal tract has what effect on posture?
+A) Inhibitory
+B) Excitatory
+C) No effect
+D) Unpredictable effect
+Correct answer: B) Excitatory
+
+27) Which motor tract is involved in turning the head reflexively in response to movement or sound?
+A) Tectospinal tract
+B) Corticospinal tract
+C) Rubrospinal tract
+D) Reticulospinal tract
+Correct answer: A) Tectospinal tract
+
+28) Which pathway decussates information from the cerebral cortex to the contralateral cerebellar cortex?
+A) Olivocerebellar tract
+B) Pontocerebellar tract
+C) Corticospinal tract
+D) Rubrospinal tract
+Correct answer: B) Pontocerebellar tract
+
+29) What is the role of the olivocerebellar tract in the cerebellum?
+A) Inhibits Purkinje neurons
+B) Initiates smooth movements
+C) Excites Purkinje neurons
+D) Controls sensory input to the cerebellum
+Correct answer: C) Excites Purkinje neurons
+
+30) Which component of the motor system is responsible for generating rhythmic movements?
+A) Basal ganglia loop
+B) Spinal cord pattern generators
+C) Dorsal spinocerebellar tract
+D) Ventral spinocerebellar tract
+Correct answer: B) Spinal cord pattern generators
+
+31) How does the vestibulospinal tract contribute to posture control?
+A) Excites extensor muscles
+B) Inhibits extensor muscles
+C) Excites flexor muscles
+D) Inhibits flexor muscles
+Correct answer: A) Excites extensor muscles
+
+32) Lesions in the corticobulbar tract originating from UMNs may result in weakness of which muscles?
+A) Upper extremity muscles
+B) Lower extremity muscles
+C) Abdominal muscles
+D) Face and tongue muscles
+Correct answer: D) Face and tongue muscles
+
+33) Which structure plays a role in the smooth execution of habitual movements?
+A) Basal ganglia loop
+B) Vestibulospinal tract
+C) Tectospinal tract
+D) Reticulospinal tract
+Correct answer: A) Basal ganglia loop
+
+34) The primary function of the globus pallidus externus is to:
+A) Stop movement
+B) Favor movements
+C) Modulate sensory perception
+D) Initiate voluntary movements
+Correct answer: B) Favor movements
+
+
+37) Which motor tract controls distal movement and gating of sensory input?
+A) Corticospinal tract
+B) Rubrospinal tract
+C) Reticulospinal tract
+D) Vestibulospinal tract
+Correct answer: A) Corticospinal tract
+
+38) Damage to the vestibulospinal tract may result in difficulties in maintaining posture when the head is:
+A) Still
+B) Moved
+C) Tilted
+D) Shaken
+Correct answer: B) Moved
+
+41) Lesions in the pontine reticulospinal tract would primarily affect which aspect of posture?
+A) Inhibition of posture
+B) Excitation of posture
+C) Flexor muscle control
+D) Extensor muscle control
+Correct answer: B) Excitation of posture
+
+42) The primary role of the cerebellum in motor function is:
+A) Initiating movement
+B) Modulating muscle tone
+C) Coordinating and fine-tuning movements
+D) Sensory perception of movement
+Correct answer: C) Coordinating and fine-tuning movements
+
+43) Damage to the corticospinal tract can result in:
+A) Impaired voluntary movement
+B) Loss of reflexes
+C) Sensory deficits
+D) Autonomic dysfunction
+Correct answer: A) Impaired voluntary movement
+
+44) Which motor tract is involved in smooth and habitual movements?
+A) Rubrospinal tract
+B) Reticulospinal tract
+C) Anterior corticospinal tract
+D) Vestibulospinal tract
+Correct answer: C) Anterior corticospinal tract
+
+45) The primary neurotransmitter inputfrom the cortex to the basal ganglia loop is:
+A) GABA
+B) Dopamine
+C) Glutamate
+D) Serotonin
+Correct answer: B) Dopamine
+
+46) The lateral corticospinal tract is responsible for controlling:
+A) Proximal muscle movements
+B) Fine motor movements
+C) Reflex responses
+D) Postural control
+Correct answer: B) Fine motor movements
+
+47) The primary function of the rubrospinal tract is:
+A) Control of gross movements
+B) Fine motor control
+C) Coordination of eye movements
+D) Regulation of posture
+Correct answer: A) Control of gross movements
+
+48) Which tract is responsible for transmitting information from the cerebellum to the contralateral cerebral cortex?
+A) Olivocerebellar tract
+B) Pontocerebellar tract
+C) Rubrospinal tract
+D) Corticospinal tract
+Correct answer: B) Pontocerebellar tract
+
+49) The primary inhibitory neurotransmitter in the central nervous system is:
+A) Acetylcholine
+B) Dopamine
+C) GABA
+D) Glutamate
+Correct answer: C) GABA
+
+50) Lesions in the corticobulbar tract originating from UMNs can result in:
+A) Weakness of upper extremities
+B) Weakness of lower extremities
+C) Difficulty in swallowing and speaking
+D) Loss of coordination and balance
+Correct answer: C) Difficulty in swallowing and speaking
+

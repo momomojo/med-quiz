@@ -1,0 +1,228 @@
+3) Parkinson's disease is characterized by the death of neurons in which brain structure?
+A) Substantia nigra
+B) Caudate nucleus
+C) Subthalamic nucleus
+D) Red nucleus
+Correct answer: A) Substantia nigra
+
+4) Which of the following is NOT a symptom of Parkinson's disease?
+A) Tremor
+B) Bradykinesia
+C) Festinating gait
+D) Choreiform movements
+Correct answer: D) Choreiform movements
+
+5) Huntington's chorea is associated with the death of neurons in which brain structure?
+A) Caudate nucleus
+B) Substantia nigra
+C) Red nucleus
+D) Subthalamic nucleus
+Correct answer: A) Caudate nucleus
+
+6) What is the characteristic movement abnormality seen in Huntington's chorea?
+A) Tremor
+B) Bradykinesia
+C) Chorea
+D) Rigidity
+Correct answer: C) Chorea
+
+7) Hemiballismus is caused by the death of neurons in which brain structure?
+A) Substantia nigra
+B) Subthalamic nucleus
+C) Red nucleus
+D) Caudate nucleus
+Correct answer: B) Subthalamic nucleus
+
+8) What are the characteristic symptoms of hemiballismus?
+A) Tremor and bradykinesia
+B) Choreiform movements
+C) Contralateral wild flinging ballistic movements
+D) Upper and lower extremities extended
+Correct answer: C) Contralateral wild flinging ballistic movements
+
+9) Damage above the red nucleus leads to which type of rigidity?
+A) Decorticate rigidity
+B) Decerebrate rigidity
+C) Cogwheel rigidity
+D) Lead-pipe rigidity
+Correct answer: A) Decorticate rigidity
+
+10) Damage below the red nucleus leads to which type of rigidity?
+A) Decorticate rigidity
+B) Decerebrate rigidity
+C) Cogwheel rigidity
+D) Lead-pipe rigidity
+Correct answer: B) Decerebrate rigidity
+
+11) Ipsilateral signs are observed in lesions of which part of the brain?
+A) Cortex
+B) Cerebellum
+C) Basal ganglia
+D) Thalamus
+Correct answer: B) Cerebellum
+
+12) An anterior cerebellar lesion is characterized by which of the following?
+A) Ataxia
+B) Intention tremor
+C) Dysdiadochokinesia
+D) Balance problems
+Correct answer: A) Ataxia
+
+13) Which type of cerebellar lesion is associated with intention tremor, dysdiadochokinesia, and dysmetria?
+A) Anterior cerebellar lesion
+B) Lateral cerebellar lesion
+C) Flocculonodular lesion
+D) Vermis lesion
+Correct answer: B) Lateral cerebellar lesion
+
+14) Which of the following is a characteristic symptom of a flocculonodular lesion?
+A) Ataxia
+B) Intention tremor
+C) Dysdiadochokinesia
+D) Balance problems
+Correct answer: D) Balance problems
+
+15) The primary function of the cortex in relation to muscle movement is to:
+A) Initiate muscle contraction
+B) Inhibit muscle movement
+C) Regulate muscle tone
+D) Coordinate fine motor skills
+Correct answer: B) Inhibit muscle movement
+
+16) In cases of atrophy, the most severe damage is observed at the level of:
+A) Nerves
+B) Spinal cord
+C) Basal ganglia
+D) Muscle cells
+Correct answer: D) Muscle cells
+
+17) Which components are included in the basal ganglia loop?
+A) Thalamus, hippocampus, amygdala
+B) Globus pallidus, caudate, putamen
+C) Substantia nigra, subthalamic nucleus, red nucleus
+D) Pons, medulla, midbrain
+Correct answer: B) Globus pallidus, caudate, putamen
+
+18) Which part of the globus pallidus corresponds to the external segment?
+A) Lateral globus pallidus
+B) Medial globus pallidus
+C) Ventral globus pallidus
+D) Dorsal globus pallidus
+Correct answer: A) Lateral globus pallidus
+
+19) The indirect pathway in the absence of dopamine leads to:
+A) Inhibition of movement
+B) Activation of movement
+C) Inhibition of thalamus
+D) Activation of thalamus
+Correct answer: A) Inhibition of movement
+
+20) Which pathway is active in the presence of dopamine?
+A) Direct pathway
+B) Indirect pathway
+C) Both pathways
+D) Neither pathway
+Correct answer: A) Direct pathway
+
+21) Which drug is a D2 agonist commonly used in the treatment of Parkinson's disease?
+A) Dantrolene
+B) Botulinum toxin
+C) L-Dopa
+D) Pramipexole
+Correct answer: D) Pramipexole
+
+22) Haloperidol and risperidone are commonly used as antipsychotic drugs due to their:
+A) D1 agonist activity
+B) D2 antagonist activity
+C) GABAergic effects
+D) NMDA receptor antagonism
+Correct answer: B) D2 antagonist activity
+
+23) What is the origin of the olivocerebellar tract?
+A) Inferior olivary nucleus
+B) Red nucleus
+C) Subthalamic nucleus
+D) Caudate nucleus
+Correct answer: A) Inferior olivary nucleus
+
+24) What is the function of the pontocerebellar tract?
+A) Balance
+B) Posture
+C) Timing/learning movements
+D) Intended movement information
+Correct answer: D) Intended movement information
+
+25) Which cells synapse on granule cells at the cerebellar glomerulus?
+A) Mossy fibers and Golgi cells
+B) Climbing fibers and stellate interneurons
+C) Basket interneurons and Purkinje neurons
+D) Golgi neurons and deep cerebellar nuclei
+Correct answer: A) Mossy fibers and Golgi cells 
+
+33) In the basal ganglia loop, which component inhibits the thalamus to suppress movement?
+A) Substantia nigra
+B) Putamen
+C) External globus pallidus
+D) Internal globus pallidus
+
+34) Which direct pathway in the presence of dopamine promotes movement?
+A) Inhibited direct pathway
+B) Normal direct pathway
+C) Inhibited indirect pathway
+D) Normal indirect pathway
+
+35) What is the primary function of the olivocerebellar tract?
+A) Balance
+B) Posture
+C) Timing/learning movements
+D) Tone/joint position
+
+36) Which type of fibers excite a spot of Purkinje neurons and contribute to the timing of movements?
+A) Climbing fibers
+B) Mossy fibers
+C) Basket fibers
+D) Granule fibers
+
+37) Which part of the basal ganglia is primarily affected in Huntington's disease?
+A) Globus pallidus
+B) Substantia nigra
+C) Putamen
+D) Caudate nucleus
+
+38) What is the characteristic movement disorder associated with Huntington's disease?
+A) Tremor
+B) Choreiform movements
+C) Ballistic movements
+D) Rigidity
+
+39) What are the primary symptoms of hemiballismus?
+A) Tremor and bradykinesia
+B) Jerky movements (chorea) and dementia
+C) Wild flinging ballistic movements of the limbs
+D) Flexed upper extremities and extended lower extremities
+
+40) Damage above the red nucleus leads to which condition?
+A) Decorticate rigidity
+B) Decerebrate rigidity
+C) Parkinson's disease
+D) Huntington's chorea
+
+41) Damage below the red nucleus leads to which condition?
+A) Decorticate rigidity
+B) Decerebrate rigidity
+C) Parkinson's disease
+D) Hemiballismus
+
+42) In anterior cerebellar lesions, what is the characteristic symptom?
+A) Tremor and bradykinesia
+B) Ataxia (broad-based gait like a drunk)
+C) Intention tremor and dysdiadochokinesia
+D) Balance problems and nystagmus
+
+43) What is the primary function of the vestibulocerebellar tract?
+A) Balance
+B) Posture
+C) Timing/learning movements
+D) Tone/joint position
+
+
