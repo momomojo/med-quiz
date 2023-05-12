@@ -1,0 +1,279 @@
+1) In which sleep phase are Beta waves primarily observed?
+A) Phase 0
+B) N1
+C) N2
+D) N3
+Correct answer: A) Phase 0
+
+2) Alpha waves are prominent when an individual is?
+A) Awake and eyes open
+B) Awake and eyes closed
+C) Asleep and dreaming
+D) Asleep and not dreaming
+Correct answer: B) Awake and eyes closed
+
+3) Approximately, how many sleep cycles does a person go through in a night?
+A) 1-2
+B) 3-5
+C) 6-8
+D) 9-11
+Correct answer: B) 3-5
+
+4) Which sleep phase is characterized by Theta waves?
+A) Phase 0
+B) N1
+C) N2
+D) N3
+Correct answer: B) N1
+
+5) What phenomenon is common in sleep phase N2?
+A) Sleep walking
+B) Rapid eye movement
+C) Bruxism
+D) Dream recall
+Correct answer: C) Bruxism
+
+6) In which sleep phase is Delta wave primarily observed?
+A) Phase 0
+B) N1
+C) N2
+D) N3
+Correct answer: D) N3
+
+7) Which of the following is NOT a feature of REM sleep?
+A) Beta waves
+B) Erections
+C) Dream recall
+D) Sleep walking
+Correct answer: D) Sleep walking
+
+8) What neurotransmitter does the reticular activating system release to promote wakefulness?
+A) Serotonin
+B) Acetylcholine
+C) Dopamine
+D) Melatonin
+Correct answer: B) Acetylcholine
+
+9) Which area of the brain is responsible for making serotonin, which is important for sleep?
+A) Reticular activating system
+B) Raphe nucleus
+C) Locus ceruleus
+D) Ventral tegmental area
+Correct answer: B) Raphe nucleus
+
+10) What hormone does the pineal gland make to promote sleep?
+A) Serotonin
+B) Acetylcholine
+C) Dopamine
+D) Melatonin
+Correct answer: D) Melatonin
+
+11) Which of the following is TRUE about neurotransmitter levels during REM sleep?
+A) NE low & ACh high
+B) NE high & ACh low
+C) Both NE & ACh high
+D) Both NE & ACh low
+Correct answer: A) NE low & ACh high
+
+12) Which system is associated with the circadian rhythm?
+A) Process C
+B) Process S
+C) Process A
+D) Process B
+Correct answer: A) Process C
+
+13) Which part of the brain acts as the circadian pacemaker?
+A) Ventral tegmental area
+B) Suprachiasmatic nucleus
+C) Locus ceruleus
+D) Pineal gland
+Correct answer: B) Suprachiasmatic nucleus
+
+14) What typically happens to the sleep phase in teenagers?
+A) Phase delay
+B) Phase advance
+C) Phase remains the same
+D) Phase disappears
+Correct answer: A) Phase delay
+
+15) What typically happens to the sleep phase in the elderly?
+A) Phase delay
+B) Phase advance
+C) Phase remains the same
+D) Phase disappears
+Correct answer: B) Phase advance
+
+16) Which substance is responsible for the homeostatic sleep drive mechanism?
+A) Serotonin
+B) Acetylcholine
+C) Dopamine
+D) Adenosine
+Correct answer: D) Adenosine
+
+17) What effect does caffeine have on the sleep system?
+A) It's an adenosine receptor antagonist
+B) It's an adenosine receptor agonist
+C) It increases melatonin production
+D) It decreases melatonin production
+Correct answer: A) It's an adenosine receptor antagonist
+
+18) What is the main criterion for diagnosing chronic insomnia?
+A) Trouble initiating sleep, 3x per week for 1+ months
+B) Trouble initiating sleep, 3x per week for 3+ months
+C) Trouble maintaining sleep, 3x per week for 1+ months
+D) Trouble maintaining sleep, 3x per week for 3+ months
+Correct answer: B) Trouble initiating sleep, 3x per week for 3+ months
+
+19) Which of the following is NOT a differential for hypersomnia?
+A) Sleep-related breathing disorders
+B) Chronic insomnia
+C) Idiopathic hypersomnia
+D) Narcolepsy
+Correct answer: B) Chronic insomnia
+
+20) Which test is commonly used to determine hypersomnia diagnosis?
+A) CT scan
+B) MRI
+C) PSG (polygraph)
+D) Blood test
+Correct answer: C) PSG (polygraph)
+
+21) What is the most common cause of hypersomnia?
+A) Obstructive Sleep Apnea
+B) Central Sleep Apnea
+C) Idiopathic Hypersomnia
+D) Narcolepsy
+Correct answer: A) Obstructive Sleep Apnea
+
+22) What is the standard treatment for Obstructive Sleep Apnea?
+A) Positive airway pressure (PAP)
+B) Medication
+C) Surgery
+D) Lifestyle changes
+Correct answer: A) Positive airway pressure (PAP)
+
+23) What differentiates Central Sleep Apnea from Obstructive Sleep Apnea?
+A) Central Sleep Apnea has respiratory effort
+B) Central Sleep Apnea has no respiratory effort
+C) Central Sleep Apnea is associated with obesity
+D) Central Sleep Apnea is more common
+Correct answer: B) Central Sleep Apnea has no respiratory effort
+
+24) What is the primary criterion for diagnosing Idiopathic Hypersomnia?
+A) Excessive daytime sleepiness daily for 1+ months
+B) Excessive daytime sleepiness daily for 3+ months
+C) Trouble initiating sleep, 3x per week for 3+ months
+D) Trouble maintaining sleep, 3x per week for 3+ months
+Correct answer: B) Excessive daytime sleepiness daily for 3+ months
+
+25) What is a characteristic feature of Narcolepsy?
+A) Falling asleep 2-6x daily for 10-20mins over 3x period
+B) Trouble initiating sleep, 3x per week for 3+ months
+C) Excessive daytime sleepiness daily for 3+ months
+D) Sleep-related breathing disorders
+Correct answer: A) Falling asleep 2-6x daily for 10-20mins over 3x period
+
+26) Which of the following is a treatment for Narcolepsy?
+A) Amphetamines
+B) Benzodiazepines
+C) Antidepressants
+D) Positive airway pressure (PAP)
+Correct answer: A) Amphetamines
+
+27) Nightmares are common in which sleep phase?
+A) Phase 0
+B) N1
+C) N2
+D) REM
+Correct answer: D) REM
+
+28) Which medication is commonly used to treat nightmares?
+A) Amphetamines
+B) Benzodiazepines
+C) Antidepressants
+D) Positive airway pressure (PAP)
+Correct answer: C) Antidepressants
+
+29) Sleep Terrors are common in which sleep phase?
+A) Phase 0
+B) N1
+C) N2
+D) N3
+Correct answer: D) N3
+
+30) How is REM behavior disorder typically managed?
+A) Discontinuation of stimulants
+B) Use of stimulants
+C) Use of TCA's
+D) Use of SSRI's
+Correct answer: A) Discontinuation of stimulants
+
+31) In depression, which sleep pattern is observed?
+A) Increased REM sleep and decreased REM sleep latency
+B) Decreased REM sleep and increased REM sleep latency
+C) Increased Slow-Wave-Sleep (SWS)
+D) Decreased Slow-Wave-Sleep (SWS)
+Correct answer: A) Increased REM sleep and decreased REM sleep latency
+
+32) What is REM rebound?
+A) Increase in REM sleep after discontinuation of REM suppressants
+B) Decrease in REM sleep after discontinuation of REM suppressants
+C) Increase in REM sleep while taking REM suppressants
+D) Decrease in REM sleep while taking REM suppressants
+Correct answer: A) Increase in REM sleep after discontinuation of REM suppressants
+
+33) Which test uses EEG, EOG, EMG during nap trials to determine daytime sleepiness & tendency to enter REM?
+A) PSG (polygraph)
+B) MSLT (mean sleep latency test)
+C) CT scan
+D) Blood test
+Correct answer: B) MSLT (mean sleep latency test)
+
+34) What is the main feature of N1 sleep phase?
+A) Slow eye movement and hypnic jerks
+B) High amplitude, low frequency brain waves
+C) Sleep walking and night terrors
+D) Rapid eye movement and dream recall
+Correct answer: A) Slow eye movement and hypnic jerks
+
+35) Which sleep phase constitutes the longest part of sleep?
+A) N1
+B) N2
+C) N3
+D) REM
+Correct answer: B) N2
+
+36) In which sleep phase is sleep walking and night terrors most common?
+A) N1
+B) N2
+C) N3
+D) REM
+Correct answer: C) N3
+
+37) Which gland releases melatonin to promote sleep?
+A) Thyroid gland
+B) Pineal gland
+C) Pituitary gland
+D) Adrenal gland
+Correct answer: B) Pineal gland
+
+38) What is the function of the reticular activating system in sleep?
+A) It releases Acetylcholine to promote wakefulness
+B) It releases Dopamine to promote sleep
+C) It releases Melatonin to promote sleep
+D) It releases Serotonin to promote wakefulness
+Correct answer: A) It releases Acetylcholine to promote wakefulness
+
+39) What causes short term insomnia?
+A) Trouble initiating sleep, 3x per week for 3+ months
+B) Excessive daytime sleepiness daily for 3+ months
+C) Falling asleep 2-6x daily for 10-20mins over 3x period
+D) Trouble initiating sleep, 3x per week for a shorter duration than chronic insomnia
+Correct answer: D) Trouble initiating sleep, 3x per week for a shorter duration than chronic insomnia
+
+40) What is a common symptom of Obstructive Sleep Apnea?
+A) Respiratory effort
+B) No respiratory effort
+C) Hypoventilation
+D) Excessive daytime sleepiness
+Correct answer: A) Respiratory effort
