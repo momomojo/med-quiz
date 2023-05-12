@@ -22,7 +22,7 @@ Correct answer: A) Caudate nucleus
 6) What is the characteristic movement abnormality seen in Huntington's chorea?
 A) Tremor
 B) Bradykinesia
-C) Chorea
+C) Chorea (well coordinated jerky movements) 
 D) Rigidity
 Correct answer: C) Chorea
 
@@ -63,7 +63,7 @@ Correct answer: B) Cerebellum
 
 12) An anterior cerebellar lesion is characterized by which of the following?
 A) Ataxia
-B) Intention tremor
+B) Hearing problems
 C) Dysdiadochokinesia
 D) Balance problems
 Correct answer: A) Ataxia
@@ -117,27 +117,6 @@ C) Inhibition of thalamus
 D) Activation of thalamus
 Correct answer: A) Inhibition of movement
 
-20) Which pathway is active in the presence of dopamine?
-A) Direct pathway
-B) Indirect pathway
-C) Both pathways
-D) Neither pathway
-Correct answer: A) Direct pathway
-
-21) Which drug is a D2 agonist commonly used in the treatment of Parkinson's disease?
-A) Dantrolene
-B) Botulinum toxin
-C) L-Dopa
-D) Pramipexole
-Correct answer: D) Pramipexole
-
-22) Haloperidol and risperidone are commonly used as antipsychotic drugs due to their:
-A) D1 agonist activity
-B) D2 antagonist activity
-C) GABAergic effects
-D) NMDA receptor antagonism
-Correct answer: B) D2 antagonist activity
-
 23) What is the origin of the olivocerebellar tract?
 A) Inferior olivary nucleus
 B) Red nucleus
@@ -165,11 +144,12 @@ B) Putamen
 C) External globus pallidus
 D) Internal globus pallidus
 
-34) Which direct pathway in the presence of dopamine promotes movement?
+34) Which pathway in the presence of dopamine promotes movement?
 A) Inhibited direct pathway
 B) Normal direct pathway
 C) Inhibited indirect pathway
 D) Normal indirect pathway
+E) Both B and D
 
 35) What is the primary function of the olivocerebellar tract?
 A) Balance
@@ -201,17 +181,12 @@ B) Jerky movements (chorea) and dementia
 C) Wild flinging ballistic movements of the limbs
 D) Flexed upper extremities and extended lower extremities
 
-40) Damage above the red nucleus leads to which condition?
-A) Decorticate rigidity
-B) Decerebrate rigidity
-C) Parkinson's disease
-D) Huntington's chorea
-
 41) Damage below the red nucleus leads to which condition?
-A) Decorticate rigidity
-B) Decerebrate rigidity
+A) Decorticate rigidity (UE flex, LE extended)
+B) Decerebrate rigidity (Ue and LE extended) 
 C) Parkinson's disease
 D) Hemiballismus
+E) Both A and B depending on the site of the lesion 
 
 42) In anterior cerebellar lesions, what is the characteristic symptom?
 A) Tremor and bradykinesia
