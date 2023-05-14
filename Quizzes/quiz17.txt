@@ -159,13 +159,6 @@ C) VA and VL nuclei of the thalamus
 D) Zona incerta, fasciculus thalamicus, ansa lenticularis
 Correct answer: A) External globus pallidus, internal globus pallidus, substantia nigra
 
-25) What is the primary neurotransmitter involved in the outflow tracts from the Striatum?
-A) Glutamate
-B) GABA
-C) Dopamine
-D) Acetylcholine
-Correct answer: B) GABA
-
 26) Which structures make up the Flocculonodular lobe of the cerebellum?
 A) Flocculus and nodulus
 B) Fastigial, globose, emboliform, dentate
@@ -180,24 +173,5 @@ C) Conducting skilled movement of limbs and digits
 D) Maintaining uncontrolled movements, paucity of movements, abnormal muscular tone
 Correct answer: A) Balance and communication with the vestibular nucleus
 
-28) Which of the following is a common symptom of a Vermis Tumor?
-A) Contralateral hemiballismus
-B) Ataxia
-C) Skilled movement of limbs and digits
-D) Repetitive movements
-Correct answer: B) Ataxia
 
-29) What does the Foramen of Magendie refer to?
-A) A hole in the posterior aspect of the posterior medullary velum in the cerebellum
-B) A tract fiber used by the Pyramidal system
-C) An output fiber of the globus pallidus
-D) Part of the Pretectal fields of the subthalamus
-Correct answer: A) A hole in the posterior aspect of the posterior medullary velum in the cerebellum
-
-30) What is the result of a lesion in the Subthalamic nucleus?
-A) Contralateral hemiballismus
-B) Ataxia
-C) Skilled movement of limbs and digits
-D) Repetitive movements
-Correct answer: A) Contralateral hemiballismus
 
