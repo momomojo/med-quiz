@@ -1,0 +1,132 @@
+1) What is the result of a chromosome 17 NF1 gene mutation in Neurofibromatosis 1 (NF1)?
+A) Uninhibited RAS signaling
+B) Merlin protein dysfunction
+C) Altered VHL protein
+D) SHH-activated TP53 subtype
+Correct answer: A) Uninhibited RAS signaling
+
+2) Which type of tumor is characterized by Rosenthal fibers and eosinophilic accumulation in NF1?
+A) Malignant Peripheral Nerve Sheath Tumor (MPNST)
+B) Optic Pathway Gliomas/ pilocytic astrocytoma
+C) Schwannomas
+D) Meningioma
+Correct answer: B) Optic Pathway Gliomas/ pilocytic astrocytoma
+
+3) What is a characteristic feature of Plexiform Neurofibromas in NF1?
+A) Diffusely S100 (+)
+B) Patchy S100 (+)
+C) Meningothelial whorls
+D) Psammoma bodies
+Correct answer: B) Patchy S100 (+)
+
+4) In Neurofibromatosis 2 (NF2), a mutation occurs in which chromosome?
+A) Chromosome 3
+B) Chromosome 22
+C) Chromosome 17
+D) Chromosome 5
+Correct answer: B) Chromosome 22
+
+5) What is the key feature of Schwannomas in NF2?
+A) Diffusely S100 (+) with nuclear palisading Verocay bodies
+B) Tumor necrosis and pseudopalisading
+C) Patchy S100 (+)
+D) Rosenthal fibers and eosinophilic accumulation
+Correct answer: A) Diffusely S100 (+) with nuclear palisading Verocay bodies
+
+6) What characterizes a Meningioma in NF2?
+A) Whorls and psammoma bodies
+B) Glial tumor with perivascular pseudorosettes
+C) Small round blue tumor
+D) Rosenthal fibers and eosinophilic accumulation
+Correct answer: A) Whorls and psammoma bodies
+
+7) In Von Hippel Lindaue Syndrome, what is the result of a chromosome 3 VHL gene mutation?
+A) Inactivation of neurofibromin protein
+B) Merlin protein dysfunction
+C) Neoplasms due to altered protein
+D) Truncation of the APC protein
+Correct answer: C) Altered VHL protein
+
+8) Where is a Hemenagioblastoma typically located in Von Hippel Lindaue Syndrome?
+A) Ventricles
+B) Abdominal wall
+C) Cerebellum
+D) Colon and rectum
+Correct answer: C) Cerebellum
+
+9) In Li-Fraumeni Syndrome, which gene mutation occurs?
+A) TP53 tumor suppressor gene
+B) NF1 gene
+C) NF2 gene
+D) APC gene
+Correct answer: A) TP53 tumor suppressor gene
+
+10) What characterizes a Medulloblastoma in Li-Fraumeni Syndrome?
+A) Small round blue cell tumor
+B) Tumor necrosis and pseudopalisading
+C) Meningothelial whorls and psammoma bodies
+D) Rosenthal fibers and eosinophilic accumulation
+Correct answer: A) Small round blue cell tumor
+
+11) In which syndrome is a heterozygous germline mutation in a mismatch repair gene most likely to occur?
+A) Neurofibromatosis 1
+B) Neurofibromatosis 2
+C) Von Hippel Lindaue Syndrome
+D) Mismatch Repair Deficiency Syndrome / Lynch Syndrome
+Correct answer: D) Mismatch Repair Deficiency Syndrome / Lynch Syndrome
+
+12) What type of cancers does Mismatch Repair Deficiency Syndrome / Lynch Syndrome commonly cause in adults?
+A) Liver and lung cancers
+B) Brain and spinal cord tumors
+C) Colon/GI & endometrial cancers
+D) Breast and ovarian cancers
+Correct answer: C) Colon/GI & endometrial cancers
+
+13) In Familial Adenomatous Polyposis (FAP), what is the result of a chromosome 5 APC gene mutation?
+A) Inactivation of neurofibromin protein
+B) Uninhibited RAS signaling
+C) Uncontrolled Wnt signaling pathway
+D) Altered VHL protein
+Correct answer: C) Uncontrolled Wnt signaling pathway
+
+14) Where are polyps typically found in Familial Adenomatous Polyposis 1?
+A) Ventricles
+B) Abdominal wall
+C) Colon and rectum
+D) Cerebellum
+Correct answer: C) Colon and rectum
+
+16) Altered TSC2 gene on chromosome 16 with candel wax dirppings seen on histology is concurrent with which clinial findings?
+A) SEGA of lateral ventricle with eosinophillic cytoplasm 
+B) Neoplastic stomal cells with vacuolated cytoplasm 
+C) Pseudopalisading tumor necrosis with vascular proliferation
+D) SEGA of lateral ventricle with vacuolated cytoplasm 
+
+17) Which common intraocular malignancy in infants is caused by biallelic mutation of RB1 (chromosome 13) and is characterized by flexner wintersteiner (true) rosettes?
+A) Medulloblastoma
+B) Retinoblastoma
+C) Hemenagioblastoma
+D) Choroid Plexus carcinoma
+Correct answer: B) Retinoblastoma
+
+18) What histological feature is characteristic of Plexiform Neurofibromas in Neurofibromatosis 1?
+A) Spindled cells
+B) "Shredded carrot" collagen
+C) Psammoma bodies
+D) Perivascular pseudorosette
+Correct answer: B) "Shredded carrot" collagen
+
+19) Which of the following is a histological feature of Malignant Peripheral Nerve Sheath Tumors (MPNST) in Neurofibromatosis 1?
+A) Eosinophilic cytoplasm
+B) Spindled cells, hypercellular, increased mitosis, and necrosis
+C) Vacuolated cytoplasm
+D) Nuclear palisading Verocay bodies
+Correct answer: B) Spindled cells, hypercellular, increased mitosis, and necrosis
+
+20) In Tuberous Sclerosis, where is the TSC1 gene located?
+A) Chromosome 5
+B) Chromosome 9
+C) Chromosome 16
+D) Chromosome 22
+Correct answer: B) Chromosome 9
+

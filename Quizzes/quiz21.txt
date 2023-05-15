@@ -1,0 +1,526 @@
+1) What histological feature is characteristic of Alzheimer's disease?
+A) Presence of AB amyloid plaque
+B) Presence of Lewy bodies
+C) Presence of 4R Tau isoform
+D) Presence of astrocytic plaque
+Correct answer: A) Presence of AB amyloid plaque
+
+2) Which gene mutation is linked to familial/early onset form of Alzheimer's disease?
+A) HTT
+B) SOD1
+C) APP
+D) MAPT
+Correct answer: C) APP
+
+3) In the context of Alzheimer's Disease, which gene is associated with Apolipoprotein E?
+A) PSEN1/PSEN2
+B) SOD1
+C) TDP43
+D) FUS
+Correct answer: A) PSEN1/PSEN2
+
+4) Mutations in which components lead to the formation of AB amyloid?
+A) APP or β-amyloid-converting enzyme
+B) APP or γ-secretase
+C) γ-secretase or α-secretase
+D) α-secretase or β-amyloid-converting enzyme
+Correct answer: B) APP or γ-secretase
+
+5) The APP gene is located on which chromosome?
+A) Chromosome 21
+B) Chromosome 4
+C) Chromosome 10
+D) Chromosome 15
+Correct answer: A) Chromosome 21
+
+6) Why do Trisomy 21/Down Syndrome patients have a higher risk of forming AB amyloid?
+A) They have an extra copy of the APP gene
+B) They have a deletion of the APP gene
+C) They have a duplication of the PSEN1 gene
+D) They have a mutation in the PSEN2 gene
+Correct answer: A) They have an extra copy of the APP gene
+
+7) Which combination leads to the non-amyloidogenic pathway?
+A) γ-secretase and α-secretase
+B) γ-secretase and β-amyloid-converting enzyme
+C) APP and γ-secretase
+D) APP and β-amyloid-converting enzyme
+Correct answer: A) γ-secretase and α-secretase
+
+8) What is the primary function of Tau protein in neurons?
+A) It stabilizes microtubules in axons
+B) It helps in the formation of AB amyloid
+C) It aids in neurotransmitter release
+D) It protects the neurons from oxidative stress
+Correct answer: A) It stabilizes microtubules in axons
+
+9) Which Alzheimer's disease-related gene can lead to different Tau isoforms due to alternative splicing?
+A) APP
+B) PSEN1
+C) MAPT
+D) TDP43
+Correct answer: C) MAPT
+
+10) Which tau isoforms are involved in Alzheimer's disease?
+A) 3R and 4R
+B) Only 3R
+C) Only 4R
+D) Neither 3R nor 4R
+Correct answer: A) 3R and 4R
+
+11) Progressive supranuclear palsy is linked to which Tau isoform?
+A) 3R
+B) 4R
+C) Both 3R and 4R
+D) Neither 3R nor 4R
+Correct answer: B) 4R
+
+12) What does cerebral amyloid angiopathy increase the risk for?
+A) Ischemic stroke
+B) Hemorrhagic stroke
+C) Alzheimer's disease
+D) Parkinson's disease
+Correct answer: B) Hemorrhagic stroke
+
+13) How is cerebral amyloid angiopathy diagnosed?
+A) Congo red staining
+B) Silver staining
+C) Hematoxylin and eosin staining
+D) Periodic acid-Schiff staining
+Correct answer: A) Congo red staining
+
+14) What is a characteristic of vascular dementia?
+A) Progressive cognitive deficits
+B) Sudden cognitive deficits
+C) Motor symptoms similar to Parkinson's disease
+D) Early onset memory loss
+Correct answer: B) Sudden cognitive deficits
+
+15) What commonly causes vascular dementia?
+A) Strokes and lacunar infarcts
+B) Alzheimer's disease
+C) Progressive supranuclear palsy
+D) Mutations in the APP gene
+Correct answer: A) Strokes and lacunar infarcts
+
+16) What is a symptom of Frontotemporal Lobar Degeneration (FTLD) / Pick's Disease?
+A) Trouble looking upwards
+B) Difficulty swallowing
+C) Word retrieval difficulty (nonfluent aphasia)
+D) Rapidly progressive dementia
+Correct answer: C) Word retrieval difficulty (nonfluent aphasia)
+
+17) What abnormal protein accumulation is characteristic of FTLD/Pick's disease?
+A) 3R Tau
+B) 4R Tau
+C) AB amyloid
+D) α-synuclein
+Correct answer: A) 3R Tau
+
+18) Which of the following is a characteristic of Lewy Body Dementia?
+A) Presence of AB amyloid plaque
+B) Visual hallucinations
+C) Progressive cognitive deficits
+D) Accumulation of 4R tau isoform
+Correct answer: B) Visual hallucinations
+
+19) What is a key histological finding in Lewy Body Dementia?
+A) Pallor of substantia nigra and presence of Lewy bodies
+B) Presence of AB amyloid plaque
+C) Presence of astrocytic plaque
+D) Presence of neurofibrillary tangles
+Correct answer: A) Pallor of substantia nigra and presence of Lewy bodies
+
+20) If dementia/cognitive symptoms appear first, followed by Parkinson-like symptoms, what is the condition termed as?
+A) Parkinson's with dementia
+B) Dementia with Parkinson's
+C) Lewy Body Dementia
+D) Alzheimer's disease
+Correct answer: B) Dementia with Parkinson's
+
+21) If Parkinson's symptoms appear first, followed by dementia, what is the condition termed as?
+A) Parkinson's with dementia
+B) Dementia with Parkinson's
+C) Lewy Body Dementia
+D) Alzheimer's disease
+Correct answer: A) Parkinson's with dementia
+
+22) Which of the following diseases is characterized by the presence of alpha-synuclein in Lewy bodies?
+A) Parkinson's Disease
+B) Progressive Supranuclear Palsy
+C) Frontotemporal Lobar Degeneration
+D) Alzheimer's Disease
+Correct answer: A) Parkinson's Disease
+
+23) What is a clinical feature of Parkinson's Disease?
+A) Bradykinesia
+B) Hyperreflexia
+C) Muscle jerks
+D) Rigidity
+Correct answer: A) Bradykinesia
+
+24) Progressive supranuclear palsy is associated with which key term?
+A) Tufted astrocyte
+B) Astrocytic plaque
+C) Skein-like inclusions
+D) Lewy bodies
+Correct answer: A) Tufted astrocyte
+
+25) Which symptom is associated with corticobasal degeneration?
+A) "Alien limb" that acts independently
+B) Difficulty swallowing
+C) Trouble looking upwards
+D) Sleep problems
+Correct answer: A) "Alien limb" that acts independently
+
+26) Corticobasal degeneration is characterized as a what type of tauopathy?
+A) 3R tauopathy
+B) 4R tauopathy
+C) Both 3R and 4R tauopathy
+D) Neither 3R nor 4R tauopathy
+Correct answer: B) 4R tauopathy
+
+27) Multiple System Atrophy is characterized by the distribution of which protein in the central nervous system (CNS)?
+A) Tau protein
+B) Alpha-synuclein
+C) AB amyloid
+D) Prion protein
+Correct answer: B) Alpha-synuclein
+
+28) Which is a key term associated with Amyotrophic Lateral Sclerosis (ALS)?
+A) Astrocytic plaque
+B) Skein-like inclusions
+C) Spongiform change
+D) Lewy bodies
+Correct answer: B) Skein-like inclusions
+
+29) Which genetic mutation is associated with ALS?
+A) Mutation in the APP gene
+B) Mutation in the SOD1 gene
+C) Mutation in the HTT gene
+D) Mutation in the PSEN1 gene
+Correct answer: B) Mutation in the SOD1 gene
+
+30) Which disease is characterized by chorea (dance-like movements, inability to keep arms still)?
+A) Alzheimer's Disease
+B) Huntington's Disease
+C) Creutzfeldt-Jakob Disease
+D) Multiple System Atrophy
+Correct answer: B) Huntington's Disease
+
+31) Huntington's Disease is characterized by an autosomal dominant CAG repeat in which gene?
+A) HTT gene on chromosome 4
+B) APP gene on chromosome 21
+C) SOD1 gene on chromosome 21
+D) PSEN1 gene on chromosome 14
+Correct answer: A) HTT gene on chromosome 4
+
+32) Which of the following is a characteristic feature of Creutzfeldt-Jakob Disease/Prion disease?
+A) Spongiform change (vacuolation of neuropil, appearing as white bubbles)
+B) Presence of AB amyloid plaque
+C) Presence of neurofibrillary tau tangles
+D) Presence of Lewy bodies
+Correct answer: A) Spongiform change (vacuolation of neuropil, appearing as white bubbles)
+
+33) What is a commonly used screening test for Creutzfeldt-Jakob Disease/Prion disease?
+A) Detection of 14-3-3 protein in CSF
+B) Congo red staining
+C) Amyloid beta immunohistochemistry
+D) Detection of Tau protein in CSF
+Correct answer: A) Detection of 14-3-3 protein in CSF
+
+34) Which disease involves both 4R and 3R tau isoforms?
+A) Alzheimer's disease
+B) Pick's Disease
+C) Progressive Supranuclear Palsy
+D) Corticobasal degeneration
+Correct answer: A) Alzheimer's disease
+
+35) Inability to look up, parkinsonism, and the presence of tufted astrocytes are key features of which disease?
+A) Alzheimer's disease
+B) Pick's Disease
+C) Progressive Supranuclear Palsy
+D) Corticobasal degeneration
+Correct answer: C) Progressive Supranuclear Palsy
+
+36) Independent movement of an arm, 4R tau, and the presence of astrocyte plaque are typical of which disease?
+A) Alzheimer's disease
+B) Pick's Disease
+C) Progressive Supranuclear Palsy
+D) Corticobasal degeneration
+Correct answer: D) Corticobasal degeneration
+
+37) Which of the following diseases is an alpha-synucleinopathy where alpha-synuclein is found in Lewy Bodies in the pons?
+A) Alzheimer's Disease
+B) Parkinson's Disease
+C) Lewy Body Dementia
+D) Multiple System Atrophy
+Correct answer: B) Parkinson's Disease
+
+38) Which of the following diseases is an alpha-synucleinopathy where alpha-synuclein is found in Lewy Bodies in the cortex?
+A) Alzheimer's Disease
+B) Parkinson's Disease
+C) Lewy Body Dementia
+D) Multiple System Atrophy
+Correct answer: C) Lewy Body Dementia
+
+39) In which disease is alpha-synuclein found in glial cytoplasmic inclusions?
+A) Alzheimer's Disease
+B) Parkinson's Disease
+C) Lewy Body Dementia
+D) Multiple System Atrophy
+Correct answer: D) Multiple System Atrophy
+
+40) In ALS, which type of motor neurons are affected?
+A) Upper motor neurons (UMN) only
+B) Lower motor neurons (LMN) only
+C) Both UMN and LMN
+D) Neither UMN nor LMN
+Correct answer: C) Both UMN and LMN
+
+41) What are the typical upper motor neuron symptoms in ALS?
+A) Weakness, atrophy, fasciculations
+B) Hyperreflexia, spasticity, Babinski sign
+C) Bradykinesia, resting tremor, rigidity
+D) Sleep problems, visual hallucinations, fluctuating symptoms
+Correct answer: B) Hyperreflexia, spasticity, Babinski sign
+
+42) What are the typical lower motor neuron symptoms in ALS?
+A) Weakness, atrophy, fasciculations
+B) Hyperreflexia, spasticity, Babinski sign
+C) Bradykinesia, resting tremor, rigidity
+D) Sleep problems, visual hallucinations, fluctuating symptoms
+Correct answer: A) Weakness, atrophy, fasciculations
+
+43) In the context of ALS, what are skein-like inclusions?
+A) Accumulations of misfolded proteins
+B) Neurofibrillary tau tangles
+C) AB amyloid plaques
+D) Alpha-synuclein inclusions
+Correct answer: A) Accumulations of misfolded proteins
+
+44) Which genes are commonly mutated in ALS?
+A) SOD1 gene on chromosome 21 and TDP43
+B) HTT gene on chromosome 4
+C) APP gene on chromosome 21
+D) PSEN1 and PSEN2 genes
+Correct answer: A) SOD1 gene on chromosome 21 and TDP43
+
+45) Which disease is characterized by choreic movements, CAG repeat on chromosome 4, and caudate atrophy?
+A) Alzheimer's disease
+B) Parkinson's disease
+C) Huntington's disease
+D) Creutzfeldt-Jakob disease
+Correct answer: C) Huntington's disease
+
+46) In the context of prion disease, what is a spongiform change?
+A) Accumulation of misfolded proteins that spread quickly
+B) Vacuolation of neuropil, appearing as white bubbles
+C) Presence of AB amyloid plaques
+D) Presence of neurofibrillary tau tangles
+Correct answer: B) Vacuolation of neuropil, appearing as white bubbles
+
+47) Which of the following diseases is characterized by rapidly progressive dementia with motor or cerebellar dysfunction?
+A) Alzheimer's disease
+B) Parkinson's disease
+C) Huntington's disease
+D) Creutzfeldt-Jakob disease
+Correct answer: D) Creutzfeldt-Jakob disease
+
+48) Tauopathies are characterized by the presence of hyper-phosphorylated Tau. Which disease among the following is not a Tauopathy?
+A) Alzheimer's disease
+B) Pick's disease
+C) Progressive Supranuclear Palsy
+D) Multiple System Atrophy
+Correct answer: D) Multiple System Atrophy
+
+49) Which of the following conditions are Synucleinopathies, characterized by abnormal accumulation of alpha-synuclein?
+A) Parkinson's disease and Lewy Body Dementia
+B) Alzheimer's disease and Huntington's disease
+C) Creutzfeldt-Jakob disease and Progressive Supranuclear Palsy
+D) Corticobasal Degeneration and Multiple System Atrophy
+Correct answer: A) Parkinson's disease and Lewy Body Dementia
+
+50) Which disease is characterized by the presence of independent movement of an arm, 4R tau,and astrocyte plaque?
+A) Alzheimer's disease
+B) Pick's disease
+C) Progressive Supranuclear Palsy
+D) Corticobasal Degeneration
+Correct answer: D) Corticobasal Degeneration
+
+51) In the context of Creutzfeldt-Jakob disease, what is the significance of the 14-3-3 protein in CSF?
+A) It is a diagnostic tool
+B) It contributes to the formation of AB amyloid
+C) It is a result of alternative splicing of the MAPT gene
+D) It is linked to the familial/early onset form of Alzheimer's disease
+Correct answer: A) It is a diagnostic tool
+
+52) Which disease is characterized by symptoms such as trouble looking upwards (supranuclear gaze palsy), difficulty swallowing & speech, plus parkinsonian symptoms?
+A) Alzheimer's disease
+B) Progressive Supranuclear Palsy
+C) Corticobasal Degeneration
+D) Multiple System Atrophy
+Correct answer: B) Progressive Supranuclear Palsy
+
+53) What is a key histological feature of Progressive Supranuclear Palsy?
+A) Presence of AB amyloid plaques
+B) Presence of neurofibrillary tau tangles in substantia nigra due to 4R Tau
+C) Presence of Lewy bodies
+D) Presence of skein-like inclusions
+Correct answer: B) Presence of neurofibrillary tau tangles in substantia nigra due to 4R Tau
+
+54) Which disease is characterized by symptoms such as clumsiness, rigidity, and "alien limb" that acts independently?
+A) Alzheimer's disease
+B) Progressive Supranuclear Palsy
+C) Corticobasal Degeneration
+D) Multiple System Atrophy
+Correct answer: C) Corticobasal Degeneration
+
+55) Which disease is characterized by symptoms such as parkinsonism, cerebellar ataxia, autonomic dysfunction (urinary incontinence), cognitive dysfunction, difficulty swallowing & weakness?
+A) Alzheimer's disease
+B) Progressive Supranuclear Palsy
+C) Corticobasal Degeneration
+D) Multiple System Atrophy
+Correct answer: D) Multiple System Atrophy
+
+56) What is a key histological feature of Multiple System Atrophy?
+A) Presence of AB amyloid plaques
+B) Presence of neurofibrillary tau tangles
+C) Presence of alpha-synuclein in glial cytoplasmic inclusions
+D) Presence of skein-like inclusions
+Correct answer: C) Presence of alpha-synuclein in glial cytoplasmic inclusions
+
+57) Which disease is characterized by symptoms such as weakness, atrophy, and fasciculations (slurred speech)?
+A) Alzheimer's disease
+B) Progressive Supranuclear Palsy
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: C) Amyotrophic Lateral Sclerosis (ALS)
+
+58) Which disease is characterized by symptoms such as personality changes, agitation, chorea (dance-like movements, inability to keep arms still), and rigidity?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: B) Huntington's Disease
+
+59) Which disease is associated with an autosomal dominant CAG repeat in HTT gene on chromosome 4?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: B) Huntington's Disease
+
+60) Which disease is characterized by symptoms such as muscle jerks, changes in personality, repetitive behaviors, poor judgment, and rapidly progressive dementia with motor or cerebellar dysfunction?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Creutzfeldt-Jakob Disease/ Prion disease
+D) Multiple System Atrophy
+Correct answer: C) Creutzfeldt-Jakob Disease/ Prion disease
+
+61) What is a key histological feature of Creutzfeldt-Jakob Disease/ Prion disease?
+A) Presence of AB amyloid plaques
+B) Presence of neurofibrillary tau tangles
+C) Spongiform change (vacuolation of neuropil, appearing as white bubbles)
+D) Presence of skein-like inclusions
+Correct answer: C) Spongiform change (vacuolation of neuropil, appearing as white bubbles)
+
+62) Which of these diseases are classified as Tauopathies?
+A) Alzheimer's disease, Pick's Disease, Progressive Supranuclear Palsy, Corticobasal Degeneration
+B) Alzheimer's disease, Parkinson's disease, Lewy Body Dementia, Multiple system atrophy
+C) Alzheimer's disease, Huntington's Disease, Creutzfeldt-Jakob Disease/ Prion disease, Amyotrophic Lateral Sclerosis (ALS)
+D) Alzheimer's disease, Pick's Disease, Creutzfeldt-Jakob Disease/ Prion disease, Amyotrophic Lateral Sclerosis (ALS)
+Correct answer: A) Alzheimer's disease, Pick's Disease, Progressive Supranuclear Palsy, Corticobasal Degeneration
+
+63) Which of these diseases are classified as Synucleinopathies?
+A) Alzheimer's disease, Pick's Disease, Progressive Supranuclear Palsy, Corticobasal Degeneration
+B) Parkinson's disease, Lewy Body Dementia, Multiple system atrophy
+C) Alzheimer's disease, Huntington's Disease, Creutzfeldt-Jakob Disease/ Prion disease, Amyotrophic Lateral Sclerosis (ALS)
+D) Alzheimer's disease, Pick's Disease, Creutzfeldt-Jakob Disease/ Prion disease, Amyotrophic Lateral Sclerosis (ALS)
+Correct answer: B) Parkinson's disease, Lewy Body Dementia, Multiple system atrophy
+
+64) Which disease is characterized by choreic movements, CAG repeat on chromosome 4, and caudate atrophy?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Creutzfeldt-Jakob Disease/ Prion disease
+D) Multiple System Atrophy
+Correct answer: B) Huntington's Disease
+
+65) Which disease is characterized by rapid onset dementia, abnormal movements, and spongiform change?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Creutzfeldt-Jakob Disease/ Prion disease
+D) Multiple System Atrophy
+Correct answer: C) Creutzfeldt-Jakob Disease/ Prion disease
+
+66) Which disease is linked to mutations in the SOD1 gene on chromosome 21 and TDP43?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: C) Amyotrophic Lateral Sclerosis (ALS)
+
+67) In which condition is the APP gene located on Chromosome 21 most directly implicated?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: A) Alzheimer's disease
+
+68) Which disease is linked to mutations in APP gene, PSEN1/PSEN2, and Apolipoprotein E?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: A) Alzheimer's disease
+
+69) In which disease does the abnormal accumulation of 3R Tau occur?
+A) Alzheimer's disease
+B) Frontotemporal Lobar Degeneration (FTLD)/ Pick's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: B) Frontotemporal Lobar Degeneration (FTLD)/ Pick's Disease
+
+70) In which disease does the abnormal accumulation of both 4R and 3R tau isoforms occur?
+A) Alzheimer's disease
+B) Frontotemporal Lobar Degeneration (FTLD)/ Pick's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: A) Alzheimer's disease
+
+71) Which disease is associated with the abnormal accumulation of alpha-synuclein in glial cytoplasmic inclusions?
+A) Alzheimer's disease
+B) Huntington's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: D) Multiple System Atrophy
+
+72) Which disease is associated with the presence of neurofibrillary tangles in the substantia nigra due to 4R Tau?
+A) Alzheimer's disease
+B) Progressive Supranuclear Palsy
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: B) Progressive Supranuclear Palsy
+
+73) Which disease is characterized by "alien limb" that acts independently?
+A) Alzheimer's disease
+B) Progressive Supranuclear Palsy
+C) Corticobasal Degeneration
+D) Multiple System Atrophy
+Correct answer: C) Corticobasal Degeneration
+
+74) Which disease is characterized by the presence of Lewy bodies in the cortex, not just the brainstem?
+A) Lewy Body Dementia
+B) Parkinson's Disease
+C) Corticobasal Degeneration
+D) Multiple System Atrophy
+Correct answer: A) Lewy Body Dementia
+
+75) Which disease is characterized by the presence of knife blade atrophy?
+A) Alzheimer's disease
+B) Frontotemporal Lobar Degeneration (FTLD)/ Pick's Disease
+C) Amyotrophic Lateral Sclerosis (ALS)
+D) Multiple System Atrophy
+Correct answer: B) Frontotemporal Lobar Degeneration (FTLD)/ Pick's Disease
+
+
