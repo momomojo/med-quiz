@@ -10,7 +10,7 @@ export async function populateQuizList(
   startQuiz,
   updateQuizName,
   fileExists,
-  quizSelectContainer // Add quizSelectContainer as an argument
+  quizSelectContainer
 ) {
 
   if (quizListPopulated || populatingQuizList) {
@@ -40,7 +40,7 @@ export async function populateQuizList(
             const displayName = quizNames[quizName] || quizName.replace(/(\d+)/g, ' $1'); // Add a space before each digit
             const formattedName = displayName.charAt(0).toUpperCase() + displayName.slice(1); // Capitalize the first letter
             quizButton.textContent = formattedName;
-            quizButton.onclick = () => startQuiz(quizName, questionFileExists && answerKeyFileExists, quizSelectContainer);
+            quizButton.onclick = () => startQuiz(quizName, fileExists, quizSelectContainer);
 
             quizButton.classList.add('quiz-button');
             quizSelectContainer.appendChild(quizButton);
@@ -116,12 +116,35 @@ export async function populateQuizList(
         showQuestion();
 
         function showQuestion() {
+          if (currentQuestion >= quizData.length) {
+            console.error('No more questions to display');
+            return;
+          }
+        
           const questionData = quizData[currentQuestion];
+        
+          if (!questionData) {
+            console.error('Invalid question data');
+            return;
+          }
+        
           questionElement.textContent = questionData.question;
         
           choicesContainer.innerHTML = '';
         
-          questionData.choices.forEach((choice, index) => {
+          // Create a copy of the original choices array
+          let choices = [...questionData.choices];
+        
+          // Remember the correct answer before shuffling
+          let correctAnswer = choices[questionData.correctAnswer];
+        
+          // Shuffle the choices
+          shuffle(choices);
+        
+          // Update the correct answer index after shuffling
+          questionData.correctAnswer = choices.indexOf(correctAnswer);
+        
+          choices.forEach((choice, index) => {
             const button = document.createElement('button');
             button.textContent = choice;
             button.onclick = () => handleAnswerClick(index);
@@ -135,6 +158,7 @@ export async function populateQuizList(
           updateProgressBar();
         }
         
+      
         function updateProgressBar() {
           const progressBar = document.getElementById('progress-bar');
           const progress = (currentQuestion / quizData.length) * 100;
