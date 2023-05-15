@@ -132,7 +132,19 @@ export async function populateQuizList(
         
           choicesContainer.innerHTML = '';
         
-          questionData.choices.forEach((choice, index) => {
+          // Create a copy of the original choices array
+          let choices = [...questionData.choices];
+        
+          // Remember the correct answer before shuffling
+          let correctAnswer = choices[questionData.correctAnswer];
+        
+          // Shuffle the choices
+          shuffle(choices);
+        
+          // Update the correct answer index after shuffling
+          questionData.correctAnswer = choices.indexOf(correctAnswer);
+        
+          choices.forEach((choice, index) => {
             const button = document.createElement('button');
             button.textContent = choice;
             button.onclick = () => handleAnswerClick(index);
@@ -145,6 +157,7 @@ export async function populateQuizList(
         
           updateProgressBar();
         }
+        
       
         function updateProgressBar() {
           const progressBar = document.getElementById('progress-bar');
