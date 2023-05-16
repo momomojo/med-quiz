@@ -134,15 +134,17 @@ export async function populateQuizList(
         
           // Create a copy of the original choices array
           let choices = [...questionData.choices];
-        
+
           // Remember the correct answer before shuffling
           let correctAnswer = choices[questionData.correctAnswer];
-        
-          // Shuffle the choices
-          shuffle(choices);
-        
-          // Update the correct answer index after shuffling
-          questionData.correctAnswer = choices.indexOf(correctAnswer);
+
+          // Shuffle the choices and keep track of their original indices
+          let shuffledChoicesWithIndices = choices.map((value, index) => ({value, index}));
+          shuffle(shuffledChoicesWithIndices);
+
+          // Update the choices array and the correct answer index after shuffling
+          choices = shuffledChoicesWithIndices.map(item => item.value);
+          questionData.correctAnswer = shuffledChoicesWithIndices.findIndex(item => item.index === questionData.correctAnswer);
         
           choices.forEach((choice, index) => {
             const button = document.createElement('button');
@@ -170,20 +172,19 @@ export async function populateQuizList(
         function handleAnswerClick(selectedIndex) {
           answeredQuestions.push({
             questionIndex: currentQuestion,
-            userAnswer: selectedIndex,
-            correctAnswer: quizData[currentQuestion].correctAnswer
+            userAnswerIndex: selectedIndex,
+            correctAnswerIndex: quizData[currentQuestion].correctAnswer,
           });
         
           showCorrectAnswer(selectedIndex);
-        }
+        }        
         
         function showCorrectAnswer(selectedIndex) {
           const buttons = choicesContainer.getElementsByTagName('button');
-          const correctAnswer = quizData[currentQuestion].correctAnswer;
-          const isCorrect = selectedIndex === correctAnswer;
+          const isCorrect = selectedIndex === quizData[currentQuestion].correctAnswer;
         
           for (let i = 0; i < buttons.length; i++) {
-            if (i === correctAnswer) {
+            if (i === quizData[currentQuestion].correctAnswer) {
               buttons[i].innerHTML = isCorrect ? '<i class="fas fa-check"></i> ' + buttons[i].textContent : '<i class="fas fa-times"></i> ' + buttons[i].textContent;
               buttons[i].classList.add(isCorrect ? 'correct' : 'correct-after-wrong');
             } else if (i === selectedIndex && !isCorrect) {
@@ -205,7 +206,7 @@ export async function populateQuizList(
             } else {
               showResults();
             }
-          }, 2000);
+          }, 750);
         }
         
         function showResults() {
@@ -229,8 +230,8 @@ export async function populateQuizList(
           wrongAnswers.forEach(answer => {
             const questionData = quizData[answer.questionIndex];
             const questionText = questionData.question;
-            const userAnswer = questionData.choices[answer.userAnswer];
-            const correctAnswer = questionData.choices[answer.correctAnswer];
+            const userAnswer = questionData.choices[answer.userAnswerIndex];
+            const correctAnswer = questionData.choices[answer.correctAnswerIndex];
         
             const answerDetails = document.createElement('div');
             answerDetails.innerHTML = `
