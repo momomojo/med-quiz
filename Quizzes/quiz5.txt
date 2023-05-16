@@ -32,7 +32,7 @@ D) Atrophy of the fornix
 A) Tissue damage
 B) Severity
 C) Underlying cause
-D) Both B and C
+D) Severity and Underlying cause
 
 7) Which type of injury results from direct tearing of soft tissue by external force?
 A) Contusion

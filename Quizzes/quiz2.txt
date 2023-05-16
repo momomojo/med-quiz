@@ -9,7 +9,7 @@ A) mg%
 B) g/dl
 C) g%
 D) µg/ml
-E) A and B
+E) mg% and g/dl
 
 4) At which BAC level would you expect to see slurred speech and uncoordinated movement?
 A) 0.05
@@ -51,7 +51,7 @@ D) Decreased heart rate
 A) Fatty degeneration
 B) Cirrhosis
 C) Portal Hypertension
-D) All of the above
+D) All 
 
 12) How does chronic alcohol use affect the endocrine system in males?
 A) Gynecomastia and testicular atrophy
@@ -76,7 +76,7 @@ A) Sodium bicarbonate infusion
 B) Hemodialysis
 C) Inducing emesis
 D) Ethanol administration
-E) All of the Above
+E) All 
 
 16) Which drug is the first-line treatment for methanol or ethylene glycol poisoning?
 A) Morphine
@@ -100,7 +100,7 @@ D) Variable effect depending on dose
 A) Increased fluid intake
 B) Decreased ADH release
 C) Increased ADH release
-D) Both A and B
+D) Increased fluid intake and Decreased ADH release
 
 20) Which enzyme system does alcohol induce in the liver?
 A) Carbonic Anhydrase
