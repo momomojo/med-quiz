@@ -204,7 +204,7 @@ export async function populateQuizList(
             } else {
               showResults();
             }
-          }, 750);
+          }, 2000);
         }
         
         function showResults() {
