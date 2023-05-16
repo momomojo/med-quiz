@@ -170,8 +170,8 @@ export async function populateQuizList(
         function handleAnswerClick(selectedIndex) {
           answeredQuestions.push({
             questionIndex: currentQuestion,
-            userAnswer: quizData[currentQuestion].choices[selectedIndex],
-            correctAnswer: quizData[currentQuestion].choices[quizData[currentQuestion].correctAnswer]
+            userAnswer: selectedIndex,
+            correctAnswer: quizData[currentQuestion].correctAnswer
           });
         
           showCorrectAnswer(selectedIndex);
@@ -179,13 +179,14 @@ export async function populateQuizList(
         
         function showCorrectAnswer(selectedIndex) {
           const buttons = choicesContainer.getElementsByTagName('button');
-          const isCorrect = quizData[currentQuestion].choices[selectedIndex] === quizData[currentQuestion].choices[quizData[currentQuestion].correctAnswer];
+          const correctAnswer = quizData[currentQuestion].correctAnswer;
+          const isCorrect = selectedIndex === correctAnswer;
         
           for (let i = 0; i < buttons.length; i++) {
-            if (buttons[i].textContent === quizData[currentQuestion].choices[quizData[currentQuestion].correctAnswer]) {
+            if (i === correctAnswer) {
               buttons[i].innerHTML = isCorrect ? '<i class="fas fa-check"></i> ' + buttons[i].textContent : '<i class="fas fa-times"></i> ' + buttons[i].textContent;
               buttons[i].classList.add(isCorrect ? 'correct' : 'correct-after-wrong');
-            } else if (buttons[i].textContent === quizData[currentQuestion].choices[selectedIndex] && !isCorrect) {
+            } else if (i === selectedIndex && !isCorrect) {
               buttons[i].innerHTML = '<i class="fas fa-times"></i> ' + buttons[i].textContent;
               buttons[i].classList.add('wrong');
             }
@@ -228,8 +229,8 @@ export async function populateQuizList(
           wrongAnswers.forEach(answer => {
             const questionData = quizData[answer.questionIndex];
             const questionText = questionData.question;
-            const userAnswer = answer.userAnswer;
-            const correctAnswer = answer.correctAnswer;
+            const userAnswer = questionData.choices[answer.userAnswer];
+            const correctAnswer = questionData.choices[answer.correctAnswer];
         
             const answerDetails = document.createElement('div');
             answerDetails.innerHTML = `
