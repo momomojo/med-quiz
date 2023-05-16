@@ -222,7 +222,7 @@ export async function populateQuizList(
           resultsContainer.style.display = 'block';
           restartButton.style.display = 'block';
     
-          const wrongAnswers = answeredQuestions.filter(answer => answer.userAnswer !== answer.correctAnswer);
+          const wrongAnswers = answeredQuestions.filter(answer => answer.userAnswerIndex !== answer.correctAnswerIndex);
           const wrongResultsContainer = document.createElement('div');
           wrongResultsContainer.innerHTML = `<strong>You got ${wrongAnswers.length} questions wrong:</strong><br><br>`;
           resultsContainer.appendChild(wrongResultsContainer);
