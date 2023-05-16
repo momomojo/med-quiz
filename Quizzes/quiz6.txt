@@ -17,7 +17,7 @@ C) Tissue death due to hyperoxygenation
 D) Lack of blood circulation
 
 4) Which term describes the effects on the entire brain?
-A) Both B and D
+A) Global hypoxia and Localized ischemia
 B) Global hypoxia
 C) Localized ischemia
 D) Generalized ischemia
@@ -32,7 +32,7 @@ D) Neurons that are resistant to hypoxia
 A) Basal ganglia
 B) Purkinje cells
 C) Sommer's sector of the hippocampus
-D) Both B and C
+D) Purkinje cells and Sommer's sector of the hippocampus
 
 7) What does laminar necrosis initially affect?
 A) Entire thickness of the cortex
@@ -168,18 +168,18 @@ D) All of the above
 
 29) Which type of brain herniation can compress the third cranial nerve and the PCA?
 A) Cingulate herniation
-B) Both C and D
+B) Uncal herniation and Transtentorial herniation
 C) Uncal herniation
 D) Transtentorial herniation
 E) Tonsillar herniation
-F) Both A and E
+F) Cingulate herniation and Tonsillar herniation
 
 30) Kernohan's notch is associated with:
 A) Cingulate herniation (high ICP = cingulate gyrus forced under edge of falx cerebri)
 B) Transtentorial herniation (opposite side of brain stem compressed against tentorium) 
 C) Uncal herniation  (CN3 and PCA compression, pupillary dialation, vision loss) 
 D) Tonsillar herniation 
-E) Both B and C
+E) Transtentorial herniation (opposite side of brain stem compressed against tentorium) and Uncal herniation  (CN3 and PCA compression, pupillary dialation, vision loss) 
 
 31) What is the main consideration for a coagulation disorder in a stroke patient?
 A) Age over 70
@@ -252,8 +252,8 @@ A) Cingulate herniation
 B) Transtentorial herniation
 C) Uncal herniation
 D) Tonsillar herniation
-E) Both B and C
-F) Both A and D
+E) Transtentorial herniation and Uncal herniation
+F) Cingulate herniation and Tonsillar herniation
 
 44) In which type of edema is fluid found in the extracellular space due to a problem with the blood-brain barrier?
 A) Vasogenic edema
