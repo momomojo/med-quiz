@@ -194,7 +194,7 @@ D) Loperamide
 A) Loperamide
 B) Promethazine
 C) Ondansetron
-D) Both B and C
+D) Promethazine and Ondansetron
 
 34) Which medication is used to prevent diarrhea during opioid withdrawal?
 A) Clonidine
@@ -224,8 +224,8 @@ D) Miotic pupils
 A) Hypotension
 B) Visual and Tactile Hallucinations
 C) Autonomic arousal
-D) Both B and C
-E) Both A and B
+D) Visual and Tactile Hallucinations with Autonomic arousal
+E) Hypotension with Autonomic arousal
 
 40) What is the primary cause of Korsakoff psychosis?
 A) Acute thiamine deficiency

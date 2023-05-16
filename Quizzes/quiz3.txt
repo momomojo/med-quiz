@@ -35,7 +35,7 @@ Correct answer: B) Methylxanthines
 
 6) What is the primary CNS effect of Methylxanthines?
 A) Increased sensitivity of medullary respiratory centers to CO2
-B) Mobilizes intracellular Ca2+
+B) Mobilizes intracellular Ca2+ in skeletal muscles
 C) Blocks glycine receptors in spinal cord (Cl- channel)
 D) None of the above
 Correct answer: A) Increased sensitivity of medullary respiratory centers to CO2
@@ -64,9 +64,9 @@ Correct answer: A) Nervousness and insomnia
 10) What are the clinical manifestations of Methylxanthines toxicity when used via IV infusion?
 A) CV problems and convulsions
 B) Hallucinations (olfactory or gustatory)
-C) Both A and B
+C) Hallucinations (olfactory or gustatory), CV problems and convulsions
 D) None of the above
-Correct answer: C) Both A and B
+Correct answer: C)  Hallucinations (olfactory or gustatory), CV problems and convulsions
 
 11) What medication is commonly used as a CNS stimulant for hyperkinetic syndrome/ADHD, narcolepsy, and by military personnel as a "go pill"?
 A) Cocaine

@@ -24,11 +24,11 @@ D) Sigma receptors
 
 5) What is the primary effect of opioid receptor activation on the nervous system?
 A) Increases neurotransmitter release
-B) Bases neurotransmitter release
+B) Decreases neurotransmitter release
 C) Increases neuronal excitability
 D) Decreases neuronal excitability
-E) B and D
-F) A and C
+E) Decreases neurotransmitter release and Decreases neuronal excitability
+F) Increases neurotransmitter release and Increases neuronal excitability
 
 6) Which of the following is NOT a central nervous system (CNS) effect of opioids?
 A) Analgesia
