@@ -109,11 +109,11 @@ B) Oligodendrocytes
 C) Ependymal cells
 D) Microglia
 
-24) What is the primary location for ependymomas in adult populations?
+24) What is a common location for ependymomas?
 A) Cerebral white matter
 B) Spinal cord
 C) Midline (pineal and suprasellar)
-D) Periventricular
+D) Cavernous fossa
 
 25) What is the marker for children with cranipharyngiomas?
 A) Beta-catenin mutation "adamantinomatous"
@@ -145,7 +145,7 @@ B) Medulloblastoma
 C) Neuronal/glioneuronal neoplasms
 D) Germ cell tumor
 
-30) Which type of diffuse glioma has a better prognosis due to a better response to treatment and has a diffuse glial with IDH mutation and 1q/19q co-deletion?
+30) Which type of diffuse glioma has a better prognosis due to a better response to treatment and an IDH mutation with 1q/19q co-deletion?
 A) Astrocytoma
 B) Gemistocytic astrocytoma
 C) Oligodendroglioma
