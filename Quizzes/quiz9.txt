@@ -110,7 +110,7 @@ D) Spatial neglect
 A) Agnosia
 B) Prosopagnosia
 C) Wernicke's aphasia
-D) A and B
+D) Agnosia and Prosopagnosia
 
 21) A lesion in the primary visual area (BA 17) could result in:
 A) Hemianopia
@@ -139,25 +139,25 @@ D) The when pathway
 25) A lesion in the primary motor area (BA 4) could result in:
 A) Initial paralysis
 B) Hemiparesis
-C) Both A and B
-D) None of the above
+C) Initial paralysis and Hemiparesis
+D) Tortilini
 
 26) A lesion in the premotor cortex (BA 6) could result in:
 A) Apraxia
 B) Hemiparesis
-C) Both A and B
+C) Apraxia and Hemiparesis
 D) None of the above
 
 27) A lesion in the supplementary motor cortex (BA 6) could result in:
 A) Apraxia
 B) Deficits in learning skilled movements
-C) Both A and B
+C) Apraxia and Deficits in learning skilled movements
 D) None of the above
 
 28) A lesion in the frontal eye field (BA 8) could result in:
 A) Ipsilateral gaze deficit
 B) Contralateral gaze deficit
-C) Both A and B
+C) Ipsilateral gaze deficit and Contralateral gaze deficit
 D) None of the above
 
 29) A lesion in Broca's area (BA 44/45) could result in:
@@ -169,7 +169,7 @@ D) Anomic aphasia
 30) The limbic region of the frontal lobe is involved in:
 A) Social interactions
 B) Emotion regulation
-C) Both A and B
+C) Social interactions and Emotion regulation
 D) None of the above
 
 31) The prefrontal cortex is responsible for:
@@ -193,14 +193,12 @@ D) Semantic reasoning
 34) The primary sensory areas are responsible for:
 A) Receiving input from thalamic sensory relay nuclei
 B) Mapping sensory information from the periphery onto the cortex
-C) Both A and B
-D) None of the above
+C) Both 
 
 35) The primary motor areas are responsible for:
 A) Giving rise to the corticospinal tract
 B) Mediating movement of the body related to reaching and grasping
-C) Both A and B
-D) None of the above
+C) Both 
 
 36) What is somatotopy?
 A) The mapping of the body onto the brain
@@ -223,20 +221,17 @@ D) None of the above
 39) Lesions in the superior parietal lobule (BA 5 and 7) could result in:
 A) Astereognosis
 B) Difficulty in locating body parts in space
-C) Both A and B
-D) None of the above
+C) Both 
 
 40) Lesions in the right inferior parietal lobule could result in:
 A) Left spatial neglect
 B) Anosognosia for hemiplegia
-C) Both A and B
-D) None of the above
+C) Both 
 
 41) Lesions in the left inferior parietal lobule could result in:
 A) Apraxia
 B) Gerstmann's syndrome
-C) Both A and B
-D) None of the above
+C) Both
 
 42) Lesions in the primary auditory area (BA 41/42) could result in:
 A) Partial deafness
@@ -253,14 +248,12 @@ D) None of the above
 44) Lesions in the inferior temporal lobe could result in:
 A) Agnosia
 B) Prosopagnosia
-C) Both A and B
-D) None of the above
+C) Both
 
 45) Lesions in the primary visual area (BA 17) could result in:
 A) Hemianopia
 B) Quadrantanopia
-C) Both A and B
-D) None of the above
+C) Both
 
 46) Lesions in BA 18/19 could result in:
 A) Hallucinations
@@ -271,23 +264,20 @@ D) All of the above
 47) Lesions in the primary motor area (BA 4) could result in:
 A) Initial paralysis
 B) Hemiparesis
-C) Both A and B
-D) None of the above
+C) Both 
 
 48) Lesions in the premotor cortex (BA 6) could result in:
 A) Apraxia
 B) Hemiparesis
-C) Both A and B
-D) None of the above
+C) Both 
 
 49) Lesions in the supplementary motor cortex (BA 6) could result in:
 A) Apraxia
 B) Deficits in learning skilled movements
-C) Both A and B
-D) None of the above
+C) Both 
 
 50) Lesions in the frontal eye field (BA 8) could result in:
 A) Ipsilateral gaze deficit
 B) Contralateral gaze deficit
-C) Both A and B
-D) None of the above
+C) Both
+

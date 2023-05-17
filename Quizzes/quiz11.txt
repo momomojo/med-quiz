@@ -56,7 +56,7 @@ D) The window of time for optimal brain cell regeneration
 A) In mild TBI cases
 B) In cases with a GCS score below 8 and penetrating TBI
 C) In cases with extensive facial injuries
-D) Both B and C
+D) In cases with a GCS score below 8 and penetrating TBI and In cases with extensive facial injuries
 
 11) Which of the following is NOT a factor in evaluating TBI severity?
 A) Glasgow Coma Scale (GCS) score
@@ -178,7 +178,7 @@ A) To prevent seizures within the first 7 days
 B) To prevent epilepsy after 7 days
 C) To promote brain healing
 D) To reduce intracranial pressure
-E) Both A and B
+E) To prevent seizures within the first 7 days and To prevent epilepsy after 7 days
 
 33) Which of the following medications is harmful in TBI management?
 A) Steroids

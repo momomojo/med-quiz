@@ -27,6 +27,7 @@ A) The former is easier to remove than the latter.
 B) The former is more common in children than the latter.
 C) The former is a grade III tumor while the latter is a grade II tumor.
 D) The former is a grade I tumor while the latter is a grade II tumor.
+E) The former is a grade I tumor, which is easier to remove, while the latter is a grade II tumor which is comparatively more difficult to remove
 
 6) What is the most common primary malignant CNS tumor?
 A) Astrocytoma
@@ -50,11 +51,11 @@ D) Gemistocytic astrocytomas are a type of astrocytoma that is likely to progres
 A) Atypical meningioma
 B) Anaplastic/malignant meningioma
 C) Transitional meningioma
-D) None of the above
+D) Milk
 
 10) What is the primary location for ependymomas in pediatric populations?
 A) Cerebral white matter
-B) Spinal cord
+B) Cortex
 C) Midline (pineal and suprasellar)
 D) Periventricular
 
@@ -62,13 +63,7 @@ D) Periventricular
 A) Astrocytoma
 B) Oligodendroglioma
 C) Ependymoma
-D) All of the above
-
-12) What is the genetic marker for primary glioblastoma?
-A) EGFR mutation
-B) TP53 mutation
-C) IDH1/2 mutation
-D) 1q/19q co-deletion
+D) All of them
 
 13) Which tumor type is most common in adults?
 A) Medulloblastoma
@@ -82,29 +77,12 @@ B) Meningioma
 C) Ependymoma
 D) Posterior fossa neoplasms
 
-15) Which type of diffuse glioma has a better prognosis due to better response to treatment?
-A) Oligodendroglioma
-B) Astrocytoma
-C) Gemistocytic astrocytoma
-D) None of the above
-
 16) What is the difference between a well-circumscribed astrocytoma and an anaplastic astrocytoma?
 A) The former is a grade II tumor while the latter is a grade III tumor.
 B) The former is easier to remove than the latter.
 C) The former is a type of oligodendroglioma while the latter is a type of astrocytoma.
 D) The former is a type of ependymoma while the latter is a type of glioblastoma.
-
-17) Which type of brain tumor is most commonly a metastasis?
-A) Medulloblastoma
-B) Meningioma
-C) Glioblastoma
-D) None of the above
-
-18) What is the most common type of adult brain tumor?
-A) Meningioma
-B) Astrocytic neoplasms
-C) Metastasis
-D) Pilocytic astrocytoma
+E) The former is a grade I tumor and easier to remove while the latter is a grade III tumor.
 
 19) What are the four prognostic groups for medulloblastoma?
 A) WNT (beta-catenin) mutation, SHH mutation, group 3, group 4
@@ -117,6 +95,7 @@ A) EGFR mutation
 B) TP53 mutation
 C) IDH1/2 mutation
 D) 1q/19q co-deletion
+E) TP53 mutation and IDH1/2 mutation
 
 21) Which type of tumor has a cyst with a mural nodule and is commonly found in the posterior fossa of children?
 A) Medulloblastoma
@@ -125,12 +104,6 @@ C) Ependymoma
 D) Pilocytic astrocytoma
 
 22) Which glial cell type is the most numerous in the CNS and controls the BBB and blood flow?
-A) Astrocytes
-B) Oligodendrocytes
-C) Ependymal cells
-D) Microglia
-
-23) Which glial cell type myelinates nerves of the CNS?
 A) Astrocytes
 B) Oligodendrocytes
 C) Ependymal cells
@@ -148,7 +121,7 @@ B) BRAF V600E mutation "papillary"
 C) TP53 mutation
 D) IDH1/2 mutation
 
-26) Which type of tumor is highly malignant, found in young children, and presents similarly to medulloblastoma?
+26) Which type of tumor is highly malignant, found in young children, and presents similarly to medulloblastoma and is marked by the INI1 protein?
 A) AT/RT
 B) PNET
 C) Germ cell tumor
@@ -178,42 +151,11 @@ B) Gemistocytic astrocytoma
 C) Oligodendroglioma
 D) Ependymoma
 
-
-31) Which cell type is the most numerous in the central nervous system?
-A) Oligodendrocytes
-B) Astrocytes
-C) Ependymal cells
-D) Microglia
-
-32) Which glial cell type myelinates nerves in the central nervous system?
-A) Astrocytes
-B) Oligodendrocytes
-C) Microglia
-D) Ependymal cells
-
 33) What is the function of ependymal cells in the central nervous system?
 A) Myelination
 B) Blood-brain barrier control
 C) Cerebrospinal fluid homeostasis and waste clearance
 D) Immune defense
-
-34) What are the three types of glioma?
-A) Astrocytoma, oligodendroglioma, and ependymoma
-B) Astrocytoma, neuroblastoma, and oligodendroglioma
-C) Ependymoma, oligodendroglioma, and neuroblastoma
-D) Astrocytoma, oligodendroglioma, and glioblastoma
-
-35) Which type of brain tumor is most common in children?
-A) Oligodendroglioma
-B) Ependymoma
-C) Astrocytic neoplasms
-D) Posterior fossa neoplasms
-
-36) What is the grading system for brain tumors?
-A) I and II are high grade, III and IV are low grade
-B) I and II are low grade, III and IV are high grade
-C) I and III are low grade, II and IV are high grade
-D) I and III are high grade, II and IV are low grade
 
 37) What are the high-grade indications for brain tumors?
 A) Calcification and cyst formation
@@ -221,41 +163,23 @@ B) Presence of psammoma bodies and intranuclear pseudoinclusions
 C) Mitotic activity, vascular proliferation, and necrosis
 D) Whorls and cystic appearance
 
-38) What is the genetic marker for primary glioblastoma?
-A) IDH1/2 mutation
-B) TP53 mutation
-C) EGFR mutation
-D) BRAF V600E mutation
-
-39) What is the genetic marker for secondary glioblastoma?
-A) IDH1/2 mutation
-B) TP53 mutation
-C) EGFR mutation
-D) BRAF V600E mutation
-
 40) What is the survival rate for primary glioblastoma?
 A) 1-2 years
 B) 2-3 years
 C) 3-4 years
 D) More than 5 years
 
-41) Which gene is associated with resistance to TMZ treatment?
+41) Which gene is associated with resistance to TMZ treatment but better response if its methylated?
 A) EGFR gene
 B) TP53 gene
 C) IDH1/2 gene
 D) MGMT gene
 
 42) What are the different types of Germ Cell Tumors?
-A) Midline pineal and suprasellar mass in child or young adult
+A) Midline: pineal and suprasellar mass in child or young adult
 B) Metastasis to the brain
 C) Bone/soft tissue CNS neoplasm
 D) Skull base mass
-
-43) What is the most common type of Meningioma?
-A) Atypical meningioma (g2)
-B) Anaplastic/malignant meningioma (g3)
-C) Transitional meningioma (grade I)
-D) None of the above
 
 44) What are the characteristic features of Meningioma?
 A) Whorls, psammoma bodies, intranuclear pseudoinclusions
@@ -264,7 +188,7 @@ C) Butterfly lesion with ring enhancements
 D) Large cell type
 
 45) What are the poor prognostic findings associated with Meningioma?
-A) Brain invasion, high proliferation index, loss of progesterone receptor expression
+A) Brain invasion, high proliferation index, loss of progesterone receptor expression, and necrosis
 B) Mitotic activity, vascular proliferation, necrosis
 C) IDH mutation, 1q/19q co-deletion
 D) Loss of INI1 protein
@@ -281,35 +205,11 @@ B) Meningioma
 C) Oligodendroglioma
 D) Ependymoma
 
-48) What is the most common type of meningioma?
-A) Transitional meningioma
-B) Atypical meningioma
-C) Anaplastic/malignant meningioma
-D) All types are equally common
-
-49) What are the poor prognostic findings in meningioma?
-A) Brain invasion
-B) High proliferation index
-C) Loss of progesterone receptor expression
-D) All of the above
-
 50) What is the location of a craniopharyngioma?
 A) Cerebral hemisphere
 B) Pineal gland
 C) Sellar region (located at pituitary gland)
 D) Spinal cord
-
-51) From which embryonic structure do craniopharyngiomas arise?
-A) Neural crest
-B) Rathke's pouch (epithelial cells)
-C) Notochord
-D) Somites
-
-52) What is the genetic marker for craniopharyngiomas in children?
-A) BRAF V600E mutation “papillary”
-B) Beta-catenin mutation "adamantinomatous"
-C) IDH1/2 mutation
-D) TP53 mutation
 
 53) What is the genetic marker for craniopharyngiomas in adults?
 A) BRAF V600E mutation “papillary”
@@ -321,7 +221,7 @@ D) TP53 mutation
 A) Glioblastoma
 B) Metastatic carcinoma
 C) Craniopharyngioma
-D) Both A and B
+D) Glioblastoma or a Metastatic carcinoma
 
 55) What are the common comorbidities associated with DLBCL?
 A) Hypertension and obesity
@@ -329,54 +229,27 @@ B) HIV and EBV
 C) Diabetes and heart disease
 D) Asthma and allergies
 
-56) What is the location of Germ Cell Tumors?
-A) In the cerebral hemisphere
-B) In the cerebellar vermis
-C) In the pineal and suprasellar region
-D) In the spinal cord
-
 57) How are Germ Cell Tumors typically treated?
 A) Surgery
 B) Radiation therapy
 C) Chemotherapy
 D) Resection is not needed
+E) Radiation therapy becuase resection is not needed
+F) Chemotherapy because resection is not needed
+G) Resection
 
-58) What is the differential diagnosis for a bone/soft tissue CNS neoplasm?
+58) What is the differential diagnosis for a bone/soft tissue CNS neoplasm which could be a chordoma or chondrosarcoma?
 A) Posterior fossa neoplasms
 B) Intracranial tumors
 C) Skull base mass
 D) Supratentorial PNET
-
-59) What is the characteristic appearance of a Craniopharyngioma?
-A) Butterfly lesion with ring enhancements
-B) Fried egg appearance
-C) Motor oil-like cystic appearance
-D) Whorls and psammoma bodies
-
-60) Which type of brain tumor is associated with the characteristic "fried egg" appearance?
-A) Glioblastoma
-B) Meningioma
-C) Ependymoma
-D) Oligodendroglioma
-
-61) Which gene mutation is commonly found in IDH-mutant diffuse gliomas?
-A) BRAF V600E mutation
-B) TP53 mutation
-C) EGFR mutation
-D) 1p/19q co-deletion
 
 62) What is the hallmark mutation found in pilocytic astrocytoma?
 A) BRAF V600E mutation
 B) TP53 mutation
 C) BRAF fusion
 D) EGFR mutation
-E) Both A and D
-
-63) What is the characteristic feature of a central neurocytoma?
-A) Midline pineal and suprasellar mass in child or young adult
-B) Calcification and cyst formation
-C) Butterfly lesion with ring enhancements
-D) Intraventricular mass with neuronal differentiation
+E) BRAF V600E mutation and BRAF fusion
 
 64) Which type of brain tumor is associated with Rosenthal fibers?
 A) Oligodendroglioma
@@ -384,55 +257,19 @@ B) Astrocytoma
 C) Medulloblastoma
 D) Pilocytic astrocytoma
 
-65) What is the characteristic histological feature of a hemangioblastoma?
-A) Rosenthal fibers
-B) Psammoma bodies
-C) Perivascular pseudorosettes
-D) Homer-Wright rosettes
+65) What is the characteristic genetic marker of a midline glioma with a bad prognosis?
+A) Methylated MGMT
+B) H3 K27M mutaiton
+C) TP53 mutation
+D) IDH1/2 mutation
 
-66) What is the most common site for a hemangioblastoma?
-A) Cerebellum
-B) Frontal lobe
-C) Temporal lobe
-D) Parietal lobe
-
-67) What is the most common primary CNS tumor in adults?
-A) Glioblastoma
-B) Meningioma
-C) Pituitary adenoma
-D) Metastatic carcinoma
-
-68) Which type of brain tumor is associated with the characteristic "butterfly" appearance on imaging?
+68) Which type of brain tumor is associated with the characteristic "butterfly" appearance with ring enhancements on imaging?
 A) Meningioma
 B) Glioblastoma
 C) Oligodendroglioma
 D) Ependymoma
 
-69) Which type of CNS tumor is derived from cells of the embryonic neural crest?
-A) Neurofibroma
-B) Schwannoma
-C) Meningioma
-D) Glioma
-
-70) What is the most common location for a primary CNS lymphoma?
-A) Cerebral hemispheres
-B) Midline pineal and suprasellar region
-C) Peripheral nerves
-D) None of the above
-
-71) Which type of CNS tumor is associated with the characteristic "starry sky" appearance on histology?
-A) Medulloblastoma
-B) Primary CNS lymphoma
-C) Glioblastoma
-D) Oligodendroglioma
-
-72) What is the treatment for primary CNS lymphoma?
-A) Surgery
-B) Chemotherapy
-C) Radiation therapy
-D) All of the above
-
-73) Which type of brain tumor is associated with the characteristic "pseudopalisading" pattern on histology?
+73) Which type of brain tumor is associated with the characteristic "pseudopalisading" necrosis and vascular proliferation pattern on histology?
 A) Glioblastoma
 B) Meningioma
 C) Oligodendroglioma
