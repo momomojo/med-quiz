@@ -25,19 +25,13 @@
     <div class="progress-container">
       <div class="progress-bar" id="progress-bar"></div>
     </div>
-    <h1 id="question" class="quiz-question"></h1>
-    <div id="quiz-select-container"></div>
-    <div id="choices-container"></div>
-    <div id="results" style="display: none;"></div>
-    <button id="restart" style="display: none;">Restart Quiz</button>
+    <!-- Quiz content will be loaded here -->
   </div>
 
-  <!-- Firebase Initialization Script -->
+  <!-- Your project's JavaScript files -->
   <script type="module" src="firebase-config.js"></script>
-
-  <!-- Your custom script files -->
   <script type="module" src="firebase-handler.js"></script>
-  <script type="module" src="ui-handler.js"></script>
   <script type="module" src="quiz.js"></script>
+  <script type="module" src="ui-handler.js"></script>
 </body>
 </html>
