@@ -5,12 +5,12 @@
   <!-- Font Awesome for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-  <!-- Firebase App -->
-  <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-app-compat.js"></script>
+  <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js" type="module"></script>
 
-  <!-- Firebase Realtime Database -->
-  <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-database-compat.js"></script>
-  
+  <!-- Add Firebase products that you want to use -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0//firebase-database.js" type="module"></script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Quiz App</title>
@@ -32,20 +32,32 @@
     <button id="restart" style="display: none;">Restart Quiz</button>
   </div>
 
-  <!-- Move the script tags to the end of the body tag -->
-  <script src="firebase-config.js"></script>
+  <!-- Firebase Initialization Script -->
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.x.x/firebase-app.js';
+    import { getDatabase } from 'https://www.gstatic.com/firebasejs/9.x.x/firebase-database.js';
+
+    // TODO: Replace the following with your app's Firebase project configuration
+    const firebaseConfig = {
+       apiKey: "AIzaSyAEaBNFgOml9ucJGqEb5XcFvqcREswOxv8",
+  authDomain: "med-quiz-353f5.firebaseapp.com",
+  databaseURL: "https://med-quiz-353f5-default-rtdb.firebaseio.com",
+  projectId: "med-quiz-353f5",
+  storageBucket: "med-quiz-353f5.appspot.com",
+  messagingSenderId: "826064878933",
+  appId: "1:826064878933:web:fcd7b216603a9bf1e4c3dc",
+  measurementId: "G-1BZ44ZG8FK"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const database = getDatabase(app);
+  </script>
+
+  <!-- Your custom script files -->
   <script type="module" src="firebase-handler.js"></script>
   <script type="module" src="ui-handler.js"></script>
   <script type="module" src="quiz.js"></script>
-  
-  <script type="module">
-    import { initQuizApp } from './quiz.js';
-  
-    document.addEventListener('DOMContentLoaded', async () => {
-      await firebase.initializeApp(firebaseConfig);
-      console.log('Firebase initialized');
-      await initQuizApp();
-    });
-  </script>
 </body>
 </html>
