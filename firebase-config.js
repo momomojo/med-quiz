@@ -10,6 +10,7 @@ import { getAnalytics } from "firebase/analytics";
 const firebaseConfig = {
   apiKey: "AIzaSyAEaBNFgOml9ucJGqEb5XcFvqcREswOxv8",
   authDomain: "med-quiz-353f5.firebaseapp.com",
+  databaseURL: 'https://med-quiz-353f5-default-rtdb.firebaseio.com/',
   projectId: "med-quiz-353f5",
   storageBucket: "med-quiz-353f5.appspot.com",
   messagingSenderId: "826064878933",
