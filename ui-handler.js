@@ -1,7 +1,6 @@
 // ui-handler.js
 
-import { startQuiz } from './quiz.js'; // Assuming startQuiz function is defined in quiz.js
-import { getQuizNames, updateQuizName, fileExists } from './firebase-handler.js'; // Import necessary functions from firebase-handler.js
+import { getQuizNames, updateQuizName } from './firebase-handler.js'; // Import necessary functions from firebase-handler.js
 
 let quizListPopulated = false;
 let populatingQuizList = false;
@@ -20,16 +19,9 @@ export async function populateQuizList(quizSelectContainer) {
 
     // Iterate through quiz names and populate the quiz list
     for (const quizName in quizNames) {
-        const url = `./Quizzes/${quizName}.txt`;
         const answerKeyURL = `./Quizzes/${quizName}_answer_key.txt`;
-
-        const questionFileExists = await fileExists(url);
-        const answerKeyFileExists = await fileExists(answerKeyURL);
-
-        if (questionFileExists && answerKeyFileExists) {
-            const quizButton = createQuizButton(quizName, quizNames[quizName], answerKeyURL);
-            quizSelectContainer.appendChild(quizButton);
-        }
+        const quizButton = createQuizButton(quizName, quizNames[quizName], answerKeyURL);
+        quizSelectContainer.appendChild(quizButton);
     }
 
     quizListPopulated = true;
@@ -44,4 +36,11 @@ function createQuizButton(quizName, displayName, answerKeyURL) {
     quizButton.onclick = () => startQuiz(quizName, answerKeyURL);
 
     return quizButton;
+}
+
+// Define startQuiz function
+export async function startQuiz(quizName, answerKeyURL) {
+    console.log(`Starting quiz: ${quizName} with answer key URL: ${answerKeyURL}`);
+    // Placeholder for starting the quiz logic
+    // Here, you should implement the logic to display the quiz questions and handle user interactions
 }

@@ -2,7 +2,6 @@
   "name": "med-quiz",
   "version": "1.0.0",
   "description": "",
-  "main": "firebase-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
@@ -12,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.0.0"
+    "parcel": "^2.0.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0"
   }
 }
