@@ -1,10 +1,17 @@
-{"scripts": {
-  "start": "parcel index.html",
-  "build": "parcel build index.html"
+{
+  "name": "med-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firebase-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
 }
-
-
-}
-
-
-
