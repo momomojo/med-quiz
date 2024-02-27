@@ -138,12 +138,19 @@ C) CFTR gene
 D) SOD1 gene
 Correct answer: B) HD gene
 
-22) How many CAG repeats on the HD gene does a patient WITHOUT Huntington's disease typically have?
+22) How many CAG repeats on the HD gene does a patient without Huntington's disease typically have?
 A) Less than 28
 B) Between 28 and 35
 C) Between 36 and 39
 D) 40 or more
 Correct answer: A) Less than 28
+
+23) What makes up the Lentiform nucleus?
+A) Putamen and globus pallidus
+B) Caudate and putamen
+C) Caudate and globus pallidus
+D) Caudate, putamen, and globus pallidus
+Correct answer: A) Putamen and globus pallidus
 
 24) Where does the output from the Striatum go?
 A) External globus pallidus, internal globus pallidus, substantia nigra
